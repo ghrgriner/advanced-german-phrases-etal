@@ -1,0 +1,216 @@
+---------------------------------------
+License for Python code in this package
+---------------------------------------
+The code (*.py files) in this package is licensed under the
+GNU General Public License v3. See LICENSE_GPL_v3_for_py_files.txt
+in the src/ directory for the license.
+
+-------------------------------------------------------------
+License and attribution information for files in input/ and output/ directories.
+-------------------------------------------------------------
+Files in the input/ and output/ directories are made available
+under the CC BY-SA 4.0 license. The same is true for the README.md file
+and documentation on the repository wiki.
+
+URL of a human-readable summary of the CC BY-SA 4.0 license:
+    https://creativecommons.org/licenses/by-sa/4.0/.
+
+URL of the CC BY-SA 4.0 license itself. The summary is not a substitute for the license:
+    https://creativecommons.org/licenses/by-sa/4.0/legalcode.
+
+Note the disclaimer of warranties in the CC BY-SA 4.0 license:
+
+Section 5 – Disclaimer of Warranties and Limitation of Liability.
+
+    Unless otherwise separately undertaken by the Licensor, to the extent
+possible, the Licensor offers the Licensed Material as-is and as-available,
+and makes no representations or warranties of any kind concerning the
+Licensed Material, whether express, implied, statutory, or other. This
+includes, without limitation, warranties of title, merchantability, fitness
+for a particular purpose, non-infringement, absence of latent or other
+defects, accuracy, or the presence or absence of errors, whether or not
+known or discoverable. Where disclaimers of warranties are not allowed in
+full or in part, this disclaimer may not apply to You.
+    To the extent possible, in no event will the Licensor be liable to You
+on any legal theory (including, without limitation, negligence) or
+otherwise for any direct, special, indirect, incidental, consequential,
+punitive, exemplary, or other losses, costs, expenses, or damages arising
+out of this Public License or use of the Licensed Material, even if the
+Licensor has been advised of the possibility of such losses, costs,
+expenses, or damages. Where a limitation of liability is not allowed in
+full or in part, this limitation may not apply to You.
+    The disclaimer of warranties and limitation of liability provided above
+shall be interpreted in a manner that, to the extent possible, most closely
+approximates an absolute disclaimer and waiver of all liability.
+
+--------------
+The text files in this deck may contain example sentences from (1) the
+German-language Wikipedia, (2) the German-language Wiktionary, or
+(3) the English-language Wiktionary. When such sentences are used, a
+reference field is provided that gives the date of the page version that
+was used and a link to that page version.
+
+For reference, we provide below the license information for the three sources
+and some other links they provided with the license text.
+
+German Wiktionary (de.wiktionary.org):
+   "Der Text ist unter der Lizenz Creative Commons Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 Unported verfügbar; zusätzliche Bedingungen können gelten. Einzelheiten sind in den Nutzungsbedingungen beschrieben."
+   - text from 'Creative' to 'Unported' links to:
+            https://creativecommons.org/licenses/by-sa/4.0/deed.de
+     - and the above link provides a link to the legal code at:
+            https://creativecommons.org/licenses/by-sa/4.0/legalcode.de
+   - 'Nutzungsbedingungen' links to:
+            https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/de
+
+German Wikipedia (de.wikipedia.org):
+    "Der Text ist unter der Lizenz „Creative-Commons Namensnennung – Weitergabe unter gleichen Bedingungen“ verfügbar; Informationen zu den Urhebern und zum Lizenzstatus eingebundener Mediendateien (etwa Bilder oder Videos) können im Regelfall durch Anklicken dieser abgerufen werden. Möglicherweise unterliegen die Inhalte jeweils zusätzlichen Bedingungen. Durch die Nutzung dieser Website erklären Sie sich mit den Nutzungsbedingungen und der Datenschutzrichtlinie einverstanden."
+   - text from 'Creative' to 'Bedingungen' links to:
+            https://creativecommons.org/licenses/by-sa/4.0/deed.de
+     - and the above link provides a link to the legal code at:
+            https://creativecommons.org/licenses/by-sa/4.0/legalcode.de
+   - 'Nutzungsbedingungen' links to:
+            https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/de
+   - 'Datenschutzrichtlinie' links to:
+            https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/de
+
+English-language Wiktionary (en.wiktionary.org):
+   "Definitions and other text are available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy."
+   - text from 'Creative' to 'License' links to:
+     - https://creativecommons.org/licenses/by-sa/4.0/
+     - and the above link provides a link to the legal code at:
+            https://creativecommons.org/licenses/by-sa/4.0/legalcode.en
+   - 'Terms of Use' links to:
+     - https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use
+   - 'Privacy Policy' links to:
+     - https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+
+--------------
+Content Wiktionary and Wikipedia Hosts
+
+Please note the following from Wikimedia Terms of Use <https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use> which also applies to the content we extracted into this repository.
+
+"1. You may find some material objectionable or erroneous: Because we host a wide array
+    of content that is produced or gathered by fellow users, you may encounter material
+    that you find offensive, erroneous, misleading, mislabeled, or otherwise objectionable.
+    We therefore ask that you use common sense and proper judgment when using our services.
+ 2. The Projects' content is for general informational purposes only: Although our Projects
+    host a great deal of information that pertains to professional topics, including medical,
+    legal, or financial issues, this content is presented for general informational purposes
+    only. It should not be taken as professional advice. Please seek independent
+    professional counseling from someone who is licensed or qualified in the applicable
+    area in lieu of acting on any information, opinion, or advice contained in one of the
+    Project Websites.
+"
+
+--------------
+Some of the phrases in this repository were extracted from 'Deutsch im Blick' or
+'Grimm Grammar', see 'DiBGG_LICENSE.txt' for license and attribution details.
+The `dib_chapter_list` field in `output/german_phrases_etal.tsv` has the relevant
+chapter(s) and section(s) for vocabulary in either of the two sources.
+The section numbering is provided at: https://github.com/ghrgriner/deutsch-im-blick/wiki/Grammar-Sections-Included-With-Each-Chapter
+
+--------------
+
+Some of the idioms in these sheets were selected based on being
+high-frequency idioms in either the English-language or German-language
+Wiktionaries. The extraction details for these are indicated below in
+indented text below. Note that there are also idioms and other words or phrases
+in this deck that were not selected in this manner. The field `rw_freq`
+indicat
+
+File names in the sections below refer to the repository at: <https://github.com/ghrgriner/german-idiom-freq>.
+In addition, for this repository, we limit the list of idioms to phrases (where the
+headword contains a space). We include high-frequency idioms (where `n_final_1`
+in the idiom output file is >= 10). Low-frequency idioms may or may-not be included.
+in this repository. (For example, we might have encountered a low-frequency idiom
+when consuming media and we added it to our vocabulary list for study and it is now
+in this repository.)
+    
+    --------------
+
+    The `headword` column in input/dewk_redewendungen_and_regex.txt
+    (and the identical column in input/sample_config.txt)
+    is the union of (1) an unmodified list of all entries in the 'Redewendung' category on
+    the German-language Wiktionary retrieved June 18, 2025, and (2) an unmodified list of
+    all entries in the 'German idioms' category on the English-language Wiktionary
+    retrieved July 11, 2025:
+       (1) https://de.wiktionary.org/wiki/Kategorie:Redewendung_(Deutsch)
+       (2) https://en.wiktionary.org/wiki/Category:German_idioms
+
+    List (1) is made available on the German-language Wiktionary under the license
+    "Lizenz Creative Commons Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 Unported",
+    (https://creativecommons.org/licenses/by-sa/4.0/deed.de).
+    List (2) is made available on the English-language Wiktionary under the license
+    "Creative Commons Attribution-ShareAlike License",
+    (https://creativecommons.org/licenses/by-sa/4.0/).
+
+    The `link_de` and `link_en` columns in the file in the output/ directory
+    are transformations of the `headword` column into a URL according to
+    Wiktionary conventions.
+    These links link to the Wiktionary page for an item in list (1) and/or (2), respectively,
+    for each idiom in list (1) and/or (2). From there, a link to a page with authorship history
+    is available.
+
+    --------------
+
+    Creation of the output file uses a corpus (three corpus files) derived from the
+    February 2022 extract of the German-language Wikipedia as created by
+    Philip May, available for download at:
+        https://github.com/GermanT5/wikipedia2corpus
+    with the files themselves at:
+        https://github.com/GermanT5/wikipedia2corpus/releases/download/v1.0/dewiki-20220201-clean-part-01
+        https://github.com/GermanT5/wikipedia2corpus/releases/download/v1.0/dewiki-20220201-clean-part-02
+        https://github.com/GermanT5/wikipedia2corpus/releases/download/v1.0/dewiki-20220201-clean-part-03
+
+    The Wikipedia extract was modified to create the corpus file. Philip May
+    gives this description on the GitHub page linked two paragraphs above:
+    "We use WikiExtractor to extract the Wikipedia database dumps. The texts
+     are split into sentences by using SoMaJo. Each line of the text corpus
+     contains one single sentence. Between each Wikipedia article is a blank line."
+
+    Before using the corpus file in our program we concatenated the three
+    files, unzipped the resulting file, took a 10% sample of lines and sorted
+    the results before saving the output. The saved file then had empty lines
+    removed before processing. Example code is provided in `download_sample.py`,
+    but the key point to document reproducibility is to note that after setting
+    seed=692031 for the random number generator, each line had a random number
+    assigned using `random.random()`. Lines where this value was <= .10 were
+    retained. Python v3.13.3 was used.
+
+    The corpus file was then processed without further modification to generate the
+    counts of matches but the resulting counts were sometimes then corrected
+    to obtain the frequency estimate of each idiom. (See README.md and other
+    project documentation for details.)
+
+    The corpus files are not distributed with this program.
+
+    The corpus and the given extract of Wikipedia on which it is based
+    are published under the Creative Commons Attribution-ShareAlike 3.0 Unported license.
+    (https://de.wikipedia.org/wiki/Wikipedia:Lizenzbestimmungen_Creative_Commons_Attribution-ShareAlike_3.0_Unported)
+
+    URL of a human-readable summary of the CC BY-SA 3.0 unported license:
+        https://creativecommons.org/licenses/by-sa/3.0/.
+
+    URL of the license itself. The summary is not a substitute for the license:
+        https://creativecommons.org/licenses/by-sa/3.0/legalcode.
+
+    Note the disclaimer of warranties in the CC BY-SA 3.0 unported license:
+
+    5. Representations, Warranties and Disclaimer
+
+    UNLESS OTHERWISE MUTUALLY AGREED TO BY THE PARTIES IN WRITING AND TO THE FULLEST
+    EXTENT PERMITTED BY APPLICABLE LAW, LICENSOR OFFERS THE WORK AS-IS AND MAKES NO
+    REPRESENTATIONS OR WARRANTIES OF ANY KIND CONCERNING THE WORK, EXPRESS, IMPLIED,
+    STATUTORY OR OTHERWISE, INCLUDING, WITHOUT LIMITATION, WARRANTIES OF TITLE,
+    MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NONINFRINGEMENT, OR THE ABSENCE
+    OF LATENT OR OTHER DEFECTS, ACCURACY, OR THE PRESENCE OF ABSENCE OF ERRORS, WHETHER
+    OR NOT DISCOVERABLE. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF IMPLIED
+    WARRANTIES, SO THIS EXCLUSION MAY NOT APPLY TO YOU.
+
+    6. Limitation on Liability.
+
+    EXCEPT TO THE EXTENT REQUIRED BY APPLICABLE LAW, IN NO EVENT WILL LICENSOR BE LIABLE
+    TO YOU ON ANY LEGAL THEORY FOR ANY SPECIAL, INCIDENTAL, CONSEQUENTIAL, PUNITIVE OR
+    EXEMPLARY DAMAGES ARISING OUT OF THIS LICENSE OR THE USE OF THE WORK, EVEN IF
+    LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
