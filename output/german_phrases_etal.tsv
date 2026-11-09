@@ -22,7 +22,7 @@ GPM012695	M	vor Stolz platzen	E
 GPM012879	M	ein halbes Prozent; ein halber Prozentpunkt	A														
 GPM013193	M	ein Kind ins Bett stecken	V		jdn ins Bett legen												give phrase
 GPM013253	M	Kinder erziehen	V		die Erziehung										erziehen:PART	9.2	
-GPM013666	M	promoviert sein	A		sie ist genauso wenig promoviert, wie Herr zu Gutenberg												
+GPM013666	M	promoviert sein	A														
 GPM014357	M	im November	A													5.53	
 GPM014735	M	das helle Bier	N												hell:PART		
 GPM015681	M	sein Fasten brechen	V														
@@ -67,6 +67,7 @@ GPM045467	M	Kopf hoch!	E
 GPM046287	M	den Clown spielen	V														
 GPM046607	M	wach halten (jdn) (o. auf halten?)	V														
 GPM047712	M	nehmen wir rein theoretisch an, dass ...	E														
+GPM049455	M	Ärger machen ([jdm])	CW		X hat Ärger gemacht												
 GPM049955	M	ich bin's ...	E												es:PART		
 GPM050575	M	einen grünen Daumen haben	E			HW	einen grünen Daumen haben	https://de.wiktionary.org/wiki/einen_gr%C3%BCnen_Daumen_haben				0	n_idint_0	n_idiom_lt10			
 GPM051670	M	am Morgen; am Vormittag	A													2.52	2: late morning
@@ -286,7 +287,7 @@ GPM182560	M	Butter bei die Fische (ugs)	E		jetzt mal ~	HW	Butter bei die Fische	
 GPM182591	M	bei jdm etwas erreichen	E												erreichen:PART		
 GPM182909	M	im letzten Jahrzehnt	A		im nächsten Jahrzehnt												
 GPM182991	M	jdn/etw ernst nehmen	V														
-GPM185390	M	je ... desto/umso ...	E										n_idint_nan	n_idiom_None			
+GPM185390	M	je ... desto/umso ...	E		je mehr X, desto mehr Y; je mehr Arten, je mehr Nischen								n_idint_nan	n_idiom_None	je:PART		
 GPM185656	M	heilig sprechen (jdn)	V														
 GPM187320	M	nichts Spezielles	E														
 GPM187637	M	das gefüllte Ei	N												?		
@@ -296,7 +297,7 @@ GPM188239	M	das viktorianische Zeitalter	E												?
 GPM189264	M	freie Sitzplatzwahl	E		feste Sitzplätze (also = fixed seats, e.g., as opposed to standing-room)												
 GPM190856	M	Notizen machen	V													3.4	
 GPM191127	M	auf dem Kopf stehen (o. sein)	A														be ~
-GPM191831	M	ein komischer Kauz	E		der Kauz (screech owl)								n_idint_nan	n_idiom_None			
+GPM191831	M	ein komischer Kauz	E		der Kauz (screech owl)								n_idint_nan	n_idiom_None			use indef. article
 GPM192420	M	die Hin- und Rückfahrt	N		der Hin- und Rückflug										?		for bus/train
 GPM192516	M	hier spielt die Musik	E														
 GPM193884	M	sie ist bei ihrer Schwester eingezogen	CW														omit: be~
@@ -313,7 +314,7 @@ GPM198960	M	das geht!	E												gehen:PART
 GPM199047	M	unsere Große; unsere Älteste	N														
 GPM199764	M	soll ich etwas ausrichten?	E												ausrichten:PART		
 GPM201052	M	einer Legende nach; nach einer Legende (o. laut)	CW		einer Legende nach soll X Y getan haben (o. nach einer Legende)												2: same words, diff order
-GPM201564	M	etw auf Bestellung machen	E												die Bestellung:PART		
+GPM201564	M	auf Bestellung machen (etw)	E												die Bestellung:PART		
 GPM201791	M	Schönfärberei betreiben	V														
 GPM203096	M	mit dem Gedanken spielen ZUS	E														
 GPM204310	M	der übertragene Ausdruck (o. bildliche)	N		übertr.										übertragen:PART		omit: Metapher
@@ -495,7 +496,7 @@ GPM328623	M	jdm steckt X in den Knochen	E										n_idint_nan	n_idiom_None
 GPM328655	M	aus allen Nähten platzen (o. aus den ...)	E										n_idint_nan	n_idiom_None			
 GPM328855	M	die finanzielle Hilfe; BAFöG	N												⇐		2: abbr
 GPM329607	M	die Rettung von Menschenleben	E												?		
-GPM330667	M	ein Baby bekommen	V		ein Kind; kriegen												
+GPM330667	M	ein Baby bekommen	V		ein Kind bekommen; ein Baby kriegen												
 GPM331306	M	seine Pforten öffnen	V		seine Pforten schließen												
 GPM331710	M	vor allem	A														
 GPM331769	M	das Für und Wider	E		das ~ abwägen								n_idint_nan	n_idiom_None			
@@ -644,7 +645,7 @@ GPM415106	M	nicht nach Schema F denken	E														omit: über
 GPM415773	M	jdn einer S. [gen] für schuldig befinden	V		jdn eines Mordes für schuldig befinden (o. erklären)										schuldig:PART		
 GPM415820	M	der Teufel steckt im Detail	E												?		
 GPM416979	M	erkältet sein	V		ich bin erkältet												
-GPM417137	M	bis zur Bewusstlosigkeit	CW		X hat ihn bis zur Bewusslosigkeit geschlagen (o. verprügelt / usw.)												see table
+GPM417137	M	bis zur Bewusstlosigkeit	CW		X hat ihn bis zur Bewusstlosigkeit gewürgt												see table
 GPM417347	M	und so weiter; et cetera	A		usw.; etc.												give two words and two abbreviations
 GPM417715	M	Wohin sind wir hier bloß geraten? [deWK]	E														
 GPM418827	M	Mitte der achtziger Jahre (o. der Achtziger)	A		in Mittachtzigern												also give variant that drops a word
@@ -753,7 +754,7 @@ GPM481501	M	vor jdm den Hut ziehen	E
 GPM482859	M	mit verschränkten Armen	E														
 GPM483534	M	das genaue Gegenteil	N		X ist das genaue Gegenteil seines Vaders										?		
 GPM483558	M	auf Englisch	A												auf:PART		
-GPM483725	M	das Leben ist kein Ponyhof	E		das Leben ist kein Wunschkonzert										?		
+GPM483725	M	das Leben ist kein Ponyhof	E												?		
 GPM483772	M	einen Urlaub machen; einen Urlaub nehmen	V														2 diff verbs
 GPM483998	M	das Traurige ist, dass ...	E														
 GPM484315	M	jdm den Spiegel vorhalten	E														
@@ -766,7 +767,7 @@ GPM488615	M	müde werden	V		jdn müde machen (o. jdn ermüden)
 GPM490103	M	meine Damen und Herren	E														
 GPM490319	M	die Schuld an etw haben	E		die Schuld an etw tragen										?		die Schuld ...
 GPM490657	M	unter die Räder kommen (o. geraten)	V										n_idint_nan	n_idiom_None			2 verbs
-GPM490753	M	ohne dass ...	A		Sie hat mir geholfen, ohne dass sie es wusste.										ohne:PART		
+GPM490753	M	ohne dass ...	A		Sie hat mir geholfen, ohne dass sie es wusste. [deWK]										ohne:PART		
 GPM491160	M	ein notwendiges Übel	E														
 GPM491412	M	die Rückkehr zu Normalität	CW														
 GPM491718	M	im Rennen (um etw A) sein/bleiben	E		im Rennen liegen; X wurde von seiner Partei ins Rennen geschickt												
@@ -796,7 +797,6 @@ GPM509672	M	vor Ort	E
 GPM509812	M	das karierte Papier	N												?		
 GPM510579	M	in zwei Tagen	E		in zwei Wochen / Monaten / Jahren												
 GPM511574	M	das Gesicht verziehen	E										n_idint_nan	n_idiom_None	?		
-GPM512058	M	sich die Seele aus dem Leib schreien	E														
 GPM513038	M	sie beide	N														
 GPM513870	M	mit heißer Nadel gestrickt (o. mit der heißen ...)	A			HW	mit heißer Nadel gestrickt	https://de.wiktionary.org/wiki/mit_hei%C3%9Fer_Nadel_gestrickt				0	n_idint_0	n_idiom_lt10			
 GPM513979	M	in geringem Umfang	A														
@@ -954,7 +954,6 @@ GPM597556	M	das Stück Seife	N												?
 GPM598626	M	der bezahlte Feiertag	N		der gesetzliche / nationale / offizielle Feiertag										?		
 GPM598669	M	der X der Mittelklasse	N		ein Wagen der gehobenen Mittelklasse										die Mittelklasse:PART		assume X is masc.
 GPM598902	M	Köpfe rollen	E										n_idint_nan	n_idiom_None			
-GPM599356	M	sich auf der Webseite einloggen	CW		du musst dich auf der Webseite unter www.example.com einloggen (unter ve ve ve Punkt example Punkt com)												see table
 GPM600035	M	Herz Acht	N												Herz:PART		
 GPM600341	M	letze Nacht	A												?		omit: Abend
 GPM600415	M	in Bezug auf A	A														
@@ -1095,6 +1094,7 @@ GPM685848	M	die gemeinnützige Organisation	N												?
 GPM686451	M	einen Preis für etw nennen	V		den Preis für etwas festsetzen												state a price for sth
 GPM687264	M	in den letzten 2 Jahrzehnten	A		in den nächsten 2 Jahrzehnten												
 GPM688707	M	vor der Küste (gen. / von irgendwo)	A		das Schiff sank X Kilometer vor der Küste Spaniens (o. von Spanien)												
+GPM688779	M	sich mit jdm austauschen	V		X tauscht sich mit Y über Z aus												use verb
 GPM690331	M	die geschlossene Ortschaft	CW														
 GPM690751	M	je nach [dat.]; je nachdem	A		je nachdem!; je nachdem, wann / wie / ob; je nach Gegner sind [zwischen 20 und 40 Fans in der Kneipe]; sollen wir das Spiel zusammen sehen? - je nachdem, ob [ich ein Vorlesungsgespräch habe]										je:PART		
 GPM692796	M	die juristische Auseinandersetzung	CW														might also = or legal proceedings
@@ -1119,7 +1119,7 @@ GPM701535	M	die Zeit ist reif (für etw A)	E										n_idint_nan	n_idiom_None	r
 GPM701624	M	scharf auf jdn sein	E												scharf:PART		
 GPM702087	M	den Gürtel enger schnallen	E		das Museum muss ~	HW	den Gürtel enger schnallen	https://de.wiktionary.org/wiki/den_G%C3%BCrtel_enger_schnallen				0	n_idint_0	n_idiom_lt10			
 GPM702810	M	jdm auf der Zunge liegen	E		das liegt mir auf der Zunge; see note	HW	jemandem auf der Zunge liegen	https://de.wiktionary.org/wiki/jemandem_auf_der_Zunge_liegen				4	n_idint_4	n_idiom_lt10	jemandem auf der Zunge liegen:BADX		
-GPM704758	M	ohne ... zu ...	A		Ohne zu grüßen ging er an mir vorbei.										ohne:PART		
+GPM704758	M	ohne ... zu ...	A		Ohne zu grüßen ging er an mir vorbei. [deWK]										ohne:PART		
 GPM704901	M	wie alt bist du?; wie alt sind Sie? (formal)	E													1.8	
 GPM705301	M	jdm Dank schulden	E		ich schulde ihnen Dank												
 GPM705657	M	im Gegensatz zu [dat.]; demgegenüber	A												der Gegensatz:PART; demgegenüber:DE1		
@@ -2196,7 +2196,7 @@ GPG261299	G	etw vom Stapel lassen	RW	ST		HW	etwas vom Stapel lassen	https://de.w
 GPG261703	G	wie ein Ei dem anderen gleichen	RW	DE1O		HW	wie ein Ei dem anderen gleichen	https://de.wiktionary.org/wiki/wie_ein_Ei_dem_anderen_gleichen				0	n_idint_0	n_idiom_lt10			give similar fig. expr
 GPG261923	G	X schert sich den Teufel um etw  (o. einen Teufel)	CW	DE1O									n_idint_nan	n_idiom_None			
 GPG262375	G	hinterher ist man immer schlauer	CW	ST									n_idint_nan	n_idiom_None			
-GPG262403	G	der Motor heulte auf	CW	EN									n_idint_nan	n_idiom_None			
+GPG262403	G	der Motor heulte auf	CW	EN									n_idint_nan	n_idiom_None	aufheulen:PART		
 GPG262531	G	Lerne Ordnung, liebe sie. Sie erspart dir Zeit und Müh'	CW	ST									n_idint_nan	n_idiom_None			
 GPG262756	G	am helllichten Tag	RW	ST		ENHW	am helllichten Tag	https://en.wiktionary.org/wiki/am_helllichten_Tag				10	n_idint_10	n_idiom_10_50			
 GPG262851	G	durch die Finger gleiten (o. seine, o. schlüpfen) (jdm)	CW	DE1O									n_idint_nan	n_idiom_None			
@@ -2242,7 +2242,6 @@ GPG278459	G	Fesseln anlegen (jdn)	CW	ST									n_idint_nan	n_idiom_None
 GPG278653	G	einen Zug bekommen (o. erwischen)	CW	ST									n_idint_nan	n_idiom_None			
 GPG278980	G	X hört auf den Namen X	CW	ST									n_idint_nan	n_idiom_None			
 GPG279561	G	nur eine Nummer sein	RW	DE1O									n_idint_nan	n_idiom_None			
-GPG280220	G	etw gegen die Wand fahren	RW	DE1O									n_idint_nan	n_idiom_None			
 GPG280223	G	etw sein Eigen nennen	RW	DE1O		HW	etwas sein Eigen nennen	https://de.wiktionary.org/wiki/etwas_sein_Eigen_nennen				21	n_idint_21	n_idiom_10_50			
 GPG280740	G	bekannt geben	CW	EN									n_idint_nan	n_idiom_None			
 GPG280757	G	jdn auf den Plan rufen	RW	ST		HW	jemanden auf den Plan rufen	https://de.wiktionary.org/wiki/jemanden_auf_den_Plan_rufen				67	n_idint_67	n_idiom_gt50			
@@ -2290,7 +2289,6 @@ GPG293839	G	ohne Unterlass	RW	DE1O		HW	ohne Unterlass	https://de.wiktionary.org/
 GPG294259	G	im Dunkeln tappen	RW	ST		HW	im Dunkeln tappen	https://de.wiktionary.org/wiki/im_Dunkeln_tappen				7	n_idint_7	n_idiom_lt10			
 GPG294711	G	einen Knall haben	RW	DE1O		HW	einen Knall haben	https://de.wiktionary.org/wiki/einen_Knall_haben				0	n_idint_0	n_idiom_lt10			
 GPG295734	G	durch Zufall	CW	ST									n_idint_nan	n_idiom_None			
-GPG295801	G	sich in etw verstricken (o. jdn)	V	DE1									n_idint_nan	n_idiom_None			
 GPG296143	G	erotische Ausstrahlung	CW	DE1									n_idint_nan	n_idiom_None			
 GPG297148	G	dingfest machen (etw)	CW	DE1O									n_idint_nan	n_idiom_None			
 GPG297187	G	X musste Y gewesen sein	CW	EN									n_idint_nan	n_idiom_None			
@@ -2313,6 +2311,7 @@ GPG304552	G	Pfeifen im Walde	RW	EN									n_idint_nan	n_idiom_None
 GPG305057	G	den Daumen senken	CW	ST									n_idint_nan	n_idiom_None			
 GPG305594	G	Stein des Anstoßes	RW	EN		HW	Stein des Anstoßes	https://de.wiktionary.org/wiki/Stein_des_Ansto%C3%9Fes				11	n_idint_11	n_idiom_10_50			
 GPG305822	G	jdm jdn zur Seite stellen (o. an die Seite)	CW	EN									n_idint_nan	n_idiom_None			
+GPG306074	G	sich die Seele aus dem Leib schreien	RW	ST									n_idint_nan	n_idiom_None			
 GPG306228	G	auf der Zunge zergehen	RW	ST									n_idint_nan	n_idiom_None			
 GPG306708	G	die gesetzliche Krankenversicherung	CW	ST									n_idint_nan	n_idiom_None			
 GPG306757	G	etw zu Protokoll geben	RW	ST									n_idint_nan	n_idiom_None			
@@ -2362,6 +2361,7 @@ GPG328691	G	jdm Avancen machen	RW	ST		HW	jemandem Avancen machen	https://de.wikt
 GPG328874	G	in Konkurrenz zu etw treten	CW	ST									n_idint_nan	n_idiom_None			
 GPG329189	G	jdn mundtot machen	RW	ST		HW	jemanden mundtot machen	https://de.wiktionary.org/wiki/jemanden_mundtot_machen				18	n_idint_18	n_idiom_10_50			
 GPG329320	G	in den Hintergrund treten; in den Hintergrund drängen	RW	ST									n_idint_nan	n_idiom_None			
+GPG330151	G	bekannt machen (jdn)	CW	ST									n_idint_nan	n_idiom_None			
 GPG331436	G	jdm nicht in die Augen sehen können	CW	ST									n_idint_nan	n_idiom_None			
 GPG331535	G	Hab und Gut	CW	ST									n_idint_nan	n_idiom_None			
 GPG331837	G	jdm/etw auf die Spur kommen	CW	DE1O									n_idint_nan	n_idiom_None			
@@ -2392,6 +2392,7 @@ GPG344095	G	der Berg kreißte und gebar eine Maus	RW	EN									n_idint_nan	n_id
 GPG344097	G	urkundlich erwähnt werden	CW	EN									n_idint_nan	n_idiom_None	urkundlich:PART		
 GPG345078	G	Augen machen	CW	DE1O									n_idint_nan	n_idiom_None			
 GPG345206	G	bei Gelegenheit	A	DE1O									n_idint_nan	n_idiom_None			
+GPG345537	G	jdm die Gefolgschaft verweigern	CW	ST									n_idint_nan	n_idiom_None			
 GPG345646	G	Regierender Bürgermeister	N	ST									n_idint_nan	n_idiom_None			
 GPG346527	G	von der Steuer absetzen (etw)	RW	ST		HW	von der Steuer absetzen	https://de.wiktionary.org/wiki/von_der_Steuer_absetzen				4	n_idint_4	n_idiom_lt10			
 GPG347782	G	auf dem bestem Weg (zu)	CW	ST									n_idint_nan	n_idiom_None			
@@ -2851,7 +2852,7 @@ GPG534956	G	sich ein Tattoo stechen lassen	CW	ST									n_idint_nan	n_idiom_Non
 GPG535472	G	mit Vorliebe	CW	ST									n_idint_nan	n_idiom_None	die Vorliebe:PART		
 GPG535542	G	worauf ich eigentlich hinauswollte, ist ...	CW	EN									n_idint_nan	n_idiom_None			fig: hin~
 GPG535628	G	eine Laune haben	CW	ST									n_idint_nan	n_idiom_None			
-GPG535778	G	in die Gewinnzone zurückkehren	CW	EN									n_idint_nan	n_idiom_None			
+GPG535778	G	in die Gewinnzone zurückkehren	CW	EN									n_idint_nan	n_idiom_None			verb phrase
 GPG535847	G	strafrechtlich verfolgen (jdn/etw)	V	ST									n_idint_nan	n_idiom_None	verfolgen:PART		
 GPG536374	G	die Mannschaft aufstellen	V	ST									n_idint_nan	n_idiom_None			
 GPG537631	G	mitgegangen, mitgefangen	CW	ST		HW	mitgegangen, mitgefangen	https://de.wiktionary.org/wiki/mitgegangen%2C_mitgefangen				0	n_idint_0	n_idiom_lt10			
@@ -2937,7 +2938,7 @@ GPG569405	G	sein Leben lassen	RW	DE1		HW	sein Leben lassen	https://de.wiktionary
 GPG569764	G	hoch hinauswollen	CW	DE1O									n_idint_nan	n_idiom_None			
 GPG569869	G	gerade eben	A	ST									n_idint_nan	n_idiom_None			
 GPG569974	G	jdm sein Wort geben	CW	EN									n_idint_nan	n_idiom_None			
-GPG570349	G	das Geld für etw auftreiben	V	ST									n_idint_nan	n_idiom_None			
+GPG570349	G	das Geld für etw auftreiben	V	ST									n_idint_nan	n_idiom_None	auftreiben:PART		
 GPG570892	G	der Fürst der Finsternis	CW	EN									n_idint_nan	n_idiom_None			
 GPG571053	G	in Ohnmacht fallen	E	DE1O									n_idint_nan	n_idiom_None			
 GPG571130	G	an vorderster Front	CW	EN									n_idint_nan	n_idiom_None			
@@ -3014,7 +3015,7 @@ GPG598153	G	der Täuschung erliegen, dass ...; jd gibt sich der Täuschung hin, 
 GPG598811	G	sich in Szene setzen	RW	ST		HW	sich in Szene setzen	https://de.wiktionary.org/wiki/sich_in_Szene_setzen				37	n_idint_37	n_idiom_10_50			
 GPG598894	G	Grüne Soße mit Eiern	CW	ST									n_idint_nan	n_idiom_None			
 GPG599932	G	der Mittlere Schulabschluss	CW	ST									n_idint_nan	n_idiom_None			
-GPG600970	G	sich um etw sorgen (o. sich sorgen)	V	DE1									n_idint_nan	n_idiom_None			
+GPG600970	G	sich um etw sorgen (o. sich sorgen)	V	DE1									n_idint_nan	n_idiom_None	sorgen:PART		
 GPG601460	G	Alarm schlagen	RW	EN		ENHW	Alarm schlagen	https://en.wiktionary.org/wiki/Alarm_schlagen				19	n_idint_19	n_idiom_10_50	der Alarm:PART		
 GPG602011	G	etw aus der Taufe heben	RW	ST		HW	etwas aus der Taufe heben	https://de.wiktionary.org/wiki/etwas_aus_der_Taufe_heben				82	n_idint_82	n_idiom_gt50			
 GPG602857	G	einen Deal haben	CW	ST									n_idint_nan	n_idiom_None			
@@ -3178,7 +3179,7 @@ GPG670065	G	in Anwesenheit	CW	ST									n_idint_nan	n_idiom_None
 GPG671967	G	jdn aus der Reserve locken	RW	EN									n_idint_nan	n_idiom_None			
 GPG672056	G	der ruhende Pol	RW	ST									n_idint_nan	n_idiom_None			
 GPG673064	G	Schritt halten ([mit etw])	RW	EN		ENHW	mit etwas Schritt halten	https://en.wiktionary.org/wiki/mit_etwas_Schritt_halten				66	n_idint_66	n_idiom_gt50			
-GPG673284	G	seinen Ruf ruinieren	CW	ST									n_idint_nan	n_idiom_None			
+GPG673284	G	seinen Ruf ruinieren	CW	ST									n_idint_nan	n_idiom_None	ruinieren:PART		
 GPG673344	G	sich im Urlaub befinden	CW	ST									n_idint_nan	n_idiom_None			
 GPG674156	G	jdn überkommt die Lust ZUS	CW	ST									n_idint_nan	n_idiom_None			
 GPG674482	G	aufgeschoben ist nicht aufgehoben	CW	ST									n_idint_nan	n_idiom_None			
@@ -3606,6 +3607,7 @@ GPG840792	G	Hand in Hand	RW	ST									n_idint_nan	n_idiom_None
 GPG841102	G	jdm geht etw durch den Kopf	RW	ST									n_idint_nan	n_idiom_None			
 GPG841681	G	ein Zeichen für/gegen etw setzen	A	ST									n_idint_nan	n_idiom_None			
 GPG841757	G	Sie sind falsch verbunden	E	EN									n_idint_nan	n_idiom_None	verbinden:PART		
+GPG842130	G	in Wechselwirkung treten	CW	ST									n_idint_nan	n_idiom_None			NVV
 GPG843916	G	damit ist keinen Blumentopf zu gewinnen	RW	DE1O									n_idint_nan	n_idiom_None			
 GPG844215	G	jds Fantasie anregen	CW	ST									n_idint_nan	n_idiom_None			
 GPG844436	G	jdm das Wort erteilen	RW	ST									n_idint_nan	n_idiom_None			
@@ -3643,6 +3645,7 @@ GPG857943	G	das Heft aus der Hand nehmen	RW	EN									n_idint_nan	n_idiom_None
 GPG858288	G	auf die Schnelle	RW	ST		HW	auf die Schnelle	https://de.wiktionary.org/wiki/auf_die_Schnelle				10	n_idint_10	n_idiom_10_50			
 GPG858290	G	ein für alle Mal	RW	ST		HW	ein für alle Mal	https://de.wiktionary.org/wiki/ein_f%C3%BCr_alle_Mal				34	n_idint_34	n_idiom_10_50			
 GPG858396	G	einen anderen Weg einschlagen	RW	ST									n_idint_nan	n_idiom_None			
+GPG859194	G	das Leben ist kein Wunschkonzert	RW	ST									n_idint_nan	n_idiom_None			
 GPG859258	G	ins Chaos stürzen; im Chaos versinken	CW	ST									n_idint_nan	n_idiom_None	stürzen:PART; versinken:PART		
 GPG859300	G	jdm Rede und Antwort stehen; jdn zur Rede stellen	RW	ST		HW	jemandem Rede und Antwort stehen	https://de.wiktionary.org/wiki/jemandem_Rede_und_Antwort_stehen	HW	jemanden zur Rede stellen	https://de.wiktionary.org/wiki/jemanden_zur_Rede_stellen	15	n_idint_15	n_idiom_10_50			
 GPG859654	G	in der Hölle schmoren	CW	EN									n_idint_nan	n_idiom_None			
@@ -3749,7 +3752,7 @@ GPG902009	G	Dreh- und Angelpunkt	RW	ST		HW	Dreh- und Angelpunkt	https://de.wikti
 GPG902938	G	einer Einladung folgen	RW	ST									n_idint_nan	n_idiom_None			
 GPG903091	G	recht haben	A	ST									n_idint_nan	n_idiom_None			
 GPG903725	G	jdm/etw zu Opfer fallen	CW	ST									n_idint_nan	n_idiom_None			
-GPG903930	G	am Ende des Tages	RW	ST		HW	am Ende des Tages	https://de.wiktionary.org/wiki/am_Ende_des_Tages				12	n_idint_12	n_idiom_10_50			
+GPG903930	G	am Ende des Tages	RW	EN		HW	am Ende des Tages	https://de.wiktionary.org/wiki/am_Ende_des_Tages				12	n_idint_12	n_idiom_10_50			
 GPG904019	G	etw steht auf der Kippe	RW	DE1O		HW	auf der Kippe stehen	https://de.wiktionary.org/wiki/auf_der_Kippe_stehen				15	n_idint_15	n_idiom_10_50			etw steht auf ...
 GPG904138	G	jdm etw auf den Leib schreiben	RW	ST									n_idint_nan	n_idiom_None			
 GPG904285	G	Schluss machen	RW	ST									n_idint_nan	n_idiom_None			
@@ -3933,7 +3936,7 @@ GPG969227	G	feuchte Augen	CW	ST									n_idint_nan	n_idiom_None	feucht:PART
 GPG969561	G	zwei Seiten einer Medaille	RW	ST									n_idint_nan	n_idiom_None			
 GPG969609	G	diebische Freude	CW	ST									n_idint_nan	n_idiom_None			
 GPG969629	G	jdn zur Strecke bringen	RW	ST		HW	jemanden zur Strecke bringen	https://de.wiktionary.org/wiki/jemanden_zur_Strecke_bringen				52	n_idint_52	n_idiom_gt50			
-GPG969860	G	von Idioten umzingelt sein	CW	ST									n_idint_nan	n_idiom_None			
+GPG969860	G	von Idioten umzingelt sein	CW	ST									n_idint_nan	n_idiom_None	umzingeln:PART		
 GPG969979	G	dein Wort in Gottes Ohr!	E	ST									n_idint_nan	n_idiom_None			
 GPG971391	G	im Vorfeld ([einer S.])	A	EN									n_idint_nan	n_idiom_None	das Vorfeld:PART		
 GPG971419	G	etw über den Haufen werfen	RW	ST		HW	etwas über den Haufen werfen	https://de.wiktionary.org/wiki/etwas_%C3%BCber_den_Haufen_werfen				6	n_idint_6	n_idiom_lt10			
@@ -4017,7 +4020,7 @@ GPG996310	G	bitte machen Sie schnell!	I	DE1O									n_idint_nan	n_idiom_None	�
 GPG997548	G	Gas geben	RW	ST		HW	Gas geben	https://de.wiktionary.org/wiki/Gas_geben				72	n_idint_72	n_idiom_gt50			
 GPG997701	G	zwischen die Fronten geraten	RW	ST		HW	zwischen die Fronten geraten	https://de.wiktionary.org/wiki/zwischen_die_Fronten_geraten				44	n_idint_44	n_idiom_10_50			
 GPG997756	G	mit Fleiß	RW	DE1O		HW	mit Fleiß	https://de.wiktionary.org/wiki/mit_Flei%C3%9F				11	n_idint_11	n_idiom_10_50			
-GPG998597	G	Zeit einbringen	CW	ST									n_idint_nan	n_idiom_None			
+GPG998597	G	Zeit einbringen	CW	ST									n_idint_nan	n_idiom_None	einbringen:PART		
 GPG998733	G	jdm/etw eine Abfuhr erteilen	RW	DE1O		HW	jemandem eine Abfuhr erteilen	https://de.wiktionary.org/wiki/jemandem_eine_Abfuhr_erteilen				6	n_idint_6	n_idiom_lt10			
 GPG998786	G	den Rest geben (jdm)	RW	DE1O		HW	den Rest geben	https://de.wiktionary.org/wiki/den_Rest_geben				31	n_idint_31	n_idiom_10_50			
 GPG998968	G	Halt machen	CW	ST									n_idint_nan	n_idiom_None			
