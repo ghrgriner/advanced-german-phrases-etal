@@ -58,7 +58,7 @@ Note that the sentences are transformed into two parts: (a) a template where sel
 are replaced by '___', '_____', or '________' and (b) the answer that contains the
 replaced words (delimited by '...').
 
-For reference, we provide below the license information for the three sources (1)-(3)
+For reference, we provide below the license information for the sources (1)-(3)
 and some other links they provided with the license text.
 
 German Wiktionary (de.wiktionary.org):
