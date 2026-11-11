@@ -44,13 +44,21 @@ shall be interpreted in a manner that, to the extent possible, most closely
 approximates an absolute disclaimer and waiver of all liability.
 
 --------------
-The text files in this deck may contain example sentences from (1) the
-German-language Wikipedia, (2) the German-language Wiktionary, or
-(3) the English-language Wiktionary. When such sentences are used, a
-reference field is provided that gives the date of the page version that
-was used and a link to that page version.
+The text files in this deck may contain example sentences from:
+  (1) the German-language Wikipedia,
+  (2) the German-language Wiktionary,
+  (3) the English-language Wiktionary, or
+  (4) Project Gutenberg.
 
-For reference, we provide below the license information for the three sources
+For (1)-(3), when such sentences are used, reference fields are provided
+that gives the date of the page version that was used and a link to that page
+version. For (4), the retrieval date is provided and a link to the page.
+
+Note that the sentences are transformed into two parts: (a) a template where selected words
+are replaced by '___', '_____', or '________' and (b) the answer that contains the
+replaced words (delimited by '...').
+
+For reference, we provide below the license information for the three sources (1)-(3)
 and some other links they provided with the license text.
 
 German Wiktionary (de.wiktionary.org):
@@ -116,7 +124,7 @@ high-frequency idioms in either the English-language or German-language
 Wiktionaries. The extraction details for these are indicated below in
 indented text below. Note that there are also idioms and other words or phrases
 in this deck that were not selected in this manner. The field `rw_freq`
-indicat
+is non-empty for notes included in this frequency analysis.
 
 File names in the sections below refer to the repository at: <https://github.com/ghrgriner/german-idiom-freq>.
 In addition, for this repository, we limit the list of idioms to phrases (where the

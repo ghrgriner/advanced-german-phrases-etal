@@ -1,9 +1,11 @@
 # Overview
 
 This is a small repository with a text file (deck) of advanced German phrases
+(n = ~4000)
 for learners of German. Currently, we haven't added translations
-or example sentences to this public deck, but we might do so in the future.
-Until then, an AI will have to do for interested users.
+or to this public deck, but we might do so in the future. There are over 1000
+example sentences. We may continue to add such sentences, but until then, an
+AI will have to suffice for interested users.
 
 Two subsets of notes are worth highlighting:
 
@@ -34,12 +36,11 @@ details for Wiktionary, Deutsch im Blick, Grimm Grammar, and for this repository
 
 Currently the repository contains only the deck file `german_phrases_etal.tsv`
 in the output/ directory and documentation. In the future we will likely
-add code. For example, we may in the future add example sentences with blanks
-for the user to fill in, so we will probably provide the code that
-goes from this 'cloze field' + 'answer field' to a complete (and formatted)
-sentence on the card's back. (We don't use Anki's 'cloze card' template,
-but interested users should be able to process the card to use
-this template if desired.)
+add code. For example, we will probably provide the code that
+goes from answer template (with blanks) and answer field to a complete
+(and formatted) sentence on the card's back. (We don't use Anki's
+'cloze card' template, but interested users should be able to process the
+card to use this template if desired.)
 
 # Deck contents
 
@@ -90,8 +91,8 @@ translations that we often confuse with the target word, etc.
 
 ## Text file contents
 
-The fields for `output/german_phrases_etal.tsv` are documented
-in the wiki (here)[https://github.com/ghrgriner/advanced-german-phrases-etal/wiki/Text-file-fields].
+The fields for `output/german_phrases_etal.tsv` and `output/german_phrases_examples.tsv`
+are documented in the wiki (here)[https://github.com/ghrgriner/advanced-german-phrases-etal/wiki/Text-file-fields].
 
 # Wiki
 
