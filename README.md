@@ -1,11 +1,13 @@
 # Overview
 
 This is a small repository with a text file (deck) of advanced German phrases
-(n = ~4000)
-for learners of German. Currently, we haven't added translations
+(n = ~4000) for learners of German. Currently, we haven't added translations
 or to this public deck, but we might do so in the future. There are over 1000
 example sentences. We may continue to add such sentences, but until then, an
-AI will have to suffice for interested users.
+AI will have to suffice for interested users. However, it's worth noting that
+even in our (private) deck that we use for study, we are missing example sentences
+for perhaps a third of these notes, so we don't feel particular pressure to
+get 100% coverage of example sentences.
 
 Two subsets of notes are worth highlighting:
 
