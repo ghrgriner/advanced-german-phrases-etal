@@ -1336,7 +1336,7 @@ GPM843642	M	sich über Wasser halten (o. den Kopf)	E			HW	den Kopf über Wasser 
 GPM843646	M	wie sieht die Zukunft (einer S.) aus?	CW														
 GPM843817	M	Radio hören	CW		hörst du gern Radio?												see table
 GPM843940	M	seinen Blick für etw schärfen	E		seine Sinne für etw schärfen												
-GPM845128	M	jdm Honig ums Maul schmieren	E										n_idint_nan	n_idiom_None			
+GPM845128	M	jdm Honig ums Maul schmieren	E										n_idint_nan	n_idiom_None	jemandem Honig ums Maul schmieren:BADX		
 GPM845193	M	ich habe mich in den Finger geschnitten	E														
 GPM845729	M	der sanfte Tourismus	A														
 GPM848419	M	guten Abend!	E													1.1	
