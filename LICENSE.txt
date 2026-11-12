@@ -52,7 +52,9 @@ The text files in this deck may contain example sentences from:
 
 For (1)-(3), when such sentences are used, reference fields are provided
 that gives the date of the page version that was used and a link to that page
-version. For (4), the retrieval date is provided and a link to the page.
+version. For (4), the retrieval date is provided and a link to the page in
+the file with examples, and the citation details (author, title, year, etc.)
+are provided in a separate file.
 
 Note that the sentences are transformed into two parts: (a) a template where selected words
 are replaced by '___', '_____', or '________' and (b) the answer that contains the
