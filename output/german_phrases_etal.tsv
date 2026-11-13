@@ -4,8 +4,8 @@ GPM000194	M	viel Spaß!	E		viel Spaß bei der Hochzeit!
 GPM001027	M	der American Football; der Football	N		Football spielen											4.1	
 GPM002317	M	alles in allem	A														
 GPM003455	M	gegen den Trend	A														
-GPM005158	M	was kann ich für Sie tun?	E												tun:PART		
-GPM005306	M	ihr liefen Tränen über das Gesicht	CW		rannen; über die Wangen												
+GPM005158	M	was kann ich für Sie tun?	E												tun:PART		Sie
+GPM005306	M	ihr liefen Tränen über das Gesicht	CW		rannen; über die Wangen												not SVO
 GPM005582	M	zu zweit	A		die Verbrecherin und ihre Komplizin haben zu zweit gearbeitet	HW	zu zweit	https://de.wiktionary.org/wiki/zu_zweit				137	n_idint_137	n_idiom_gt50			
 GPM005789	M	etw aus dem Hut zaubern	E			HW	aus dem Hut zaubern	https://de.wiktionary.org/wiki/aus_dem_Hut_zaubern				0	n_idint_0	n_idiom_lt10	aus dem Hut zaubern:BADX		
 GPM006881	M	warum? darum!	E												darum:PART		
@@ -34,6 +34,7 @@ GPM018200	M	fallen lassen (etw)	V		Entschuldigung! Sie haben Ihre Schüssel fall
 GPM018301	M	sich scheiden lassen	V												scheiden:PART	8.4	
 GPM019438	M	ganz im Gegenteil!	E														
 GPM019831	M	was würdest du über/für ... sagen?	E		was würdest du sagen wenn ...?												
+GPM020971	M	unter Beobachtung stehen	CW		X steht unter besonderer Beobachtung												
 GPM021058	M	etwas an der Garderobe abgeben	E														
 GPM022111	M	nicht vom Fleck kommen	E			HW	nicht vom Fleck kommen	https://de.wiktionary.org/wiki/nicht_vom_Fleck_kommen				2	n_idint_2	n_idiom_lt10			
 GPM022782	M	ich habe mir den Arm gebrochen	E														
@@ -68,8 +69,9 @@ GPM046287	M	den Clown spielen	V
 GPM046607	M	wach halten (jdn) (o. auf halten?)	V														
 GPM047712	M	nehmen wir rein theoretisch an, dass ...	E														
 GPM049455	M	Ärger machen ([jdm])	CW		X hat Ärger gemacht												
-GPM049955	M	ich bin's ...	E												es:PART		
+GPM049955	M	ich bin's; X!	E												es:PART		
 GPM050575	M	einen grünen Daumen haben	E			HW	einen grünen Daumen haben	https://de.wiktionary.org/wiki/einen_gr%C3%BCnen_Daumen_haben				0	n_idint_0	n_idiom_lt10			
+GPM051401	M	zu viele	A		ich habe zu viele Eier gegessen												
 GPM051670	M	am Morgen; am Vormittag	A													2.52	2: late morning
 GPM053589	M	das dicke Ende kommt noch (o. erst noch o. kommt zuletzt)	E										n_idint_nan	n_idiom_None	?		
 GPM054364	M	jdn in Sicherheit bringen	E														
@@ -85,7 +87,7 @@ GPM060767	M	überall in/auf/usw.	A		in der ganzen Stadt; überall in der Stadt		
 GPM060924	M	die Bäume wachsen nicht in den Himmel	E			HW	die Bäume wachsen nicht in den Himmel	https://de.wiktionary.org/wiki/die_B%C3%A4ume_wachsen_nicht_in_den_Himmel				0	n_idint_0	n_idiom_lt10	⇐		
 GPM061247	M	den Tod einer P. feststellen	CW		der Notarzt konnte nur noch den Tod (einer P.) feststellen										feststellen:PART		
 GPM061274	M	von rechts	A														
-GPM061908	M	mit den Wölfen heulen	E														
+GPM061908	M	mit dem Strom schwimmen	E										n_idint_nan	n_idiom_None			
 GPM063686	M	was ist Ihre Adresse?	E												?	1.8	
 GPM064918	M	auf Einladung (einer P.)	E		auf Einladung (einer P.) kommen / sprechen										die Einladung:PART		
 GPM065025	M	in Deckung gehen	V		sich aus der Deckung wagen												
@@ -102,7 +104,7 @@ GPM071634	M	die Umstellung auf die Winterzeit	E												?
 GPM072339	M	und was mit mir?	E														
 GPM072623	M	es besteht kein Zweifel, dass ...	E														
 GPM073101	M	ein paar	A		ich habe ein paar lange Bücher diese Woche gelesen												
-GPM073648	M	ich konnte nicht verstehen; um was es ging [see note]	E														
+GPM073648	M	ich konnte nicht verstehen, um was es ging [see note]	E														
 GPM073652	M	die technische Fachschule	N		der Fachschulabschluss (-schlüsse)										?		
 GPM073760	M	[jdm] [an etw D] aufzeigen, dass/wie ...	V		jdm Wege aufzeigen ZUS; jdm die Grenzen (einer S.) an einigen Beispielen ~										aufzeigen:PART		
 GPM074513	M	ruhe in Frieden!	I														
@@ -115,12 +117,12 @@ GPM077427	M	jds Spezialgebiet sein	E
 GPM078529	M	Menschen mit Behinderung(en) (Pl.); behinderte Menschen (Pl.)	N														no art.
 GPM078787	M	gut beleuchtet	A														
 GPM080897	M	Wahrheit oder Pflicht	N														
-GPM081061	M	etw riechen können	V		jdn/etw nicht riechen können										riechen:PART		
 GPM082971	M	spazieren gehen	V		laufen gehen											4.1	
 GPM083111	M	der Indische Ozean	N												Indischer Ozean:NOART		
 GPM084028	M	sich unter die Gäste mischen	V		auf der Party hat er sich unter die 100 Gäste gemischt (o. Leute)												
 GPM085213	M	vor der Haustür (einer P.)	E		X liegt/steht vor seiner Haustür; see note												
 GPM085837	M	ins Exil schicken (jdn); exilieren (jdn)	V												das Exil:PART; exilieren:DE1		1: NVV, 2: single word
+GPM086127	M	das ganze Spektrum (einer S.) abdecken (o. gesamte o. die Bandbreite)	CW		X deckt das gesamte Spektrum einer S. ab												
 GPM086341	M	ich weiß nicht	E												wissen:PART		
 GPM086451	M	nee na!	E														
 GPM087124	M	jdn durch den Wolf drehen	E			HW	jemanden durch den Wolf drehen	https://de.wiktionary.org/wiki/jemanden_durch_den_Wolf_drehen				1	n_idint_1	n_idiom_lt10	jemanden durch den Wolf drehen:BADX		use an animal
@@ -131,6 +133,7 @@ GPM089324	M	und so weiter	A		usw.
 GPM089686	M	teils ... teils ...	E														
 GPM090314	M	im Klo runterspülen (etw)	V												runterspielen:PART		
 GPM090780	M	den Spieß umdrehen	E			HW	den Spieß umdrehen	https://de.wiktionary.org/wiki/den_Spie%C3%9F_umdrehen				22	n_idint_22	n_idiom_10_50			
+GPM093692	M	egal, wie	CW		egal, wie schnell sie fährt, fahre ich mit ihr												
 GPM094376	M	bald darauf	A														
 GPM094868	M	die Welt regieren	E		X will die Welt regieren										regieren:PART		
 GPM094893	M	welche Farbe hat ...?	E		welche Farbe hat dein Auto?											1.9	
@@ -154,7 +157,6 @@ GPM102436	M	ich habe Respekt vor ihm verloren	E
 GPM103094	M	viel Glück!	E														
 GPM104125	M	den Hörer abnehmen; das Telefon abnehmen; abnehmen	V														in all phrases, the verb is the same, only complement differs
 GPM104461	M	die Europäische Union; die EU	N		die Union											10.2	
-GPM104707	M	Gelb sehen	CW		X sah Gelb; X sah Rot										das Gelb:PART		ugs
 GPM104834	M	über Geschmack lässt sich (nicht) streiten	E														
 GPM105485	M	etw zum Kentern bringen	V														
 GPM105688	M	Geld wechseln	N		können Sie 100 Dollar in Euro wechseln?											1.12	
@@ -262,7 +264,6 @@ GPM168623	M	den Bus nehmen	V		er nimmt den Bus											3.3
 GPM171011	M	nicht nur... sondern auch...	A			HW	nicht nur … sondern auch	https://de.wiktionary.org/wiki/nicht_nur_%E2%80%A6_sondern_auch					n_idint_nan	n_idiom_None	nicht nur … sondern auch:BADX		
 GPM171127	M	der Hippokratische Eid	N												Hippokratischer Eid:NOART		
 GPM171798	M	die soziale Ungleichheit	N												die Ungleichheit:PART		
-GPM172282	M	der Soft Skill	N														
 GPM172523	M	weit verbreitet	A		X sind weit verbereitet												
 GPM173487	M	beschäftigt (mit etw)	A		die Beschäftigung mit										beschäftigt:PART	10.57	
 GPM174428	M	warum nicht!	E														
@@ -355,7 +356,6 @@ GPM233634	M	leicht zu beeindrucken	A		sie ist zu ~										beeindrucken:PART
 GPM233722	M	das ist mir auch schon passiert	A												?		
 GPM233988	M	in der ersten/zweiten Hälfte des zwanzigsten Jahrhunderts	E														also 2nd half
 GPM234853	M	die Erste Hilfe	N		~ leisten; ~-Schein												
-GPM234855	M	das blonde Gift	E		der deutsche Film 'Blondes Gift' wurde 1920 verboten												
 GPM235309	M	den Ausweg finden	V														omit: heraus~
 GPM236032	M	im Durchschnitt; durchschnittlich	E														2: also, average (attr adj); omit phrases with 'gemein' or 'generell' (in general, generally)
 GPM236616	M	im Aussterben begriffen sein	CW		X ist im Aussterben begriffen												see table
@@ -373,7 +373,7 @@ GPM242732	M	jdm eine Rechnung ausstellen	V														NVV
 GPM242773	M	die nahtlose Bräune	CW														
 GPM243390	M	die gehobene Mittelschicht (o. der gehobene Mittelstand)	N												?		
 GPM243753	M	woher kommst du?; woher kommen Sie?	E		woraus kommst du?; woraus kommen Sie?											1.4	
-GPM244010	M	am zweiten Sonntag im X			Y findet jährlich am zweiten Sonntag im X statt												
+GPM244010	M	am zweiten Sonntag im X	CW		Y findet jährlich am zweiten Sonntag im X statt												
 GPM244730	M	um Punkt X Uhr	E												der Punkt:PART		
 GPM245372	M	die goldenen Zwanziger	N												⇐		
 GPM245596	M	wie komme ich zu ...?	E		wie komme ich zum Zoo?											10.6	
@@ -392,7 +392,6 @@ GPM254054	M	überglücklich sein	A														be ~
 GPM255020	M	etw im Scherz sagen	N														NVV
 GPM255061	M	das betreute Wohnen	N												?		
 GPM255347	M	sich ins Gegenteil verkehren (o. in sein .. / o. in ihr ...)	V														
-GPM256574	M	ich freue mich schon auf ...	E														
 GPM256754	M	im Sonderangebot; im Angebot	A												der Sonderangebot:PART; der Angebot:PART	1.12,6.2	
 GPM257164	M	den Reißverschluss einer S. schließen (o. zuziehen/zumachen/hochziehen)	V		den ~ an etw D zuziehen												4 words for each (but just give 1)
 GPM257240	M	gemein haben (etw mit jdm/etw)	V		er hat viel mit seinem Bruder gemein (o. etwas); sie haben nichts gemein												
@@ -401,13 +400,10 @@ GPM257574	M	dreimal dürfen Sie raten	E
 GPM257665	M	rote Zahlen schreiben	E		aus dem roten Zahlen kommen; jdn/etw in den roten Zahlen stecken	HW	rote Zahlen schreiben	https://de.wiktionary.org/wiki/rote_Zahlen_schreiben				9	n_idint_9	n_idiom_lt10			
 GPM260149	M	das letzte Wort ist noch nicht gesprochen	E														esp. of a conversation (I guess)
 GPM260334	M	unter einem Dach bündeln (o. vereinigen o. zummenführen)	CW		X bündelt Y und Z unter einem Dach												
-GPM262810	M	für jdn eine Messe lesen lassen	E														
 GPM264271	M	ich weiß	E		ich weiß nicht												
 GPM264693	M	auf andere Gedanken kommen	E		jdn/sich auf andere Gedanken bringen; auf den Gedanken kommen, dass ...												omit: glauben
-GPM264800	M	stufenlos regelbar	A														
 GPM265993	M	eine rote Ampel überfahren	V		er hat eine rote Ampel überfahren										überfahren:PART		see table
 GPM266027	M	beeil dich!	E														du forms
-GPM266364	M	haben Sie X in eine Nummer kleiner?	E														
 GPM266597	M	jdm reinen Wein einschenken	E										n_idint_nan	n_idiom_None			
 GPM266618	M	das gekochte Ei	N												gekocht:PART		
 GPM266907	M	nicht leiden können (jdn)	V		sie kann ihn nicht leiden (o. ausstehen)												use 'nicht' and modal
@@ -426,7 +422,7 @@ GPM277419	M	nicht, dass ich wüsste	E
 GPM278154	M	alles gut!	A														
 GPM279279	M	einkaufen gehen	V		Einkäufe erledigen / machen										einkaufen:PART	3.6	
 GPM279406	M	see table	CW		ve ve ve Punkt example Punkt com												
-GPM279509	M	im X 2010			im Oktober 2010												
+GPM279509	M	im X 2010	CW		im Oktober 2010												
 GPM279635	M	Honig aus etw saugen	E			HW	aus etwas Honig saugen	https://de.wiktionary.org/wiki/aus_etwas_Honig_saugen				2	n_idint_2	n_idiom_lt10	aus etwas Honig saugen:BADX		use a food item (fig) (inf)
 GPM279973	M	in Flaschen abfüllen (etw); in Flaschen füllen (etw)	V												abfüllen:PART; füllen:PART		2: same phrase, diff. verb, how does meaning differ
 GPM280493	M	Nutzen aus etw D ziehen	V		Gewinn/Profit aus etw ziehen										das Nutzen:PART		
@@ -450,7 +446,6 @@ GPM291616	M	das freie Zimmer	N
 GPM294205	M	am Vorabend	A													2.52	
 GPM294662	M	strafrechtlich belangen (jdn/etw)	V		Vandalismus wurde strafrechtlich belangt												see table
 GPM294725	M	Schlangenlinien fahren (o. in ~)	E												Schlangenlinie:PART		
-GPM295326	M	im Zweifelsfall zu jds Gunsten entscheiden	E												der Zweifelsfall:PART		
 GPM296301	M	das hohe Tier	E												hohes Tier:NOART		
 GPM296827	M	mir ist schwindelig	E														
 GPM297240	M	zur Flasche greifen	E														
@@ -460,6 +455,7 @@ GPM300118	M	einige Zeit beanspruchen	V												beanspruchen:PART		omit: dauer
 GPM301999	M	sich hohe Standards setzen	E		er setzt sich hohe Standards										der Standard:PART		see table
 GPM302549	M	Mann über Bord!	E												Bord:PART		
 GPM303670	M	mit Vorsicht zu genießen sein	E		X ist mit Vorsicht zu genießen								n_idint_nan	n_idiom_None			
+GPM303866	M	braune Augen haben	CW														
 GPM303894	M	der kleine Fisch	N		der große Fisch										kleiner Fisch:NOART		
 GPM305154	M	ich lasse die Tatsachen sprechen	CW														
 GPM305351	M	Hausarrest geben (einem Kind)	V														
@@ -517,7 +513,6 @@ GPM340361	M	Gut und Böse	E
 GPM344149	M	morgen früh	A												?	2.52	
 GPM344308	M	lang her sein, dass ...	A		wie lange ist es her, dass wir ...; unser letzes Treffen ist jetzt genau 6 Wochen her												
 GPM344738	M	das mythische Wesen	N												das Wesen:PART		
-GPM345139	M	ein großes Rad drehen	V														
 GPM345243	M	nur an der Oberfläche kratzen	CW		X hat nur an der Oberfläche gekratzt												
 GPM345271	M	von zu Hause aus arbeiten	E		im Homeoffice arbeiten												
 GPM346176	M	den Rücken krümmen	V														
@@ -629,7 +624,6 @@ GPM409865	M	Racquetball spielen	V													7.2
 GPM410461	M	die begrenzten Ressourcen (Pl.)	CW														
 GPM412033	M	mit den Augen rollen	V														give cognate
 GPM412126	M	ein Geheimnis lüften	V														
-GPM413469	M	gute Erholung!	E														
 GPM413492	M	mit großer Geduld	CW														
 GPM413639	M	das große Ganze	CW		give another meaning												
 GPM414497	M	einen ungedeckten Scheck ausstellen	V		einen Scheck platzen lassen										decken:PART		lit: issue an ...; just give ugs in table
@@ -722,7 +716,7 @@ GPM466537	M	wann bist du geboren?	E
 GPM466834	M	sich in Schale werfen	V		sich in Schale werfen (o. schmeißen)												
 GPM467969	M	einen Tag vor X	E												⇐		
 GPM468281	M	den Verkehr regeln	E														
-GPM468293	M	eine Frage stellen	V														
+GPM468293	M	eine Frage stellen ([jdm])	V														
 GPM469052	M	was sind Sie von Beruf?	E													8.6	omit: ~lich
 GPM469333	M	urheberrechtlich geschützt	A														_____ geschützt
 GPM470002	M	immer wieder	E														
@@ -737,7 +731,7 @@ GPM477052	M	frohe Ostern!	E													5.3
 GPM477563	M	das Hemd in die Hose stecken	E												?		
 GPM477868	M	verstopft im Darm	A														
 GPM478005	M	sich schuldig fühlen	V														usual 'feel' word
-GPM478296	M	in Vorbereitung für [acc.]	A														give similar construction
+GPM478296	M	in Vorbereitung für etw	A														give similar construction
 GPM479450	M	das schwarze Schaf	N														
 GPM479513	M	nach Herzenslust	E														
 GPM479869	M	mit breiter Brust	E		der ehemalige Weltmeister ging ~ voran ...												
@@ -753,7 +747,7 @@ GPM484315	M	jdm den Spiegel vorhalten	E
 GPM484461	M	eines Abends	A		zuerst X. Aber eines Abends ...											10.53	
 GPM484990	M	das geht doch nicht	CW														
 GPM486008	M	jdm/etw die Stirn bieten (geh)	E		du musst ihm die Stirn bieten!	HW	die Stirn bieten	https://de.wiktionary.org/wiki/die_Stirn_bieten				15	n_idint_15	n_idiom_10_50	die Stirn bieten:BADX		geh
-GPM486253	M	mit der Post schicken (o. verschecken / usw.)	V														focus on prep phrase, as many verbs are possible
+GPM486253	M	mit der Post schicken (etw) (o. verschecken / usw.)	V														focus on prep phrase, as many verbs are possible
 GPM488516	M	jdm ein Geheimnis verraten	E		wer hat Ihnen das Geheimnis verraten?												
 GPM488615	M	müde werden	V		jdn müde machen (o. jdn ermüden)												
 GPM490103	M	meine Damen und Herren	E														
@@ -767,7 +761,7 @@ GPM492137	M	naja, ...	E
 GPM493904	M	am Dienstag	A													2.62	
 GPM495996	M	sich in die Brust werfen (geh)	E		der Minister warf sich in die Brust und sagte ...	HW	sich in die Brust werfen	https://de.wiktionary.org/wiki/sich_in_die_Brust_werfen				0	n_idint_0	n_idiom_lt10			(geh)
 GPM496135	M	Mittelfeld sein	N												das Mittelfeld:PART		
-GPM498289	M	süße Träume!	E														
+GPM498289	M	träum süß!	E														
 GPM498298	M	seine Meinung äußern	V		einen Wunsch ~; jds Bedenken ~ (more freq than Gedanken)										äußern:PART		
 GPM498736	M	das alleinige Sorgerecht	E		das ~ beantragen										?		
 GPM499090	M	das fünfte Rad am Wagen sein	E			HW	das fünfte Rad am Wagen sein	https://de.wiktionary.org/wiki/das_f%C3%BCnfte_Rad_am_Wagen_sein				0	n_idint_0	n_idiom_lt10	das fünfte Rad am Wagen sein:BADX		
@@ -789,7 +783,7 @@ GPM509672	M	vor Ort	E
 GPM509812	M	das karierte Papier	N												?		
 GPM510579	M	in zwei Tagen	E		in zwei Wochen / Monaten / Jahren												
 GPM511574	M	das Gesicht verziehen	E										n_idint_nan	n_idiom_None	?		
-GPM513038	M	sie beide	N														
+GPM513038	M	sie beide	N		sie beide kommen aus Berlin (o. sie kommen beide aus Berlin)												
 GPM513870	M	mit heißer Nadel gestrickt (o. mit der heißen ...)	A			HW	mit heißer Nadel gestrickt	https://de.wiktionary.org/wiki/mit_hei%C3%9Fer_Nadel_gestrickt				0	n_idint_0	n_idiom_lt10			
 GPM513979	M	in geringem Umfang	A														
 GPM514314	M	die Handschrift einer P. tragen	E										n_idint_nan	n_idiom_None			
@@ -809,7 +803,7 @@ GPM521527	M	etw brennt jdm unter den Nägeln	E		auf (den Nägeln)	HW	jemandem un
 GPM521903	M	das kontinentale Frühstück	N												kontinental:PART		
 GPM523358	M	aus dem Schneider sein	E														omit: davonkommen
 GPM523378	M	eine gute / schlechte Figur machen / abgeben	E														
-GPM523951	M	im X desselben Jahres (X = ein Monat)			im Oktober desselben Jahres												
+GPM523951	M	im X desselben Jahres (X = ein Monat)	CW		im Oktober desselben Jahres												
 GPM524141	M	stecken bleiben	V		er war im Stau steckengeblieben												
 GPM524231	M	sich die Schuhe aufmachen	V												aufmachen:PART		
 GPM525065	M	das lose Ende	N												?		
@@ -818,9 +812,8 @@ GPM525284	M	eine Rechnung offen haben (o. alte Rechnung)	E										n_idint_nan	
 GPM525410	M	aus Gewohnheit	E												die Gewohnheit:PART		
 GPM527068	M	bitte nicht!	E													3.51	
 GPM527657	M	die Rückkehr in die Gewinnzone	CW														
-GPM529513	M	die öffentliche Gesundheit	N												⇐		
 GPM529612	M	in gutem Glauben	E		~ handeln								n_idint_nan	n_idiom_None			
-GPM529917	M	neu dekorieren	V														
+GPM529917	M	neu dekorieren (etw)	V														
 GPM530110	M	an einem seidenen Faden hängen (o. an einen Faden o. an einem dünnen Faden ...)	E		X hängt an einem seidenen Faden	HW	an einem seidenen Faden hängen	https://de.wiktionary.org/wiki/an_einem_seidenen_Faden_h%C3%A4ngen				1	n_idint_1	n_idiom_lt10			see table
 GPM530331	M	unser Großer; unser Ältester	N														
 GPM531303	M	erstens ...; zweitens ...; drittens ...	A														
@@ -912,7 +905,6 @@ GPM578517	M	was auch passiert	E		komme was wolle (o. komme, was da wolle)
 GPM578956	M	geh weg!	E														
 GPM579254	M	nach Hause; heim	A		ich gehe nach Hause, ich gehe heim (second implies back home); eine Einladung zu jdm nach Hause												(to) home
 GPM579345	M	jdm/etw einen Strich durch die Rechnung machen	E			HW	jemandem einen Strich durch die Rechnung machen	https://de.wiktionary.org/wiki/jemandem_einen_Strich_durch_die_Rechnung_machen				17	n_idint_17	n_idiom_10_50	jemandem einen Strich durch die Rechnung machen:BADX		give long phrase
-GPM580587	M	ein Glas Rotwein	N												das Glas:PART		
 GPM580816	M	aneinander vorbeireden	V		sie haben aneinander vorbeigeredet										vorbeireden:PART	6.65	
 GPM583143	M	die spitzen Klammern (Pl.)	CW														
 GPM583605	M	es eilig haben; in Eile	A		ich habe es eilig (ich bin in Eile)										eilig:PART; Eile:PART		see table
@@ -991,7 +983,6 @@ GPM629711	M	Hunger haben; hungrig sein; hungern	V		ich habe Hunger, ich bin hung
 GPM630475	M	Heavy Metal (das ~)	N		der Metal												
 GPM631080	M	die Femme fatale	N														cognate
 GPM631683	M	einen Gang höher schlaten (o. hoch)	E		einen Gang runter schalten (o. zurück)												
-GPM631835	M	die stützende Kniebandage	N												⇐		
 GPM632234	M	das Gleichgewicht verlieren	E		aus dem Gleichgewicht geraten										das Gleichgewicht:PART		
 GPM632411	M	den Teufel werde ich (tun)!	E														
 GPM632827	M	das Rad der Zeit zurückdrehen (o. das Rad der Geschichte)	V										n_idint_nan	n_idiom_None			
@@ -1004,7 +995,7 @@ GPM635195	M	eine X in Mathe bekommen; ... schreiben; ... erhalten; ... kriegen	E
 GPM635636	M	das ehrenamtliche Engagement; die ehrenamtliche Arbeit	N												ehrenamtlich:PART		use same adj. in both phrases
 GPM635751	M	zwischen den Zeilen lesen	E		man muss zwischen den Zeilen lesen	HW	zwischen den Zeilen lesen	https://de.wiktionary.org/wiki/zwischen_den_Zeilen_lesen				7	n_idint_7	n_idiom_lt10			
 GPM636466	M	eine harte Nuss (zu knacken)	E			HW	eine harte Nuss zu knacken haben	https://de.wiktionary.org/wiki/eine_harte_Nuss_zu_knacken_haben				0	n_idint_0	n_idiom_lt10	eine harte Nuss zu knacken haben:PART		
-GPM636551	M	zulasten einer Person gehen	V		X Franken gehen zulasten der Stadt Zürich, der Rest zulasten des Kantons										zulasten:PART		
+GPM636551	M	zulasten einer P. gehen	V		X Franken gehen zulasten der Stadt Zürich, der Rest zulasten des Kantons										zulasten:PART		
 GPM636945	M	freiwillig tun (etw)	V		ehrenamtlich tun												voluntarily do sth
 GPM636988	M	jdm auf die Füße treten	E												jemandem auf die Füße treten:BADX		
 GPM637503	M	Musik machen	V														
@@ -1037,7 +1028,6 @@ GPM653916	M	den Braten riechen	E		sie hat einen Braten gerochen	HW	den Braten ri
 GPM655385	M	im September	A		im September 2010; im September desselben Jahres											5.53	
 GPM656401	M	eins und eins zusammenzählen (o. zwei und zwei ...)	E		sie müssen eins und eins zusammengezählt haben	HW	eins und eins zusammenzählen	https://de.wiktionary.org/wiki/eins_und_eins_zusammenz%C3%A4hlen				1	n_idint_1	n_idiom_lt10			
 GPM656949	M	Stand heute	A		Stand 2008 ...										der Stand:PART		
-GPM656959	M	anstehend	A		~e Probleme / Entscheidungen / Ausgaben										anstehen:PART		
 GPM657204	M	etw D Folge leisten	V		den Anweisungen Folge leisten; das Verbot wurde nicht Folge geleistet												NVV
 GPM658583	M	auf einem Pferd reiten; reiten	V		ein Pferd reiten												
 GPM658848	M	jdm die Haare sträuben	E														
@@ -1054,8 +1044,7 @@ GPM665851	M	das Stück Butter	N												das Stück:PART
 GPM666788	M	es geht	A												gehen:PART		response to 'how are you?'
 GPM667501	M	dieser Zug ist abgefahren	RW			HW	dieser Zug ist abgefahren	https://de.wiktionary.org/wiki/dieser_Zug_ist_abgefahren				0	n_idint_0	n_idiom_lt10			
 GPM668009	M	v. u. Z. (vor unserer Zeitrechnung)	A														
-GPM670684	M	Tee ziehen lassen	V		den Tee 10 Minuten ziehen lassen; same construction = marinade												
-GPM671975	M	sein Glück versuchen	E										n_idint_nan	n_idiom_None			
+GPM671975	M	sein Glück versuchen ([mit etw])	E										n_idint_nan	n_idiom_None			
 GPM672017	M	der Neffe 2. Grades (zweiten); die Nichte 2. Grades	N		der Onkel 2. Grades, die Tante 2. Grades												give word for person lower than reference person in the hierarchy (see note)
 GPM672296	M	Reise nach Jerusalem	N		~ spielen												
 GPM672669	M	gleich gegenüber (von etw/)	E														
@@ -1065,7 +1054,6 @@ GPM675162	M	der Pazifische Ozean; der Pazifik	N													6.5
 GPM675496	M	in Schwung bringen (etw)	V														
 GPM675569	M	wie heißt du?; wie heißen Sie?; wie ist dein Name?; wie ist Ihr Name?	E												heißen:PART	1.2	
 GPM676250	M	jds Gedanken lesen	E		du hast meine Gedanken gelesen!												
-GPM677243	M	würde	V												werden:PART		
 GPM678281	M	zu einem späteren Zeitpunkt	A														
 GPM679266	M	an Bord	A		der Flugzeug hatte 100 Passagiere an Bord (o. Fluggäste)												
 GPM680283	M	auf Diät sein	V		jdn auf Diät weniger Zucker setzen; sich auf Diät setzen										die Diät:PART		
@@ -1087,7 +1075,6 @@ GPM685848	M	die gemeinnützige Organisation	N												?
 GPM686451	M	einen Preis für etw nennen	V		den Preis für etwas festsetzen												state a price for sth
 GPM687264	M	in den letzten zwei Jahrzehnten	A		in den nächsten 2 Jahrzehnten												
 GPM688707	M	vor der Küste (gen. / von irgendwo)	A		das Schiff sank X Kilometer vor der Küste Spaniens (o. von Spanien)												
-GPM688779	M	sich mit jdm austauschen	V		X tauscht sich mit Y über Z aus												use verb
 GPM690331	M	die geschlossene Ortschaft	CW														
 GPM690751	M	je nach [dat.]; je nachdem	A		je nachdem!; je nachdem, wann / wie / ob; je nach Gegner sind [zwischen 20 und 40 Fans in der Kneipe]; sollen wir das Spiel zusammen sehen? - je nachdem, ob [ich ein Vorlesungsgespräch habe]										je:PART		
 GPM692796	M	die juristische Auseinandersetzung	CW														might also = or legal proceedings
@@ -1101,7 +1088,6 @@ GPM695937	M	auf Zack sein (ugs)	V		jdn auf Zack bringen
 GPM696578	M	ich habe mir eine Glatze rasiert	CW														
 GPM697527	M	der richtige Mann zur richtigen Zeit (o. zum richtigen Zeitpunkt)	CW														
 GPM698525	M	ich bin gespannt ...	E														
-GPM698967	M	das Dolce Vita	CW														
 GPM699222	M	wo der Schuh drückt sehen	E		sie kann wo der Schuh drückt sehen	HW	wo der Schuh drückt	https://de.wiktionary.org/wiki/wo_der_Schuh_dr%C3%BCckt				0	n_idint_0	n_idiom_lt10	wo der Schuh drückt:PART		
 GPM699806	M	sich/jdm eine Prellungen an etw zuziehen; sich D etw prellen	V		Prellungen erleiden; ich habe mir eine Prellung ans Knie zugezogen, ich habe mir das Knie geprellt; er hat geprellte Rippen										die Prellung:PART; prellen:PART		
 GPM700703	M	in den neunziger Jahren	A		in den Neunzigerjahren; in den Neunzigern												first give longer variant and then shorter
@@ -1115,7 +1101,7 @@ GPM702810	M	jdm auf der Zunge liegen	E		das liegt mir auf der Zunge; see note	HW
 GPM704758	M	ohne ... zu ...	A		Ohne zu grüßen ging er an mir vorbei. [deWK]										ohne:PART		
 GPM704901	M	wie alt bist du?; wie alt sind Sie? (formal)	E													1.8	
 GPM705301	M	jdm Dank schulden	E		ich schulde ihnen Dank												
-GPM705657	M	im Gegensatz zu [dat.]; demgegenüber	A												der Gegensatz:PART; demgegenüber:DE1		
+GPM705657	M	im Gegensatz zu jdm/etw; demgegenüber	A												der Gegensatz:PART; demgegenüber:DE1		
 GPM705783	M	das Eis brechen	E														
 GPM708880	M	zu etw parallel laufen	V		X ist parallel zu Y (o. läuft parallel)										parallel:PART		
 GPM710639	M	am Montag	A													2.62	
@@ -1160,7 +1146,7 @@ GPM729169	M	gute Manieren (Pl.)	N		Ihr Sohn hat gute Manieren!												give c
 GPM729349	M	v. Chr. (vor Christus)	A		Die Steinzeit endet in Europa um 2200 v. Chr												
 GPM729465	M	die Niederlande (Pl.); Holland	N		in die Niederlande reisen; in den Niederlanden wohnen											1.5	
 GPM729489	M	was bedeutet X?	E														
-GPM730410	M	an der Seite von [dat.]	A												die Seite:PART		give long phrase, not single prep.
+GPM730410	M	an der Seite von jdm/etw	A												die Seite:PART		give long phrase, not single prep.
 GPM730972	M	im April	A		im April 2010; im April desselben Jahres											5.53	
 GPM731105	M	jdn wie den letzten Dreck behandeln	E										n_idint_nan	n_idiom_None			
 GPM732023	M	die Augenbrauen hochziehen	V		sie zieht die Augenbrauen hoch												
@@ -1169,7 +1155,6 @@ GPM733963	M	im März	A		im März 2010; im März desselben Jahres											5.53
 GPM734194	M	den Hals recken	E														
 GPM735132	M	jdm sind die Hände gebunden	E		mir sind die Hände gebunden (also in Addl sheet)	HW	jemandem sind die Hände gebunden	https://de.wiktionary.org/wiki/jemandem_sind_die_H%C3%A4nde_gebunden				12	n_idint_12	n_idiom_10_50	jemandem sind die Hände gebunden:BADX		
 GPM735192	M	ein Verhältnis haben; eine Affäre haben	V		ich glaube, ihr Mann hat ein Verhältnis											8.4	
-GPM735355	M	ich freue mich	E												sich freuen:PART		
 GPM735858	M	möglichst viel; so viel wie möglich	A												?		
 GPM737029	M	die herrschende Meinung	N												herrschend:PART		
 GPM737099	M	im Radio	A		ich habe das im Radio gehört; im Auto läuft das Lied XYZ im Radio												
@@ -1191,7 +1176,7 @@ GPM748029	M	wenn man so sagen darf	A
 GPM748763	M	zum Schluss ...; abschließend ...	E												zum Schluss:BADX; abschließend:BADX		
 GPM749335	M	einen Krieg gegen etw führen	E														
 GPM749969	M	zu schätzen wissen (jdn/etw); würdigen (etw); schätzen (etw)	V		X weiß Y zu schätzen (but I think all verbs work in all exprs); seine Leistung / ihre Arbeit / seinen Einsatz würdigen												3: take a verb from 1
-GPM750096	M	nass machen	V		das Bett nass machen (o. nässen)												1: adj + verb, 2: single verb (geh)
+GPM750096	M	nass machen (etw)	V		das Bett nass machen (o. nässen)												1: adj + verb, 2: single verb (geh)
 GPM750882	M	die berechtigte Kritik	A												?		
 GPM751131	M	einen Kompromiss mit jdm eingehen	V		einen ~ mit jdm aushandeln										eingehen:PART		
 GPM751558	M	am Gymnasium	E		im Gymnasium												
@@ -1208,7 +1193,6 @@ GPM760630	M	ich auch nicht	E													3.51
 GPM762468	M	seine Skepsis gegenüber etw zeigen	CW		X zeigt seine Skepsis gegenüber etw												
 GPM762816	M	jdm Feuer geben	E		haben Sie Feuer?								n_idint_nan	n_idiom_None	das Feuer:PART		
 GPM762929	M	die Mühlen der Justiz mahlen langsam (o. der Burokratie)	E												?		
-GPM763615	M	die künstlerische Freiheit	N												⇐		
 GPM764989	M	der Fantasie keine/kaum Grenzen setzen	V														
 GPM765182	M	ich verstehe nur Bahnhof	E			HW	nur Bahnhof verstehen	https://de.wiktionary.org/wiki/nur_Bahnhof_verstehen				1	n_idint_1	n_idiom_lt10	nur Bahnhof verstehen:BADX		
 GPM765184	M	mehr oder weniger	A												?		
@@ -1232,7 +1216,7 @@ GPM772830	M	sich die Schuhe binden	V		zubinden
 GPM773277	M	sich in die Hose machen	E			HW	sich in die Hose machen	https://de.wiktionary.org/wiki/sich_in_die_Hose_machen				1	n_idint_1	n_idiom_lt10			
 GPM773582	M	den Mut finden ZUS	E		(wieder) Mut fassen												1: find, 2: summon up
 GPM774398	M	n. Chr. (nach Christus)	A														
-GPM775085	M	einerseits X; andererseits Y	A												einerseits:PART; andererseits:PART		
+GPM775085	M	einerseits X, andererseits Y	A												einerseits:PART; andererseits:PART		
 GPM775506	M	Schritt fahren	E												der Schritt:PART		at a walking pace
 GPM775645	M	bei Flut	A														
 GPM776340	M	am Samstag; am Sonnabend	A													2.62	
@@ -1240,7 +1224,6 @@ GPM776540	M	frohe Weihnachten!	E													5.3
 GPM776658	M	nicht unbedingt	A														
 GPM778078	M	eine sichere Sache sein	E												eine sichere Sache:PART		
 GPM778400	M	hätte ich doch (mehr Gemüse gegessen)!	E														
-GPM779440	M	die Top Ten	N														
 GPM779643	M	tief eindringen (in etw); tief vordringen (in etw)	V														
 GPM779692	M	etw für bare Münze nehmen	E		sie hat seine spöttische Bemerkung für bare Münze genommen	HW	etwas für bare Münze nehmen	https://de.wiktionary.org/wiki/etwas_f%C3%BCr_bare_M%C3%BCnze_nehmen				8	n_idint_8	n_idiom_lt10	etwas für bare Münze nehmen:BADX		
 GPM780928	M	gestern Abend	A														
@@ -1250,11 +1233,9 @@ GPM783579	M	zur Seite rutschen	V
 GPM783590	M	zum größten Teil	A		zum kleineren Teil												use: Teil
 GPM783715	M	das Bewusstsein verlieren; in Ohnmacht fallen	V		ich fall' gleich in Ohnmacht!										?	7.7,8.3	lose consciousness, fall (into) unconsciousness
 GPM785142	M	Tag der deutschen Einheit	N		3. Oktober											5.3	
-GPM785304	M	Raven Inc; Edgar Poe. Guten Tag?	E		Poe?, Hallo?, Ja?												
 GPM788328	M	er schämt sich für sein Land	E														
 GPM789658	M	auf der sicheren Seite sein	E										n_idint_nan	n_idiom_None			
 GPM789807	M	die ärtzliche Schweigepflicht	E												?		duty of ~ (adj + noun)
-GPM791071	M	wer spricht da; bitte?	E		wer ist da?; wer da?												
 GPM795057	M	jdm einen Bären aufbinden	V			HW	jemandem einen Bären aufbinden	https://de.wiktionary.org/wiki/jemandem_einen_B%C3%A4ren_aufbinden				0	n_idint_0	n_idiom_lt10	jemandem einen Bären aufbinden:BADX		use an animal
 GPM795467	M	das Wegwerfen von Müll	N		Müll wegwerfen verboten										?		
 GPM796297	M	wie steht mir ...?; wie sehe ich in ... aus?	E		wie steht mir diese Bluse?; wie sehe ich in dieser Bluse aus?												
@@ -1274,7 +1255,6 @@ GPM806782	M	etw für selbstverständlich halten	E												selbstverständlich
 GPM807271	M	Rock and Roll	N		ein rockiger Song												
 GPM807616	M	um wie viel Uhr ...?	A													2.6	
 GPM808117	M	den Krieg erklären (jdm)	CW		X hat ihnen den Krieg erklärt												
-GPM808832	M	an deiner Stelle würde ich ...	E		an Ihrer Stelle würde ich ...										die Stelle:PART		du form
 GPM809452	M	sowohl ... als auch ...; sowie	E												sowohl … als auch:BADX; sowie:DE1; sowohl:PART		
 GPM809854	M	ein Stück vom Kuchen abbekommen (o. abhaben)	E														
 GPM810133	M	ich muss jetzt Schluss machen	E														
@@ -1326,7 +1306,6 @@ GPM840000	M	am Freitag	A													2.62
 GPM840112	M	jdn in Gefahr bringen	CW														
 GPM840556	M	da drüben; dort	A		gleich da drüben											10.7	
 GPM840923	M	ich bin über Aktuelles auf dem Laufenden (o. ich halte mich über ...)	E														use: Aktuelles
-GPM842544	M	sein Glück versuchen (mit etw)	E														
 GPM843635	M	bis auf Widerruf	CW														
 GPM843642	M	sich über Wasser halten (o. den Kopf)	E			HW	den Kopf über Wasser halten	https://de.wiktionary.org/wiki/den_Kopf_%C3%BCber_Wasser_halten				1	n_idint_1	n_idiom_lt10	den Kopf über Wasser halten:BADX		
 GPM843646	M	wie sieht die Zukunft (einer S.) aus?	CW														
@@ -1336,7 +1315,7 @@ GPM845128	M	jdm Honig ums Maul schmieren	E										n_idint_nan	n_idiom_None	jem
 GPM845729	M	der sanfte Tourismus	A														
 GPM848419	M	guten Abend!	E													1.1	
 GPM848450	M	zum Arzt	A		ich muss diesen Nachmittag zum Arzt										zu:PART		
-GPM849021	M	an der Spitze stehen; führen	V		X steht an der Spitze der Verkaufsteilung (o. X führte die V...)												1: prep phrase + vb, 2: vb (lead)
+GPM849021	M	an der Spitze (einer S.) stehen; führen (etw)	V		X steht an der Spitze der Verkaufsteilung (o. X führte die V...)												1: prep phrase + vb, 2: vb (lead)
 GPM852078	M	Kette rauchen	E		sie raucht Kette; der Kettenraucher												
 GPM854729	M	oder so	E		5 Meter oder so												
 GPM854780	M	der oberere Atemweg	CW														
@@ -1352,10 +1331,10 @@ GPM861416	M	die vorstehenden Zähnen (Pl.)	N
 GPM862520	M	ein einstimmiges Urteil fällen	E		Schuldspruch												
 GPM862783	M	das Tischgebet sprechen	E												das Tischgebet:PART		
 GPM862832	M	bei jeder Gelegenheit	E												?		
-GPM863311	M	von etw an	A		von jetzt an												
+GPM863311	M	von X an	A		von jetzt an												
 GPM863961	M	ein Bad einlassen (jdm/sich)	CW														
 GPM864323	M	ich muss weg	E												müssen:PART		
-GPM864676	M	das war ein Scherz	E												?		
+GPM864676	M	das war ein Scherz!	E												?		
 GPM865556	M	nicht schlüssig	A		der Beweis ist nicht schlüssig (o. die Beweise sind ...)										schlüssig:PART		give pred. 
 GPM866174	M	das passt gar nicht zu ihm!	E												passen:PART		
 GPM867725	M	jdn zum Ritter schlagen	E														
@@ -1382,6 +1361,7 @@ GPM877727	M	ein befristeter Arbeitsvertrag	CW
 GPM877762	M	seine Stärke ausspielen	V														or: ... into play
 GPM878007	M	hängen bleiben ([mit D] an etw D)	V														
 GPM880071	M	den Daumen nach unten geben (o. zeigen)	CW		Kritiker geben dieser Folge den Daumen nach unten (o. zeigen)												
+GPM880557	M	die sozialen Medien (oder Media) (Pl.)	CW														
 GPM880727	M	anders als erhofft/gedacht	A														
 GPM880882	M	aussehen wie (jd/etw); ähnlich sehen (jdm/etw)	V		sie sieht wie ihre Schwester aus, sie sieht ihrer Schwester ähnlich												
 GPM881251	M	Stellung nehmen (zu etw)	V		zu offenen Fragen Stellung nehmen											9.2	
@@ -1392,13 +1372,12 @@ GPM884841	M	gute Reise!; gute Fahrt!	E
 GPM884953	M	gut bezahlt	A														
 GPM885617	M	was für ein-	E		was für einen Computer hast du gekauft?										was für:BADX		
 GPM885671	M	seine Schuhe abstreifen	E		streifen Sie bitte ihre Schuhe ab!												
-GPM885863	M	der Spanische Erbfolgekrieg	N												Spanischer Erbfolgekrieg:NOART; der Erbfolgekrieg:PART		
 GPM886092	M	bei/für etw Pate gestanden haben (geh)	E		für etw Modell gestanden haben												
 GPM886958	M	jdm die Daumen drücken (o. für jdn ...)	E														
 GPM887181	M	see pronun.	A														
-GPM887475	M	zu viel; zu viele	A														
+GPM887475	M	zu viel	A		ich habe zu viel Wasser getrunken												
 GPM888532	M	alle zwei Stunden	E														
-GPM891658	M	egal, wo; egal, wie	E		egal, wie schnell sie fährt, fahre ich mit ihr												omit: ___ auch immer
+GPM891658	M	egal, wo	E		egal, wie schnell sie fährt, fahre ich mit ihr												omit: ___ auch immer
 GPM892271	M	wie lange; seit wann	A		wie lange haben Sie in Florida gewohnt?; seit wann wohnen Sie in Florida? -seit 3 Jahren; wie lange ist Ihr Urlaub?											1.54	
 GPM892708	M	jdn in Angst und Schrecken versetzen	E			HW	in Angst und Schrecken versetzen	https://de.wiktionary.org/wiki/in_Angst_und_Schrecken_versetzen				27	n_idint_27	n_idiom_10_50	in Angst und Schrecken versetzen:BADX		
 GPM894150	M	alle Menschen sind gleich	E		ich habe all die Eier gegessen												
@@ -1431,9 +1410,8 @@ GPM916726	M	nicht mehr	A
 GPM916946	M	das kann doch nicht dein Ernst sein! (o. Ihr)	E												?		
 GPM917129	M	lange nicht gesehen	E														
 GPM917152	M	sich jdn zur Brust nehmen	E		der Trainer hat sich den Spieler zur Brust genommen	HW	sich jemanden zur Brust nehmen	https://de.wiktionary.org/wiki/sich_jemanden_zur_Brust_nehmen				0	n_idint_0	n_idiom_lt10	sich jemanden zur Brust nehmen:BADX		
-GPM917269	M	sollte(n)	V												sollen:PART		
 GPM918066	M	die Nacht durcharbeiten	A		das Lehrbuch durcharbeiten										durcharbeiten:PART		
-GPM918482	M	den Bedarf decken	E		jds Bedarf decken												also = meet the demand
+GPM918482	M	den Bedarf an etw D decken	E		jds Bedarf decken												also = meet the demand
 GPM918596	M	zum Gebet rufen (jdn)	CW														
 GPM918717	M	so weit, so gut	E														
 GPM919869	M	um ein Haar	A														
@@ -1452,12 +1430,11 @@ GPM926320	M	im Sitzen	CW
 GPM926753	M	die psychische Krankheit	N												?		
 GPM926909	M	das ist mir egal (o. es)	E												?		omit: 'wie' idioms; see also: macht nichts (=das macht nichts) [on 'never mind' note]
 GPM927098	M	die Spitze des Eisbergs	E		X ist nur die Spitze des Eisbergs	HW	nur die Spitze des Eisbergs sein	https://de.wiktionary.org/wiki/nur_die_Spitze_des_Eisbergs_sein				4	n_idint_4	n_idiom_lt10	nur die Spitze des Eisbergs sein:PART		
-GPM927190	M	die Wissenschaftliche Fachzeitschrift; die Publikation	N														
+GPM927190	M	die wissenschaftliche Fachzeitschrift; die Publikation	N														
 GPM928049	M	die Gesellschaft mit beschränkter Haftung; die GmbH	N		eine GmbH gründen; eine gemeinnützige ~ (gGmbH); ein Anteil an einer GmbH (pl: -e)												a cooperative, not a stock-issuing company; 1: full phrase, 2: abbreviation
 GPM929070	M	kein Theater machen	V														
 GPM929361	M	armer Teufel!	E														
-GPM929467	M	das soziale Netzwerk; die sozialen Medien (oder Media) (Pl.)	N		die sozialen Netzwerke nutzen; auf der sozialen-Netzwerke Seiten										soziales Netzwerk:NOART		
-GPM929781	M	das Tonic Water	N		der Gin Tonic												
+GPM929467	M	das soziale Netzwerk	N		die sozialen Netzwerke nutzen; auf der sozialen-Netzwerke Seiten										soziales Netzwerk:NOART		
 GPM930068	M	es ist angerichtet!	E		das Frühstück anrichten												
 GPM930730	M	etw vorab sehen	V		einen Film vorab sehen												
 GPM930902	M	das fließende Wasser	E												fließend:PART		
@@ -1467,7 +1444,6 @@ GPM933716	M	in der Nacht	A													2.52	omit: bei ~
 GPM935252	M	auf Nummer sicher gehen	RW		man muss auf Nummer sicher gehen	HW	auf Nummer sicher gehen	https://de.wiktionary.org/wiki/auf_Nummer_sicher_gehen				6	n_idint_6	n_idiom_lt10			
 GPM935768	M	Theater spielen	V														
 GPM936835	M	der letzte Rest (einer S.)	N												der Rest:PART		
-GPM936883	M	Last-Minute	A		die Last-Minute-Reise; das Last-Minute-Ticket; der Last-Minute-Flug										last minute:HPFX		
 GPM939272	M	an Land	A		~ gehen; jdn/etw ~ ziehen												
 GPM939586	M	im Oktober	A		im Oktober 2010; im Oktober desselben Jahres											5.53	
 GPM940450	M	die akademische Welt	N												?		
@@ -1485,8 +1461,9 @@ GPM946478	M	ein leuchtendes Beispiel	CW		ein leuchtendes Vorbild
 GPM946887	M	falsch einschätzen; falsch beurteilen; falsch bewerten (jdn/etw)	V												einschätzen:PART; beurteilen:PART; bewerten:PART		incorrectly estimate, incorrectly judge, incorrectly evaluate (assign a value); omit: refl
 GPM947281	M	mit jdm verwandt; in Zusammenhang mit D stehen	A		die Schauspielerin bekam ihre erste große Chance weil sie mit dem Regisseur verwandt war; sie waren verwandte Seelen; sein Tod steht in Zusammenhang mit der Dienstreise, auf der er Malaria geholt hat (o. zugezogen hat)												mit etw _____, in ______ mit etw s_____
 GPM948687	M	alles verlieren	CW		er hat alles verloren												
+GPM948874	M	nicht mögen (jdn/etw)	CW														
 GPM950294	M	den Wasserhahn zudrehen	V												zudrehen:PART	9.5	
-GPM950438	M	zum Thema	E		Literatur zum Thema X												
+GPM950438	M	zum Thema X	E		Literatur zum Thema X												
 GPM950997	M	die Vernunft siegte	CW		am Ende siegte die Vernunft												
 GPM951233	M	jdm die Stange halten	E			HW	jemandem die Stange halten	https://de.wiktionary.org/wiki/jemandem_die_Stange_halten				7	n_idint_7	n_idiom_lt10	jemandem die Stange halten:BADX		
 GPM951267	M	die Tafel Schokolade	N												die Tafel:PART		
@@ -1546,7 +1523,6 @@ GPM987230	M	pro Tag	A		dreimal pro Tag											2.52
 GPM988064	M	bei X ist der Name Programm	CW														
 GPM988094	M	in D eingeschlossen sein	V		Im Preis eingeschlossen sind 3 Übernachtungen und Halbpension.										einschließen:PART		
 GPM988123	M	wieder einschlafen	V		ich konnte nicht wieder einschlafen												
-GPM988725	M	Lieber X; Liebe X; Liebe Grüße	E		mein liebst X; meine liebste X; liebste Grüße; hallo ihr alle; Tausend Küsse aus X												
 GPM989560	M	Gelb sehen	E		die Gelbe Karte sehen												
 GPM989802	M	unglücklich sein	V		er ist tief unglücklich darüber, dass ...											10.3	
 GPM991594	M	die ärztliche Behandlung	N												ärztlich:PART		
@@ -1769,6 +1745,7 @@ GPG086452	G	mit knapper Not	RW	ST		HW	mit knapper Not	https://de.wiktionary.org/
 GPG086500	G	faule Kredite	CW	ST									n_idint_nan	n_idiom_None	faul:PART		
 GPG086626	G	an der Realität einer S. vorbeigehen	CW	ST									n_idint_nan	n_idiom_None	vorbeigehen:PART		
 GPG087505	G	das kann dauern	CW	ST									n_idint_nan	n_idiom_None			
+GPG087939	G	sie beide	CW	EN									n_idint_nan	n_idiom_None			give akk. case
 GPG089505	G	erster Wohnsitz	CW	ST									n_idint_nan	n_idiom_None			
 GPG089555	G	jdn vom Hocker reißen (o. hauen)	RW	ST		HW	jemanden vom Hocker reißen	https://de.wiktionary.org/wiki/jemanden_vom_Hocker_rei%C3%9Fen	HW	jemanden vom Hocker hauen	https://de.wiktionary.org/wiki/jemanden_vom_Hocker_hauen	1	n_idint_1	n_idiom_lt10			
 GPG089925	G	das große Glück	CW	ST									n_idint_nan	n_idiom_None			
@@ -2229,7 +2206,7 @@ GPG277164	G	trockenen Fußes	CW	ST									n_idint_nan	n_idiom_None
 GPG277603	G	dumm gelaufen	RW	ST									n_idint_nan	n_idiom_None	dumm:PART		
 GPG278015	G	etw in Gang setzen; etw in Gang bringen	RW	ST		HW	etwas in Gang setzen	https://de.wiktionary.org/wiki/etwas_in_Gang_setzen	HW	etwas in Gang bringen	https://de.wiktionary.org/wiki/etwas_in_Gang_bringen	176	n_idint_176	n_idiom_gt50			
 GPG278459	G	Fesseln anlegen (jdn)	CW	ST									n_idint_nan	n_idiom_None			
-GPG278653	G	einen Zug bekommen (o. erwischen)	CW	ST									n_idint_nan	n_idiom_None			
+GPG278653	G	einen Zug erwischen	CW	ST									n_idint_nan	n_idiom_None			
 GPG278980	G	X hört auf den Namen X	CW	ST									n_idint_nan	n_idiom_None			
 GPG279561	G	nur eine Nummer sein	RW	DE1O									n_idint_nan	n_idiom_None			
 GPG280223	G	etw sein Eigen nennen	RW	DE1O		HW	etwas sein Eigen nennen	https://de.wiktionary.org/wiki/etwas_sein_Eigen_nennen				21	n_idint_21	n_idiom_10_50			
@@ -2394,6 +2371,7 @@ GPG349343	G	Staub aufwirbeln	RW	DE1O		HW	Staub aufwirbeln	https://de.wiktionary.
 GPG349400	G	jdn um ein Interview bitten	CW	EN									n_idint_nan	n_idiom_None			
 GPG349803	G	jdn zum Reden bringen	RW	EN									n_idint_nan	n_idiom_None			
 GPG350324	G	eine loses Mundwerk haben (o. lockeres)	RW	ST									n_idint_nan	n_idiom_None			
+GPG351188	G	mit den Wölfen heulen	RW	DE1O									n_idint_nan	n_idiom_None			
 GPG352037	G	die Presse machen	CW	DE1									n_idint_nan	n_idiom_None			
 GPG352054	G	im Gefolge (einer S.)	A	DE1									n_idint_nan	n_idiom_None	die Gefolge:PART		
 GPG352716	G	in einem Verhältnis zu etw stehen	CW	ST									n_idint_nan	n_idiom_None	das Verhältnis:PART		
@@ -2408,7 +2386,7 @@ GPG357708	G	Dampf ablassen	RW	ST		HW	Dampf ablassen	https://de.wiktionary.org/wi
 GPG357876	G	unter jds Fuchtel stehen	RW	ST		HW	unter jemandes Fuchtel stehen	https://de.wiktionary.org/wiki/unter_jemandes_Fuchtel_stehen				2	n_idint_2	n_idiom_lt10			
 GPG357951	G	die wachsenden geopolitischen Spannungen	CW	EN									n_idint_nan	n_idiom_None			
 GPG358028	G	mit halbem Ohr (hinhören, zuhören, etc.)	CW	DE1O									n_idint_nan	n_idiom_None			
-GPG358377	G	jdm den Arsch retten	RW	EN									n_idint_nan	n_idiom_None			
+GPG358377	G	jdm den Arsch retten	RW	EN									n_idint_nan	n_idiom_None			use: Arsch
 GPG358896	G	auf dem kurzen Dienstweg	RW	ST									n_idint_nan	n_idiom_None			
 GPG359144	G	Anteil nehmen (an etw)	RW	ST		ENHW	Anteil nehmen	https://en.wiktionary.org/wiki/Anteil_nehmen				226	n_idint_226	n_idiom_gt50			
 GPG359543	G	Schulden abbauen	CW	ST									n_idint_nan	n_idiom_None			
@@ -3291,7 +3269,7 @@ GPG725597	G	Rekord sein	CW	ST									n_idint_nan	n_idiom_None	der Rekord:PART
 GPG725682	G	eine Neigung verspüren, ZUS	CW	EN									n_idint_nan	n_idiom_None			
 GPG726019	G	Schall und Rauch	CW	ST									n_idint_nan	n_idiom_None			
 GPG726024	G	hin und wieder	CW	DE1O		HW	hin und wieder	https://de.wiktionary.org/wiki/hin_und_wieder					n_idint_nan	n_idiom_None			
-GPG726146	G	Finger weg von ...!	CW	EN									n_idint_nan	n_idiom_None			
+GPG726146	G	Finger weg von etw!	CW	EN									n_idint_nan	n_idiom_None			
 GPG727005	G	ins Ziel gehen	RW	EN		ENHW	ins Ziel gehen	https://en.wiktionary.org/wiki/ins_Ziel_gehen				16	n_idint_16	n_idiom_10_50			
 GPG727612	G	jdm den Hof machen	RW	ST		HW	jemandem den Hof machen	https://de.wiktionary.org/wiki/jemandem_den_Hof_machen				40	n_idint_40	n_idiom_10_50			
 GPG727855	G	Fortschritte machen	CW	ST									n_idint_nan	n_idiom_None	Fortschritt:PART		
@@ -3341,6 +3319,7 @@ GPG739563	G	auf der Bremse stehen	CW	ST									n_idint_nan	n_idiom_None
 GPG740078	G	sich in den Hintern treten (o. Arsch)	RW	DE1O									n_idint_nan	n_idiom_None			
 GPG740103	G	zur Ruhe kommen	RW	EN									n_idint_nan	n_idiom_None			
 GPG740230	G	seinen Kummer in Alkohol ertränken	CW	EN									n_idint_nan	n_idiom_None			
+GPG740546	G	ihnen beiden	CW	EN									n_idint_nan	n_idiom_None			give dat. case
 GPG740555	G	Hilfe leisten	CW	ST									n_idint_nan	n_idiom_None			
 GPG740830	G	freie Bahn (bei jdm) haben	A	ST									n_idint_nan	n_idiom_None			
 GPG741060	G	für etw die Hand ins Feuer legen	RW	ST		HW	für etwas die Hand ins Feuer legen	https://de.wiktionary.org/wiki/f%C3%BCr_etwas_die_Hand_ins_Feuer_legen				0	n_idint_0	n_idiom_lt10			
@@ -3497,6 +3476,7 @@ GPG799269	G	Gegenwind bekommen (o. spüren)	RW	ST									n_idint_nan	n_idiom_No
 GPG799371	G	Lügen haben kurze Beine	RW	ST									n_idint_nan	n_idiom_None			
 GPG799632	G	Stellung beziehen	CW	ST									n_idint_nan	n_idiom_None			
 GPG799761	G	jd hat ein Rad ab	RW	DE1O		HW	ein Rad abhaben	https://de.wiktionary.org/wiki/ein_Rad_abhaben				0	n_idint_0	n_idiom_lt10			
+GPG800501	G	in Konkurrenz zu jdm/etw um etw stehen	CW	EN									n_idint_nan	n_idiom_None			give NVV
 GPG800748	G	etw keinen Abbruch tun	RW	ST		HW	etwas keinen Abbruch tun	https://de.wiktionary.org/wiki/etwas_keinen_Abbruch_tun				36	n_idint_36	n_idiom_10_50			
 GPG800807	G	dummes Zeug	N	ST									n_idint_nan	n_idiom_None	das Zeug:PART		
 GPG801388	G	das Licht der Welt erblicken	RW	EN		HW	das Licht der Welt erblicken	https://de.wiktionary.org/wiki/das_Licht_der_Welt_erblicken				32	n_idint_32	n_idiom_10_50			
