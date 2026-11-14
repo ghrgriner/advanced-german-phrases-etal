@@ -1,20 +1,42 @@
 # Overview
 
-This is a small repository with a text file (deck) of advanced German phrases
-(n = ~4000) for learners of German. Currently, we haven't added translations
-or to this public deck, but we might do so in the future. There are over 1400
-example sentences for about 1300 of the phrases. For another 500 of the phrases,
-sentences can be downloaded from German language Wiktionary. We may add a few
-sentences but we will not aim for 100% example coverage in this repository.
-Users can turn to a LLM for example sentences if they feel it's necessary,
-but we feel it's worth noting that even in our (private) deck that we use for
-study, we are missing example sentences for perhaps 30% of these notes.
+This is a small repository with a text file of advanced German phrases
+and high frequency idioms (n = ~4000) for learners for German. There is
+also a file of example companion sentences or longer text excerpts. We refer to
+these files as a 'deck' in the documentation because we intend for users
+to turn this into a flashcard deck for study.
+
+- About half the notes have English translations of the primary German field.
+  This is not to say that only half the deck is usable for flashcards, as we
+  study some cards as cloze sentences. (TBD: how many notes meet either
+  criteria).
+- About 600 - 800 notes have secondary German answers (`de3` field). However,
+  we have not yet provided the English prompts for these.
+- There are over 1500 example sentences (or longer excerpts). These are for
+  about 1400 of the notes. These are mostly made available in cloze (fill-in-the-blank)
+  format where the key German words are replaced by blanks with the answers
+  in a separate field. We don't provide English translations for these sentences.
+  Users who want to use these in a deck will probably want to assemble a complete
+  sentence using CSS to highlight the key words. We will eventually (TBD) provide
+  these in the repository.
+- Audio is not provided.
+- There are some noun phrases and many phrases with verbs. We don't provide
+  plural variants of the noun phrases or verb tenses for the verbs.
+- We'll continue to add content to this deck in the short term. That is, we'll
+  add to the existing notes. We might slightly increase the number of notes as
+  we find more phrases worth including, but large increases in the number of notes
+  are not planned. Users who want example sentences or English translations
+  on 100% of the notes will have to add these themselves, but see discussion
+  below on why 100% coverage may not be attainable or important.
+- We probably will add in the near future an actual flashcard deck in Anki
+  format for users that aren't interested in assembling their own deck out of
+  the provided components.
 
 Two subsets of notes are worth highlighting:
 
-1. The deck contains all high-frequency idioms (that meet this
-   project's 'phrase criterion') from the English-language or
-   German-language Wiktionary (as of 18Jun2025).
+1. The deck contains all high-frequency idioms (that meet this project's
+   'phrase criterion') from the English-language or German-language
+   Wiktionary (as of 18Jun2025).
 
 2. We used [Deutsch im Blick](https://coerll.utexas.edu/dib/index.php) and
    [Grimm Grammar](https://coerll.utexas.edu/gg) as our
@@ -29,7 +51,7 @@ and (2) https://github.com/ghrgriner/deutsch-im-blick.
 
 We use Anki flashcard software for study, so these notes occasionally
 refer to this software, but the deck should be suitable for use
-with other software. (Well, once card prompts are added.)
+with other software.
 
 See [LICENSE.txt](LICENSE.txt) and [DiBGG\_LICENSE.txt](DiBGG_LICENSE.txt) for
 complete license and attribution
@@ -91,6 +113,26 @@ After the table with the card prompts and answers we might include
 supporting information on the card in other fields, such as general
 notes about usage that are too long for the table, words and their
 translations that we often confuse with the target word, etc.
+
+## Incomplete examples and English translations
+
+Not all the cards have English translations or example sentences. In some
+cases we have example sentences in our private deck that we have not shared
+here. These may be on cards where the example sentence is the primary
+answer (e.g., a cloze drill), so such notes might be unusable until we find
+a suitable replacement. However, in many cases the example sentences are
+secondary information that we only look at when needed. For these notes, an
+example sentece that we suppressed is not very important. In fact, even in
+our private deck, we are missing example sentences on about 30% of these
+notes.
+
+English translations might be missing because we don't always bother
+creating them in our own deck for notes we study as cloze drills. Also,
+while some German idioms have clear equivalents in English, others do
+not. There are also notes where we probably could add translations, but
+we haven't yet done so. We prioritized sharing translations first
+for `sheet = 'M'` or `gc_front = 'EN'`, since on these cards the
+English translation or prompt would typically be on the front.
 
 ## Text file contents
 
