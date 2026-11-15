@@ -10,8 +10,8 @@ to turn this into a flashcard deck for study.
   This is not to say that only half the deck is usable for flashcards, as we
   study some cards as cloze sentences. (TBD: how many notes meet either
   criteria).
-- About 600 - 800 notes have secondary German answers (`de3` field). However,
-  we have not yet provided the English prompts for these.
+- About 600 notes have secondary German answers (`de3` field). We have
+  provided English prompts for about 500 of these.
 - There are over 1500 example sentences (or longer excerpts). These are for
   about 1400 of the notes. These are mostly made available in cloze (fill-in-the-blank)
   format where the key German words are replaced by blanks with the answers
