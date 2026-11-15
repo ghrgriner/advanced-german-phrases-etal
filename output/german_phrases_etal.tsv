@@ -376,7 +376,7 @@ GPM244010	M	am zweiten Sonntag im X	CW	on the second Sunday in X [X = a month]		
 GPM244730	M	um Punkt X Uhr	E	at X o'clock on the dot													der Punkt:PART		
 GPM245372	M	die goldenen Zwanziger	N	the Roaring Twenties													⇐		
 GPM245596	M	wie komme ich zu ...?	E	how do I get to the ...?		wie komme ich zum Zoo? [DiB]	how do I get to the Zoo?											10.6	
-GPM245896	M	seine Hausaufgabe abgeben	CW	turn in one's homework		ich habe meine Hausaufgabe gemacht (o. erledigt), aber ich muss sie noch abgeben [me]	I've finished my homework												
+GPM245896	M	seine Hausaufgabe abgeben	CW	turn in one's homework		ich habe meine Hausaufgabe gemacht (o. erledigt), aber ich muss sie noch abgeben	I've finished my homework												
 GPM245985	M	per Luftpost	A	by airmail		etw per Luftpost schicken	send sth via airmail												
 GPM246918	M	eine bittere Pille (zu schlucken)	E	a bitter pill (to swallow)				HW	eine bittere Pille schlucken müssen	https://de.wiktionary.org/wiki/eine_bittere_Pille_schlucken_m%C3%BCssen				0	n_idint_0	n_idiom_lt10	eine bittere Pille schlucken müssen:PART		
 GPM247626	M	Einkauf en gros	N	bulk buying															
@@ -1005,7 +1005,7 @@ GPM641328	M	ich bin X Jahre alt	A	I'm X years old		ich bin achtzehn Jahre alt [D
 GPM642178	M	du hast es gut	E	you have it good (du)															
 GPM642681	M	bei Tage	A	by day															give cognate
 GPM644369	M	Schnee schippen (o. schaufeln)	V	shovel snow													schippen:PART; schaufeln:PART		
-GPM644386	M	eine Geschwindigkeit von X km/h erreichen (von X 'ke em ha')	CW	reach a speed of X km/h (and pronounce the abbreviation)															use abbr
+GPM644386	M	eine Geschwindigkeit von X km/h erreichen (von X 'ke em ha') (o. ein Tempo)	CW	reach a speed of X km/h (and pronounce the abbreviation)															use abbr
 GPM645694	M	versucht sein	A	be tempted		ich bin versucht, ZUS	I'm tempted to do sth												
 GPM645887	M	eines Tages	A	one day (e.g., when narrating a story)															
 GPM645979	M	Einblick in A geben; Einblick in A vermitteln	V			Einblick in A gewähren / bieten	grant / offer insight into sth												
@@ -1520,6 +1520,7 @@ GPM987230	M	pro Tag	A	per day		dreimal pro Tag	three times a day											2.52
 GPM988064	M	bei X ist der Name Programm	CW																
 GPM988094	M	in D eingeschlossen sein	V	be included in sth (e.g., a bill)		im Preis eingeschlossen sind 3 Übernachtungen und Halbpension	three nights and half-board are INCLUDED IN THE PRICE										einschließen:PART		
 GPM988123	M	wieder einschlafen	V	fall back asleep		ich konnte nicht wieder einschlafen	I couldn't get back to sleep												
+GPM989560	M	Gelb sehen	E			die Gelbe Karte sehen													
 GPM989802	M	unglücklich sein	V	be unhappy		er ist tief unglücklich darüber, dass ...	he's deeply unhappy over the fact that ...											10.3	
 GPM991594	M	die ärztliche Behandlung	N	the medical treatment													ärztlich:PART		
 GPM992220	M	die Blätter verfärben sich	E	the leaves are changing color													verfärben:PART		
@@ -2131,6 +2132,7 @@ GPG247348	G	die Schranke überwinden	CW		ST										n_idint_nan	n_idiom_None
 GPG248069	G	hinüber sein	CW		DE1O										n_idint_nan	n_idiom_None			
 GPG248420	G	dem Braten nicht trauen	RW		DE1O										n_idint_nan	n_idiom_None			... sein
 GPG248532	G	Spalier stehen	CW	stand in an honor guard	EN										n_idint_nan	n_idiom_None			
+GPG248970	G	sich zu Wort melden	CW		EN										n_idint_nan	n_idiom_None			
 GPG249304	G	dicke Bretter bohren	RW		DE1O										n_idint_nan	n_idiom_None			
 GPG250140	G	Einspruch erheben	CW		ST										n_idint_nan	n_idiom_None			
 GPG251808	G	sich die Haare schneiden lassen	CW	get a haircut	EN										n_idint_nan	n_idiom_None			
@@ -2339,9 +2341,9 @@ GPG338630	G	der letzte Nagel zu seinem Sarg	CW		ST										n_idint_nan	n_idiom_
 GPG338777	G	Leib und Seele	RW		ST			HW	Leib und Seele	https://de.wiktionary.org/wiki/Leib_und_Seele				32	n_idint_32	n_idiom_10_50			
 GPG339665	G	der Rubel rollt	CW	money is rolling in	DE1										n_idint_nan	n_idiom_None			
 GPG340019	G	jdm die letzte Ehre erweisen	RW		EN										n_idint_nan	n_idiom_None			
+GPG340223	G	jdn auf etw aufmerksam machen	CW		ST										n_idint_nan	n_idiom_None			
 GPG340299	G	bei Tag	CW	by day	DE1										n_idint_nan	n_idiom_None			
 GPG340504	G	zum Teil	A		DE1O										n_idint_nan	n_idiom_None			
-GPG340573	G	ich bin damit nicht einverstanden	CW		ST										n_idint_nan	n_idiom_None			
 GPG341386	G	die anhaltende Erfolglosigkeit (einer S.)	CW		ST										n_idint_nan	n_idiom_None			
 GPG342637	G	an Bedeutung gewinnen	CW	gain significance	EN										n_idint_nan	n_idiom_None			
 GPG342797	G	vor sich hin plätschern	V		ST										n_idint_nan	n_idiom_None	plätschern:PART		
@@ -2372,6 +2374,7 @@ GPG352716	G	in einem Verhältnis zu etw stehen	CW		ST										n_idint_nan	n_idi
 GPG353793	G	einen Streich spielen (jdm)	RW	play a prank (on sb)	EN										n_idint_nan	n_idiom_None			
 GPG354026	G	mit jdm auf Du und Du stehen	RW		DE1O										n_idint_nan	n_idiom_None			
 GPG354293	G	die Hosen anhaben	CW		ST										n_idint_nan	n_idiom_None			
+GPG355444	G	jdm ähnlich sehen	CW		EN										n_idint_nan	n_idiom_None			
 GPG355778	G	Wurzeln schlagen	RW		ST			ENHW	Wurzeln schlagen	https://en.wiktionary.org/wiki/Wurzeln_schlagen				16	n_idint_16	n_idiom_10_50			
 GPG356007	G	etwas/nichts gegen etw haben	CW	have something / nothing against sb	DE1										n_idint_nan	n_idiom_None			
 GPG356201	G	von Kopf bis Fuß	RW		ST										n_idint_nan	n_idiom_None			
@@ -3065,7 +3068,6 @@ GPG639223	G	fündig werden	RW		ST			ENHW	fündig werden	https://en.wiktionary.or
 GPG639590	G	überdrüssig sein (einer S. [G])	A		DE1O										n_idint_nan	n_idiom_None			
 GPG641098	G	sich eine goldene Nase verdienen	RW		ST			HW	sich eine goldene Nase verdienen	https://de.wiktionary.org/wiki/sich_eine_goldene_Nase_verdienen				1	n_idint_1	n_idiom_lt10			
 GPG641189	G	an die Reihe kommen	CW		ST										n_idint_nan	n_idiom_None			
-GPG641395	G	ich kann dir/Ihnen nicht zustimmen	CW		ST										n_idint_nan	n_idiom_None			
 GPG641869	G	Paroli bieten	RW		ST			HW	Paroli bieten	https://de.wiktionary.org/wiki/Paroli_bieten				30	n_idint_30	n_idiom_10_50			
 GPG641980	G	das gibt's doch nicht!	CW		DE1O										n_idint_nan	n_idiom_None			
 GPG642722	G	zur Tat schreiten	CW		EN										n_idint_nan	n_idiom_None			
@@ -3374,7 +3376,6 @@ GPG762048	G	optional erhältlich	CW		ST										n_idint_nan	n_idiom_None	erhäl
 GPG762738	G	in Erscheinung treten	CW	make an appearance	EN										n_idint_nan	n_idiom_None			
 GPG763195	G	seinen Ausgang nehmen	RW		ST										n_idint_nan	n_idiom_None			
 GPG763580	G	sich die Hände reiben	RW		ST										n_idint_nan	n_idiom_None			
-GPG763860	G	gegen jds Vorschlag sein	CW		ST										n_idint_nan	n_idiom_None			
 GPG763992	G	sich auf den Weg machen	RW	set off	EN										n_idint_nan	n_idiom_None			
 GPG764037	G	sich freuen wie ein Schneekönig	RW		ST			HW	sich freuen wie ein Schneekönig	https://de.wiktionary.org/wiki/sich_freuen_wie_ein_Schneek%C3%B6nig				0	n_idint_0	n_idiom_lt10			
 GPG764689	G	jdm bleibt bei etw die Luft weg	CW		EN										n_idint_nan	n_idiom_None			
@@ -3470,6 +3471,7 @@ GPG799269	G	Gegenwind bekommen (o. spüren)	RW		ST										n_idint_nan	n_idiom_
 GPG799371	G	Lügen haben kurze Beine	RW		ST										n_idint_nan	n_idiom_None			
 GPG799632	G	Stellung beziehen	CW		ST										n_idint_nan	n_idiom_None			
 GPG799761	G	jd hat ein Rad ab	RW		DE1O			HW	ein Rad abhaben	https://de.wiktionary.org/wiki/ein_Rad_abhaben				0	n_idint_0	n_idiom_lt10			
+GPG800501	G	in Konkurrenz zu jdm/etw um etw stehen	CW		EN										n_idint_nan	n_idiom_None			give NVV
 GPG800748	G	etw keinen Abbruch tun	RW		ST			HW	etwas keinen Abbruch tun	https://de.wiktionary.org/wiki/etwas_keinen_Abbruch_tun				36	n_idint_36	n_idiom_10_50			
 GPG800807	G	dummes Zeug	N		ST										n_idint_nan	n_idiom_None	das Zeug:PART		
 GPG801388	G	das Licht der Welt erblicken	RW	first see the light of day	EN			HW	das Licht der Welt erblicken	https://de.wiktionary.org/wiki/das_Licht_der_Welt_erblicken				32	n_idint_32	n_idiom_10_50			
@@ -3557,6 +3559,7 @@ GPG836296	G	die Kräfte einer P. schwinden	CW		ST										n_idint_nan	n_idiom_N
 GPG836526	G	eine Debatte lostreten ()	CW		ST										n_idint_nan	n_idiom_None			
 GPG836571	G	am Himmel	CW		ST										n_idint_nan	n_idiom_None			
 GPG837056	G	die Schuhe schnüren	CW		ST										n_idint_nan	n_idiom_None			
+GPG837195	G	jdm etw Tür und Tor öffnen	CW		EN										n_idint_nan	n_idiom_None			
 GPG837615	G	sein Leben verlieren	CW		ST										n_idint_nan	n_idiom_None			
 GPG838069	G	in Amt und Würden	RW		ST			HW	in Amt und Würden	https://de.wiktionary.org/wiki/in_Amt_und_W%C3%BCrden				13	n_idint_13	n_idiom_10_50			
 GPG838152	G	festen Boden unter die Füße bekommen	CW		ST										n_idint_nan	n_idiom_None			
