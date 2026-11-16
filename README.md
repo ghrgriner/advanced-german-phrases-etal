@@ -4,12 +4,12 @@ This is a small repository with a text file of advanced German phrases
 and high frequency idioms (n = ~4000) for learners for German. There is
 also a file of example companion sentences or longer text excerpts. We refer to
 these files as a 'deck' in the documentation because we intend for users
-to turn this into a flashcard deck for study.
+to turn this into a flashcard deck for study and we provide a deck for
+the notes with sufficiently complete information.
 
 - About half the notes have English translations of the primary German field.
-  This is not to say that only half the deck is usable for flashcards, as we
-  study some cards as cloze sentences. (TBD: how many notes meet either
-  criteria).
+  This is not to say that the other cards are unusable, as we
+  study some cards as cloze sentences.
 - About 600 notes have secondary German answers (`de3` field). We have
   provided English prompts for about 500 of these.
 - There are over 1500 example sentences (or longer excerpts). These are for
@@ -19,6 +19,8 @@ to turn this into a flashcard deck for study.
   Users who want to use these in a deck will probably want to assemble a complete
   sentence using CSS to highlight the key words. We will eventually (TBD) provide
   these in the repository.
+- We provide a deck with n=2204 notes. The selection criteria for the
+  deck used is given on the wiki.
 - Audio is not provided.
 - There are some noun phrases and many phrases with verbs. We don't provide
   plural variants of the noun phrases or verb tenses for the verbs.
