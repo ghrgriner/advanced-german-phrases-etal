@@ -1,0 +1,33 @@
+.card {
+    font-family: arial;
+    font-size: 20px;
+    text-align: left;
+    color: black;
+    background-color: white;
+}
+
+.highlight {
+color: DarkBlue;
+font-weight: bold;
+display:inline-block;
+}
+
+.prompt_hint {
+color: DarkRed;
+/* font-weight: bold; */
+display:inline-block;
+}
+
+.hint {
+background-color: yellow;
+display:inline-block;
+}
+
+
+th, td {
+padding: 15px;
+}
+
+table, th, td {
+border: 1px solid black;
+}
