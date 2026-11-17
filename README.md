@@ -21,7 +21,9 @@ the notes with sufficiently complete information.
   these in the repository.
 - We provide a deck with n=2204 notes. There is also an updated text file that
   can be loaded with n=2408 notes. The selection criteria for the
-  deck used is given on the wiki.
+  deck used is given on the wiki. The deck only has one card type and we
+  provide the front and back templates and styling in text files as well for
+  users that prefer not to use the pre-made .apkg deck.
 - Audio is not provided.
 - There are some noun phrases and many phrases with verbs. We don't provide
   plural variants of the noun phrases or verb tenses for the verbs.
@@ -31,50 +33,38 @@ the notes with sufficiently complete information.
   are not planned. Users who want example sentences or English translations
   on 100% of the notes will have to add these themselves, but see discussion
   below on why 100% coverage may not be attainable or important.
-- We probably will add in the near future an actual flashcard deck in Anki
-  format for users that aren't interested in assembling their own deck out of
-  the provided components.
 
 Two subsets of notes are worth highlighting:
 
-1. The deck contains all high-frequency idioms (that meet this project's
+1. The text file contains all high-frequency idioms (that meet this project's
    'phrase criterion') from the English-language or German-language
    Wiktionary (as of 18Jun2025).
 
 2. We used [Deutsch im Blick](https://coerll.utexas.edu/dib/index.php) and
    [Grimm Grammar](https://coerll.utexas.edu/gg) as our
    first-year textbook and companion grammar and therefore
-   this deck contains vocabulary from those sources
+   this text file contains vocabulary from those sources
    meeting the phrase criteria.
 
 For both of the above, we have separate repositories where we
 describe in detail the extraction process and we have indicators in
-this deck for notes meeting either of these criteria. See (1) https://github.com/ghrgriner/german-idiom-freq
+the text files and deck for notes meeting either of these criteria.
+See (1) https://github.com/ghrgriner/german-idiom-freq
 and (2) https://github.com/ghrgriner/deutsch-im-blick.
 
 We use Anki flashcard software for study, so these notes occasionally
-refer to this software, but the deck should be suitable for use
+refer to this software, but the text files should be suitable for use
 with other software.
 
 See [LICENSE.txt](LICENSE.txt) and [DiBGG\_LICENSE.txt](DiBGG_LICENSE.txt) for
 complete license and attribution
 details for Wiktionary, Deutsch im Blick, Grimm Grammar, and for this repository.
 
-# Repository contents
-
-Currently the repository contains only the deck file `german_phrases_etal.tsv`
-in the output/ directory and documentation. In the future we will likely
-add code. For example, we will probably provide the code that
-goes from answer template (with blanks) and answer field to a complete
-(and formatted) sentence on the card's back. (We don't use Anki's
-'cloze card' template, but interested users should be able to process the
-card to use this template if desired.)
-
 # Deck contents
 
 ## Overview
 
-We have restricted the deck to notes in our vocabulary list
+We have restricted the entries in our vocabulary list to notes
 where the headword contains a space. Generally, we construct the
 headword by removing any leading definite article or 'sich' and
 proceed until the first '(' or '['. However, there are some notes
@@ -86,11 +76,13 @@ manually assign the headword to the infinitive.
 
 ## Card types
 
-We will start by describing how we store our vocabulary internally.
+We will start by describing how we store our vocabulary internally
+to provide motivation for some decisions on the file structure.
 
 We use two worksheets to store our vocabulary for German. One sheet
 contains words or phrases we think one is likely to encounter in
-most languages. We call this the 'Main' sheet. The other sheet is for
+most languages. We call this the 'Main' sheet (sheet=='M' in this
+repository). The other sheet is for
 German-specific lexical entries and synonyms. For example, 'ein Stachel
 in Fleisch sein' is on the 'Main' sheet and 'ein Dorn im Auge sein'
 is on the German sheet. This is to make the 'Main' sheet cards easier,
