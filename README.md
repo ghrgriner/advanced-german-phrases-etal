@@ -19,7 +19,8 @@ the notes with sufficiently complete information.
   Users who want to use these in a deck will probably want to assemble a complete
   sentence using CSS to highlight the key words. We will eventually (TBD) provide
   these in the repository.
-- We provide a deck with n=2204 notes. The selection criteria for the
+- We provide a deck with n=2204 notes. There is also an updated text file that
+  can be loaded with n=2408 notes. The selection criteria for the
   deck used is given on the wiki.
 - Audio is not provided.
 - There are some noun phrases and many phrases with verbs. We don't provide
