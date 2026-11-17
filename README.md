@@ -7,20 +7,17 @@ these files as a 'deck' in the documentation because we intend for users
 to turn this into a flashcard deck for study and we provide a deck for
 the notes with sufficiently complete information.
 
-- About half the notes have English translations of the primary German field.
+- Almost 3000 notes have English translations of the primary German field.
   This is not to say that the other cards are unusable, as we
   study some cards as cloze sentences.
 - About 600 notes have secondary German answers (`de3` field). We have
-  provided English prompts for about 500 of these.
+  provided English prompts for most of these.
 - There are over 1500 example sentences (or longer excerpts). These are for
   about 1400 of the notes. These are mostly made available in cloze (fill-in-the-blank)
   format where the key German words are replaced by blanks with the answers
   in a separate field. We don't provide English translations for these sentences.
-  Users who want to use these in a deck will probably want to assemble a complete
-  sentence using CSS to highlight the key words. We will eventually (TBD) provide
-  these in the repository.
 - We provide a deck with n=2204 notes. There is also an updated text file that
-  can be loaded with n=2408 notes. The selection criteria for the
+  can be loaded with n=3292 notes. The selection criteria for the
   deck used is given on the wiki. The deck only has one card type and we
   provide the front and back templates and styling in text files as well for
   users that prefer not to use the pre-made .apkg deck.
