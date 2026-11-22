@@ -1,0 +1,108 @@
+{{#sheet_is_M}}
+→D
+  <table><tr><td>{{en1}}        ({{part_of_speech}}) {{n_de1}} {{#de1_hint}} <span class=hint>({{de1_hint}})</span>{{/de1_hint}}</td><td>{{de1}}</td></tr>
+{{/sheet_is_M}}
+{{^sheet_is_M}}
+  {{#gc_front_is_EN}}
+→D
+    <table><tr><td>{{en1}}       ({{part_of_speech}}) {{n_de1}} {{#de1_hint}} <span class=hint>({{de1_hint}})</span>{{/de1_hint}}</td><td>{{de1}}</td></tr>
+  {{/gc_front_is_EN}}
+  {{#gc_front_is_ST}}
+→D{{#en1}}/E{{/en1}}
+    <table><tr><td>[see table]   ({{part_of_speech}}) {{n_de1}} {{#de1_hint}} <span class=hint>({{de1_hint}})</span>{{/de1_hint}}</td>
+<td>
+{{#en1}}{{de1}}<hr>{{en1}}{{/en1}}
+{{^en1}}{{de1}}          {{/en1}}
+</td></tr>
+  {{/gc_front_is_ST}}
+  {{#gc_front_is_DE1_or_DE1O}}
+→{{#de_answer}}D{{#en1}}/E{{/en1}}{{/de_answer}}{{^de_answer}}E{{/de_answer}}
+    <table><tr><td>{{de1}}       ({{part_of_speech}})           {{#de1_hint}} <span class=hint>({{de1_hint}})</span>{{/de1_hint}}</td>
+<td>
+{{#de_answer}}{{#en1}}{{de_answer}}{{#de_ans_cit}} [*]{{/de_ans_cit}}<hr>{{en1}}{{/en1}}{{/de_answer}}
+{{#de_answer}}{{^en1}}{{de_answer}}{{#de_ans_cit}} [*]{{/de_ans_cit}}{{/en1}}{{/de_answer}}
+{{^de_answer}}{{#en1}}{{en1}}                {{/en1}}{{/de_answer}}
+</td></tr>
+  {{/gc_front_is_DE1_or_DE1O}}
+{{/sheet_is_M}}
+
+{{#sheet_is_M}}
+  {{#de3p_1}}<tr><td>{{de3p_1}}</td><td>{{de3_1}}</td></tr>{{/de3p_1}}
+  {{#de3p_2}}<tr><td>{{de3p_2}}</td><td>{{de3_2}}</td></tr>{{/de3p_2}}
+  {{#de3p_3}}<tr><td>{{de3p_3}}</td><td>{{de3_3}}</td></tr>{{/de3p_3}}
+  {{#de3p_4}}<tr><td>{{de3p_4}}</td><td>{{de3_4}}</td></tr>{{/de3p_4}}
+  {{#de3p_5}}<tr><td>{{de3p_5}}</td><td>{{de3_5}}</td></tr>{{/de3p_5}}
+</table>
+<br>
+{{#exc_filled_1}}{{exc_filled_1}} [a]<hr>{{/exc_filled_1}}
+{{#exc_filled_2}}{{exc_filled_2}} [b]<hr>{{/exc_filled_2}}
+{{#exc_filled_3}}{{exc_filled_3}} [b]<hr>{{/exc_filled_3}}
+<div style='font-family: Liberation Sans; font-size: 14px;'>
+{{#exc_filled_1}}[a] {{ex_cit_1}}<br>{{/exc_filled_1}}
+{{#exc_filled_2}}[b] {{ex_cit_2}}<br>{{/exc_filled_2}}
+{{#exc_filled_3}}[b] {{ex_cit_3}}<br>{{/exc_filled_3}}
+</div>
+{{/sheet_is_M}}
+
+{{^sheet_is_M}}
+  {{^gc_front_is_DE1O}}
+    {{^ex_ob_1}}{{#exc_template_1}}<tr><td>{{exc_filled_1}}{{#ex_cit_1}} [a]{{/ex_cit_1}}{{#ex_hint_1}} <span class=hint>({{ex_hint_1}})</span>{{/ex_hint_1}}</td><td>{{exc_answer_1}}</td></tr>{{/exc_template_1}}{{/ex_ob_1}}
+    {{^ex_ob_2}}{{#exc_template_2}}<tr><td>{{exc_filled_2}}{{#ex_cit_2}} [b]{{/ex_cit_2}}{{#ex_hint_2}} <span class=hint>({{ex_hint_2}})</span>{{/ex_hint_2}}</td><td>{{exc_answer_2}}</td></tr>{{/exc_template_2}}{{/ex_ob_2}}
+    {{^ex_ob_3}}{{#exc_template_3}}<tr><td>{{exc_filled_3}}{{#ex_cit_3}} [c]{{/ex_cit_3}}{{#ex_hint_3}} <span class=hint>({{ex_hint_3}})</span>{{/ex_hint_3}}</td><td>{{exc_answer_3}}</td></tr>{{/exc_template_3}}{{/ex_ob_3}}
+    {{^ex_ob_4}}{{#exc_template_4}}<tr><td>{{exc_filled_4}}{{#ex_cit_4}} [d]{{/ex_cit_4}}{{#ex_hint_4}} <span class=hint>({{ex_hint_4}})</span>{{/ex_hint_4}}</td><td>{{exc_answer_4}}</td></tr>{{/exc_template_4}}{{/ex_ob_4}}
+  {{/gc_front_is_DE1O}}
+</table>
+<br>
+{{#gc_front_is_DE1O}}
+    {{#exc_template_1}}{{exc_filled_1}}{{#ex_cit_1}} [a]{{/ex_cit_1}}<br>{{/exc_template_1}}
+    {{#exc_template_2}}{{exc_filled_2}}{{#ex_cit_2}} [b]{{/ex_cit_2}}<br>{{/exc_template_2}}
+    {{#exc_template_3}}{{exc_filled_3}}{{#ex_cit_3}} [c]{{/ex_cit_3}}<br>{{/exc_template_3}}
+    {{#exc_template_4}}{{exc_filled_4}}{{#ex_cit_4}} [d]{{/ex_cit_4}}<br>{{/exc_template_4}}
+{{/gc_front_is_DE1O}}
+{{^gc_front_is_DE1O}}
+  {{#ex_ob_1}}{{#exc_template_1}}<tr><td>{{exc_filled_1}}{{#ex_cit_1}} [a]{{/ex_cit_1}}<br>{{/exc_template_1}}{{/ex_ob_1}}
+  {{#ex_ob_2}}{{#exc_template_2}}<tr><td>{{exc_filled_2}}{{#ex_cit_2}} [b]{{/ex_cit_2}}<br>{{/exc_template_2}}{{/ex_ob_2}}
+  {{#ex_ob_3}}{{#exc_template_3}}<tr><td>{{exc_filled_3}}{{#ex_cit_3}} [c]{{/ex_cit_3}}<br>{{/exc_template_3}}{{/ex_ob_3}}
+  {{#ex_ob_4}}{{#exc_template_4}}<tr><td>{{exc_filled_4}}{{#ex_cit_4}} [d]{{/ex_cit_4}}<br>{{/exc_template_4}}{{/ex_ob_4}}
+{{/gc_front_is_DE1O}}
+<br>
+<div style='font-family: Liberation Sans; font-size: 14px;'>
+{{#gc_front_is_DE1_or_DE1O}}
+  {{#de_ans_cit}}[*]
+    {{de_ans_cit}}{{#de_ans_cit_more}} See page for more options.{{/de_ans_cit_more}}<br>
+  {{/de_ans_cit}}
+{{/gc_front_is_DE1_or_DE1O}}
+{{#ex_cit_1}}[a] {{ex_cit_1}}<br>{{/ex_cit_1}}
+{{#ex_cit_2}}[b] {{ex_cit_2}}<br>{{/ex_cit_2}}
+{{#ex_cit_3}}[c] {{ex_cit_3}}<br>{{/ex_cit_3}}
+{{#ex_cit_4}}[d] {{ex_cit_4}}<br>{{/ex_cit_4}}
+</div>
+{{/sheet_is_M}}
+
+{{#wk_cit_1}}
+<div style='font-family: Liberation Sans; font-size: 14px;'>
+<hr>
+{{wk_cit_1}}
+</div>
+{{/wk_cit_1}}
+
+{{#wk_cit_2}}
+<div style='font-family: Liberation Sans; font-size: 14px;'>
+<hr>
+{{wk_cit_2}}
+</div>
+{{/wk_cit_2}}
+
+{{#dib_chapter_list}}
+<div style='font-family: Liberation Sans; font-size: 14px;'>
+<hr>
+This card uses content from <a href="https://coerll.utexas.edu/dib/">Deutsch im Blick</a>
+or <a href="https://coerll.utexas.edu/gg/">Grimm Grammar</a> by Dr. Zsuszanna Abrams
+(<a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>).
+The chapter(s) and section(s) used are: {{dib_chapter_list}}
+(formatted as [chapter].[section]).
+For Grimm Grammar pages (sections >= 50), see
+<a href="https://github.com/ghrgriner/deutsch-im-blick/wiki/Grammar-Sections-Included-With-Each-Chapter">here</a>
+for the URL for each section.
+</div>
+{{/dib_chapter_list}}

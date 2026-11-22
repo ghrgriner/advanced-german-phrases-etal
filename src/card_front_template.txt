@@ -1,0 +1,40 @@
+
+{{#sheet_is_M}}
+→D
+<table><tr><td>{{en1}}        ({{part_of_speech}}) {{n_de1}} {{#de1_hint}} <span class=hint>({{de1_hint}})</span>{{/de1_hint}}</td><td> &nbsp;</td></tr>
+{{/sheet_is_M}}
+{{^sheet_is_M}}
+  {{#gc_front_is_EN}}
+→D
+<table><tr><td>{{en1}}       ({{part_of_speech}}) {{n_de1}} {{#de1_hint}} <span class=hint>({{de1_hint}})</span>{{/de1_hint}}</td><td> &nbsp;</td></tr>
+  {{/gc_front_is_EN}}
+  {{#gc_front_is_ST}}
+→D{{#en1}}/E{{/en1}}
+<table><tr><td>[see table]   ({{part_of_speech}}) {{n_de1}} {{#de1_hint}} <span class=hint>({{de1_hint}})</span>{{/de1_hint}}</td><td> &nbsp;</td></tr>
+  {{/gc_front_is_ST}}
+  {{#gc_front_is_DE1_or_DE1O}}
+→{{#de_answer}}D{{#en1}}/E{{/en1}}{{/de_answer}}{{^de_answer}}E{{/de_answer}}
+<table><tr><td>{{de1}}       ({{part_of_speech}})           {{#de1_hint}} <span class=hint>({{de1_hint}})</span>{{/de1_hint}}</td><td> &nbsp;</td></tr>
+  {{/gc_front_is_DE1_or_DE1O}}
+{{/sheet_is_M}}
+
+{{#sheet_is_M}}
+  {{#de3p_1}}<tr><td>{{de3p_1}}</td><td>&nbsp;</td></tr>{{/de3p_1}}
+  {{#de3p_2}}<tr><td>{{de3p_2}}</td><td>&nbsp;</td></tr>{{/de3p_2}}
+  {{#de3p_3}}<tr><td>{{de3p_3}}</td><td>&nbsp;</td></tr>{{/de3p_3}}
+  {{#de3p_4}}<tr><td>{{de3p_4}}</td><td>&nbsp;</td></tr>{{/de3p_4}}
+  {{#de3p_5}}<tr><td>{{de3p_5}}</td><td>&nbsp;</td></tr>{{/de3p_5}}
+</table>
+<br>
+{{/sheet_is_M}}
+
+{{^sheet_is_M}}
+  {{^gc_front_is_DE1O}}
+    {{^ex_ob_1}}{{#exc_template_1}}<tr><td>{{exc_template_1}}{{#ex_hint_1}} <span class=hint>({{ex_hint_1}})</span>{{/ex_hint_1}}</td><td>&nbsp;</td></tr>{{/exc_template_1}}{{/ex_ob_1}}
+    {{^ex_ob_2}}{{#exc_template_2}}<tr><td>{{exc_template_2}}{{#ex_hint_2}} <span class=hint>({{ex_hint_2}})</span>{{/ex_hint_2}}</td><td>&nbsp;</td></tr>{{/exc_template_2}}{{/ex_ob_2}}
+    {{^ex_ob_3}}{{#exc_template_3}}<tr><td>{{exc_template_3}}{{#ex_hint_3}} <span class=hint>({{ex_hint_3}})</span>{{/ex_hint_3}}</td><td>&nbsp;</td></tr>{{/exc_template_3}}{{/ex_ob_3}}
+    {{^ex_ob_4}}{{#exc_template_4}}<tr><td>{{exc_template_4}}{{#ex_hint_4}} <span class=hint>({{ex_hint_4}})</span>{{/ex_hint_4}}</td><td>&nbsp;</td></tr>{{/exc_template_4}}{{/ex_ob_4}}
+  {{/gc_front_is_DE1O}}
+</table>
+<br>
+{{/sheet_is_M}}

@@ -1,0 +1,147 @@
+# Overview
+
+This is a small repository with a text file of advanced German phrases
+and high frequency idioms (n = ~4000) for learners for German. There is
+also a file of example companion sentences or longer text excerpts. We refer to
+these files as a 'deck' in the documentation because we intend for users
+to turn this into a flashcard deck for study and we provide a deck for
+the notes with sufficiently complete information.
+
+- Almost 3000 notes have English translations of the primary German field.
+  This is not to say that the other cards are unusable, as we
+  study some cards as cloze sentences.
+- About 600 notes have secondary German answers (`de3` field). We have
+  provided English prompts for most of these.
+- There are over 1500 example sentences (or longer excerpts). These are for
+  about 1400 of the notes. These are mostly made available in cloze (fill-in-the-blank)
+  format where the key German words are replaced by blanks with the answers
+  in a separate field. We don't provide English translations for these sentences.
+- We provide a deck with n=2204 notes. There is also an updated text file that
+  can be loaded with n=3292 notes. The selection criteria for the
+  deck used is given on the wiki. The deck only has one card type and we
+  provide the front and back templates and styling in text files as well for
+  users that prefer not to use the pre-made .apkg deck.
+- Audio is not provided.
+- There are some noun phrases and many phrases with verbs. We don't provide
+  plural variants of the noun phrases or verb tenses for the verbs.
+- We'll continue to add content to this deck in the short term. That is, we'll
+  add to the existing notes. We might slightly increase the number of notes as
+  we find more phrases worth including, but large increases in the number of notes
+  are not planned. Users who want example sentences or English translations
+  on 100% of the notes will have to add these themselves, but see discussion
+  below on why 100% coverage may not be attainable or important.
+
+Two subsets of notes are worth highlighting:
+
+1. The text file contains all high-frequency idioms (that meet this project's
+   'phrase criterion') from the English-language or German-language
+   Wiktionary (as of 18Jun2025).
+
+2. We used [Deutsch im Blick](https://coerll.utexas.edu/dib/index.php) and
+   [Grimm Grammar](https://coerll.utexas.edu/gg) as our
+   first-year textbook and companion grammar and therefore
+   this text file contains vocabulary from those sources
+   meeting the phrase criteria.
+
+For both of the above, we have separate repositories where we
+describe in detail the extraction process and we have indicators in
+the text files and deck for notes meeting either of these criteria.
+See (1) https://github.com/ghrgriner/german-idiom-freq
+and (2) https://github.com/ghrgriner/deutsch-im-blick.
+
+We use Anki flashcard software for study, so these notes occasionally
+refer to this software, but the text files should be suitable for use
+with other software.
+
+See [LICENSE.txt](LICENSE.txt) and [DiBGG\_LICENSE.txt](DiBGG_LICENSE.txt) for
+complete license and attribution
+details for Wiktionary, Deutsch im Blick, Grimm Grammar, and for this repository.
+
+# Deck contents
+
+## Overview
+
+We have restricted the entries in our vocabulary list to notes
+where the headword contains a space. Generally, we construct the
+headword by removing any leading definite article or 'sich' and
+proceed until the first '(' or '['. However, there are some notes
+where this rule will not work and we assign the headword manually
+(see `de_headword`). There may be a few notes where this manual
+assignment slipped through the cracks. For example, generally for
+notes of the form 'sich + prepositional phrase + infinitive', we
+manually assign the headword to the infinitive.
+
+## Card types
+
+We will start by describing how we store our vocabulary internally
+to provide motivation for some decisions on the file structure.
+
+We use two worksheets to store our vocabulary for German. One sheet
+contains words or phrases we think one is likely to encounter in
+most languages. We call this the 'Main' sheet (sheet=='M' in this
+repository). The other sheet is for
+German-specific lexical entries and synonyms. For example, 'ein Stachel
+in Fleisch sein' is on the 'Main' sheet and 'ein Dorn im Auge sein'
+is on the German sheet. This is to make the 'Main' sheet cards easier,
+because it's unrealistic to ask oneself to produce many German answers
+for a given note. If we think the two synonyms have similar frequency,
+we might provide hints on each card (e.g., 'not: Dorn').
+
+On the German sheet, we might make the answer
+be German (or both German + English, but in practice, if a German answer
+is required, we typically just produce the German for studying and use the
+English for reference if we fail the card).
+
+We format each card as a table with (usually, see `gc_front`) the
+German headword or its English translation in the first row of the
+table. The plural of nouns, adjective comparative, or verb forms
+are in the second row on the back of the card. The second row is
+empty on the front. Any additional answers that we want to make ourselves
+produce are in additional rows of the table. For 'Main' sheet notes,
+we generally use English prompts for each row. For 'German' sheet notes,
+the prompts can be more complex (see `gc_front` below).
+
+After the table with the card prompts and answers we might include
+supporting information on the card in other fields, such as general
+notes about usage that are too long for the table, words and their
+translations that we often confuse with the target word, etc.
+
+## Incomplete examples and English translations
+
+Not all the cards have English translations or example sentences. In some
+cases we have example sentences in our private deck that we have not shared
+here. These may be on cards where the example sentence is the primary
+answer (e.g., a cloze drill), so such notes might be unusable until we find
+a suitable replacement. However, in many cases the example sentences are
+secondary information that we only look at when needed. For these notes, an
+example sentence that we suppressed is not very important. In fact, even in
+our private deck, we are missing example sentences on about 30% of these
+notes.
+
+English translations might be missing because we don't always bother
+creating them in our own deck for notes we study as cloze drills. Also,
+while some German idioms have clear equivalents in English, others do
+not. There are also notes where we probably could add translations, but
+we haven't yet done so. We prioritized sharing translations first
+for `sheet = 'M'` or `gc_front = 'EN'`, since on these cards the
+English translation or prompt would typically be on the front.
+
+## Text file contents
+
+The fields for `output/german_phrases_etal.tsv` and `output/german_phrases_examples.tsv`
+are documented in the wiki [here](https://github.com/ghrgriner/advanced-german-phrases-etal/wiki/Text-file-fields).
+
+# Wiki
+
+The repository [wiki](https://github.com/ghrgriner/advanced-german-phrases-etal/wiki) has
+some further discussion.
+The wiki home page linked has the recommended reading order.
+
+# Trademark Notice
+
+Wiktionary and Wikipedia are trademarks of the Wikimedia Foundation and
+are used with the permission of the Wikimedia Foundation. We are not
+endorsed by or affiliated with the Wikimedia Foundation.
+
+Anki is a registered trademark of Ankitects Pty Ltd.
+We are not endorsed by or affiliated with Ankitects Pty Ltd.
