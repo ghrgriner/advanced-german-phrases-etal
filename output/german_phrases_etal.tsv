@@ -180,7 +180,6 @@ GPM116918	M	Y	eine Operation am Kopf	CW	an operation on one's head								eine O
 GPM117096	M	Y	sieben Hundertstel (einer S.)	O	7/100 (einer S.)																			Hundertstel:PART		
 GPM117804	M	Y	auf Bitten (einer P.) (o. Bitte)	CW	at the request (of sb)								auf Bitten des Königs ...	at the request of the king												
 GPM118049	M	Y	gut gelaunt	A	in a good mood								X gelaunt sein	in an X mood											8.2	
-GPM118219	M	Y	es kommt noch hinzu, dass ...	E	there is also the fact that ...																			hinzukommen:PART		
 GPM119518	M	N	zutiefst zuwider	A									X ist mir zuwider													
 GPM119607	M	Y	ich heiße ...	E	my name is ...																				1.2	
 GPM119965	M	Y	[see table]	A	asleep (e.g., "he's asleep")								er schläft	he's asleep										schlafen:PART		[see table]
@@ -224,7 +223,7 @@ GPM137510	M	Y	Hausaufgabe aufgeben; Hausaufgabe geben (jdm)	CW	give out homework
 GPM138818	M	Y	die Realität anerkennen	N	face the facts (fig.)								wir müssen die Realität anerkennen	we have to face the facts												
 GPM139212	M	Y	auf der Durchreise sein	V	be travelling through																			die Durchreise:PART		
 GPM141692	M	Y	es schneit	E	it is snowing																			schneien:PART	6.13	
-GPM143124	M	Y	in den vergangenen Jahrzehnten	A	in the past decades								in den kommenden Jahrzehnten	in the coming decades												
+GPM143124	M	Y	in den vergangenen Jahrzehnten	A	in the past decades																					
 GPM144213	M	Y	Gewichte heben	V	lift weights																				7.2	
 GPM144925	M	N	nicht sonderlich	A									nicht sonderlich begeistert													
 GPM145115	M	Y	weggehen wie warme Semmeln	E	sell like hot cakes										HW	weggehen wie warme Semmeln	https://de.wiktionary.org/wiki/weggehen_wie_warme_Semmeln				0	n_idint_0	n_idiom_lt10			
@@ -279,11 +278,11 @@ GPM177840	M	Y	das Dritte Reich	N	Third Reich																			Drittes Reich:NOA
 GPM178079	M	Y	die saure Gurke	N	the pickle																			?		
 GPM178697	M	Y	nach eigenem Eingeständnis	A	by his own admission																					
 GPM179878	M	Y	sich für einen Kurs anmelden	V	register for a course																					
-GPM180191	M	Y	sich mit jdm in Verbindung setzen; erreichen (jdn)	V	get in touch with sb								X ist unter der Telefonnummber ABC zu erreichen (o. X ist zu erreichen unter der ...)	X can be reached at the phone number ABC												3 answers: get in contact with sb, by phone, in writing
+GPM180191	M	Y	sich mit jdm in Verbindung setzen; erreichen (jdn)	V	get in touch with sb								X ist unter der Telefonnummber ABC zu erreichen (o. X ist zu erreichen unter der ...)	X can be reached at the phone number ABC								n_idint_nan	n_idiom_None			3 answers: get in contact with sb, by phone, in writing
 GPM182500	M	Y	ich weiß nur eins:	E	I know just one thing:																					
 GPM182560	M	N	Butter bei die Fische (ugs)	E									jetzt mal ~		HW	Butter bei die Fische	https://de.wiktionary.org/wiki/Butter_bei_die_Fische				0	n_idint_0	n_idiom_lt10			
 GPM182591	M	Y	bei jdm etwas erreichen	E	get somewhere with sb																			erreichen:PART		
-GPM182909	M	Y	im letzten Jahrzehnt	A	in the last decade								im nächsten Jahrzehnt	in the next decade												
+GPM182909	M	Y	im letzten Jahrzehnt	A	in the last decade																					
 GPM182991	M	Y	jdn/etw ernst nehmen	V	take sb/sth seriously																					
 GPM185390	M	Y	je ... desto/umso ...	E	the ... the ... (as in: 'the bigger they are, the harder they fall')								je mehr X, desto mehr Y; je mehr Arten, desto mehr Nischen (o. umso)	the more X, the more Y; the more species, the more niches								n_idint_nan	n_idiom_None	je:PART		
 GPM185656	M	Y	heilig sprechen (jdn)	V	canonize (sb)																					
@@ -339,7 +338,7 @@ GPM221979	M	Y	der obere Teil; das Top (Kleidung)	N	top (clothing)
 GPM222488	M	Y	wie fühlst du dich?	E	how do you feel?								ich fühle mich ...	I feel ...												du
 GPM223028	M	Y	auf sein Gewicht achten	V	watch one's weight																					omit: Linie, Figur, etc.
 GPM223278	M	Y	guten Tag!	A	good day!																				2.52	
-GPM223855	M	Y	sein Wort halten (o. Versprechen)	V	keep one's word																					
+GPM223855	M	Y	sein Wort halten (o. Versprechen)	V	keep one's word																					omit: ein~
 GPM224041	M	Y	Dreck am Stecken haben	E	have skeletons in one's closet										HW	Dreck am Stecken haben	https://de.wiktionary.org/wiki/Dreck_am_Stecken_haben				0	n_idint_0	n_idiom_lt10			omit: eine Leiche ...
 GPM225566	M	Y	gut drauf sein	V	be in a good mood																					omit: Laune
 GPM226012	M	Y	die gestiegenen Kosten (Pl.)	CW	the increased costs								die gestiegene Nachfrage	the increased demand										gestiegen:PART		
@@ -353,6 +352,7 @@ GPM229114	M	N	in groben Zügen	A									in großen Zügen
 GPM230153	M	Y	das anonyme Grab	CW	the unmarked grave																					
 GPM231351	M	Y	ein Ass im Ärmel haben	RW	have an ace up one's sleeve										HW	ein Ass im Ärmel haben	https://de.wiktionary.org/wiki/ein_Ass_im_%C3%84rmel_haben				2	n_idint_2	n_idiom_lt10			
 GPM231783	M	Y	am häufigsten	A	most often																					
+GPM232370	M	Y	in den nächsten zwei Jahrzehnten	CW	in the next two decades																					
 GPM233634	M	Y	leicht zu beeindrucken	A	impressionable								sie ist zu ~	she is too ~										beeindrucken:PART		
 GPM233722	M	Y	das ist mir auch schon passiert	A	that also happened to me																			?		
 GPM233988	M	Y	in der ersten Hälfte des zwanzigsten Jahrhunderts	E	in the first half of the 20th century																					
@@ -599,6 +599,7 @@ GPM395203	M	Y	jdm etw an den Augen ablesen (o. von den)	V	see sth in sb's face
 GPM395342	M	Y	Schlag auf Schlag	E	in rapid succession																					
 GPM396205	M	Y	glatt wie ein Kinderpopo	E	smooth as a ... [and give noun]																					
 GPM399135	M	Y	im allgemeinen; generell	A	generally, in general																					
+GPM400375	M	Y	im nächsten Jahrzehnt	CW	in the next decade																					
 GPM401344	M	Y	jdm die Hand geben; jdm die Hand schütteln	V	shake sb's hand								nach dem Spiel haben die Trainers sich die Hände geschüttelt	after the game, the coaches shook hands												2 diff verbs
 GPM401763	M	Y	einer auf den anderen	A	one after another																					
 GPM401836	M	Y	das kleine Finale	N	third-place game																			kleines Finale:NOART		
@@ -747,7 +748,7 @@ GPM484315	M	Y	jdm den Spiegel vorhalten	E	hold a mirror up to sb
 GPM484461	M	Y	eines Abends	A	one evening (introducing a story or narrating a story)								zuerst X. Aber eines Abends ...	first X (happened). then one evening ...											10.53	
 GPM484990	M	Y	das geht doch nicht	CW	that just isn't done																					
 GPM486008	M	Y	jdm/etw die Stirn bieten (geh)	E	stand up to sb/sth								du musst ihm die Stirn bieten!	you have to stand up to him!	HW	die Stirn bieten	https://de.wiktionary.org/wiki/die_Stirn_bieten				15	n_idint_15	n_idiom_10_50	die Stirn bieten:BADX		geh
-GPM486253	M	Y	mit der Post schicken (etw) (o. verschecken / usw.)	V	mail (sth)																					focus on prep phrase, as many verbs are possible
+GPM486253	M	Y	mit der Post schicken (etw) (o. verschicken / usw.)	V	mail (sth)																					focus on prep phrase, as many verbs are possible
 GPM488516	M	Y	jdm ein Geheimnis verraten	E	tell sb a secret (that should not be told)								wer hat Ihnen das Geheimnis verraten?	who told you the secret?												
 GPM488615	M	Y	müde werden	V	tire ()																					
 GPM490103	M	Y	meine Damen und Herren	E	'ladies and gentlemen ...' (when beginning a speech to a crowd)																					
@@ -773,6 +774,7 @@ GPM503422	M	Y	X ist im Rohen fertig	E	a rough draft of X is ready															
 GPM503528	M	Y	sein Glück in etw finden	CW	find one's happiness in sth																					
 GPM503722	M	Y	die Neugier auf etw befriedigen	E	satisfy one's curiosity about sth																			?		
 GPM503872	M	Y	herzlichen Glückwunsch zum Geburtstag!	E	happy birthday!																			herzlichen Glückwunsch:PART		
+GPM503977	M	Y	zu viele	O	too many (pronoun)																					
 GPM504214	M	Y	entweder ... oder ...	A	either																			entweder … oder:BADX	2.51	
 GPM506679	M	Y	jdn traurig / froh machen	A	make sb sad / happy																					
 GPM506880	M	Y	Hochmut kommt vor dem Fall	CW	pride goeth before the fall																					
@@ -1073,7 +1075,7 @@ GPM684375	M	Y	in der Theorie	E	in theory								in der Theorie klang das prima, 
 GPM685457	M	Y	seien Sie X!	A	be X! (Sie)								sei X!; seid X!	be X! (du); be X! (ihr)												Sie form
 GPM685848	M	Y	die gemeinnützige Organisation	N	the non-profit organization																			?		
 GPM686451	M	Y	einen Preis für etw nennen	V	set a price on sth								den Preis für etwas festsetzen	change verb												state a price for sth
-GPM687264	M	Y	in den letzten zwei Jahrzehnten	A	in the last two decades								in den nächsten 2 Jahrzehnten	in the next 2 decades												
+GPM687264	M	Y	in den letzten zwei Jahrzehnten	A	in the last two decades																					
 GPM688707	M	Y	vor der Küste (gen. / von irgendwo)	A	off the coast (of somewhere)								das Schiff sank X Kilometer vor der Küste Spaniens (o. von Spanien)	the ship sank X kilometers off the coast of Spain												
 GPM690331	M	Y	die geschlossene Ortschaft	CW	the built-up area (under which different traffic rules apply)																					
 GPM690751	M	N	je nach [dat.]; je nachdem	A	depending on (sth)								je nachdem!; je nachdem, wann / wie / ob; je nach Gegner sind [zwischen 20 und 40 Fans in der Kneipe]; sollen wir das Spiel zusammen sehen? - je nachdem, ob [ich ein Vorlesungsgespräch habe]											je:PART		
@@ -1188,6 +1190,7 @@ GPM755493	M	Y	leiser stellen (etw); leiser machen (etw); runterdrehen (etw)	V	tu
 GPM756517	M	Y	Schiffe versenken (Spiel)	N	pen and paper game that simulates a naval battle																					
 GPM757918	M	Y	sich die Zähne putzen	V	brush one's teeth								ich putze mir die Zähne; ich muss mir länger die Zähne putzen	I'm brushing my teeth; I have to brush my teeth longer										putzen:PART	3.1,7.51	
 GPM758300	M	Y	freut mich!; angenehm!	E	pleased to meet you								es ist nett, dich kennen zu lernen [DiB]; es ist nett, Sie kennen zu lernen [DiB]; es freut mich, dich kennen zu lernen [DiB]; es freut mich, Sie kennen zu lernen [DiB]	it's nice to meet you (du); it's nice to meet you (Sie); I'm glad to meet you (du); I'm glad to meet you (Sie)											1.3	
+GPM758385	M	Y	in den kommenden Jahrzehnten	CW	in the coming decades																					
 GPM759014	M	Y	globale Erwärmung; die Klimaerwärmung	N	global warming								der Klimawandel	the climate change												1: global warming, 2: warming of the climate
 GPM760549	M	Y	ein bisschen	A	a little (quantifier) (adv)								ich bin ein bisschen müde	I'm a little tired										bisschen:PART		give: 'a bit'
 GPM760630	M	Y	ich auch nicht	E	me neither																				3.51	
@@ -1237,6 +1240,7 @@ GPM785142	M	Y	Tag der deutschen Einheit	N	Unification Day (Germany)								3. Ok
 GPM788328	M	Y	er schämt sich für sein Land	E	he's ashamed of his country																					
 GPM789658	M	Y	auf der sicheren Seite sein	E	be on the safe side																	n_idint_nan	n_idiom_None			
 GPM789807	M	Y	die ärtzliche Schweigepflicht	E	the doctor-patient confidentiality																			?		duty of ~ (adj + noun)
+GPM791623	M	Y	einen Alarm auslösen	CW	set off an alarm																					
 GPM795057	M	N	jdm einen Bären aufbinden	V											HW	jemandem einen Bären aufbinden	https://de.wiktionary.org/wiki/jemandem_einen_B%C3%A4ren_aufbinden				0	n_idint_0	n_idiom_lt10	jemandem einen Bären aufbinden:BADX		use an animal
 GPM795467	M	Y	das Wegwerfen von Müll	N	littering								Müll wegwerfen verboten	No Littering (e.g., on a sign)										?		
 GPM796297	M	Y	wie steht mir ...?; wie sehe ich in ... aus?	E	how do I look in ...?								wie steht mir diese Bluse?; wie sehe ich in dieser Bluse aus?	how do I look in this blouse?; give diff. phrase												
@@ -1351,7 +1355,7 @@ GPM872425	M	N	an sich; per se	A
 GPM872627	M	Y	Hals über Kopf	E	head over heels (e.g., in love)								sich ~ verlieben	be ~ in love	HW	Hals über Kopf	https://de.wiktionary.org/wiki/Hals_%C3%BCber_Kopf				30	n_idint_30	n_idiom_10_50			
 GPM872636	M	N	auf Platz eins stehen; auf dem ersten Platz stehen	A	be in first place								auf dem ersten Platz landen (o. auf Platz eins landen); liegen	end up in first place												1-2: be in ...
 GPM872837	M	Y	braun gebrannt	A	sun-tannen																					
-GPM873300	M	Y	seine einzige Sorge ist ...	E	his only conern is ...																					
+GPM873300	M	Y	seine einzige Sorge ist ...	E	his only concern is ...								gilt	change verb												
 GPM873665	M	Y	keine Miene verziehen	E	not bat an eyelash (fig.)																	n_idint_nan	n_idiom_None			omit: ohne
 GPM873899	M	Y	noch ein-	A	another								nehmen Sie bitte, noch eine Dose / ein Glas / einen Stuhl	please take another can / glass / chair (Sie)										noch:PART		
 GPM874024	M	N	Regie führen ([bei etw])	V																				die Regie:PART		
@@ -1438,6 +1442,7 @@ GPM929361	M	Y	armer Teufel!	E	poor devil!, poor sod!
 GPM929467	M	N	das soziale Netzwerk	N	the social network								die sozialen Netzwerke nutzen; auf der sozialen-Netzwerke Seiten											soziales Netzwerk:NOART		
 GPM930068	M	Y	es ist angerichtet!	E	dinner is served! (or whatever meal)								das Frühstück anrichten	finish preparing the breakfast												
 GPM930730	M	Y	etw vorab sehen	V	preview sth								einen Film vorab sehen	preview a film												
+GPM930837	M	Y	zu viel	O	too much (pronoun)																					
 GPM930902	M	Y	das fließende Wasser	E	the running water																			fließend:PART		
 GPM932253	M	N	sich D die Ohren zuhalten	E									sich die Nase zuhalten; sie hat sich die Ohren / Augen / Mund / Nase zugehalten													
 GPM933650	M	N	Krethi und Plethi	E																						
@@ -1834,7 +1839,6 @@ GPG125632	G	N	durch den Wind sein	RW		DE1	DE1								ENHW	durch den Wind	https:/
 GPG126561	G	Y	Wert auf etw legen	CW	place value in sth	ST	ST															n_idint_nan	n_idiom_None			
 GPG126699	G	Y	es jdm recht machen	RW		ST	ST								HW	es jemandem recht machen	https://de.wiktionary.org/wiki/es_jemandem_recht_machen				26	n_idint_26	n_idiom_10_50			
 GPG127001	G	Y	gedacht sein	RW		ST	ST								HW	gedacht sein	https://de.wiktionary.org/wiki/gedacht_sein				1038	n_idint_1038	n_idiom_gt50			
-GPG128562	G	Y	einen Alarm auslösen	CW	set off an alarm	EN	EN															n_idint_nan	n_idiom_None			
 GPG128708	G	Y	unter der Woche	RW		ST	ST								HW	unter der Woche	https://de.wiktionary.org/wiki/unter_der_Woche				57	n_idint_57	n_idiom_gt50			
 GPG129089	G	Y	kotzen wie ein Reiher	RW		ST	ST															n_idint_nan	n_idiom_None			
 GPG130387	G	Y	die Stirn haben	RW	have the gall, chutzpah, etc. (to do sth)	ST	ST								HW	die Stirn haben	https://de.wiktionary.org/wiki/die_Stirn_haben				17	n_idint_17	n_idiom_10_50			
@@ -2635,7 +2639,6 @@ GPG460387	G	Y	das Herz auf der Zunge tragen	RW	say what one thinks (e.g., like '
 GPG460415	G	Y	unauflöslich verbunden mit etw	CW	irrevocably tied to sth (related to sth, etc.)	EN	EN															n_idint_nan	n_idiom_None			
 GPG460457	G	N	jdm auf die Füße fallen	RW		ST	ST															n_idint_nan	n_idiom_None			
 GPG460846	G	N	auf lange Sicht	RW		ST	ST															n_idint_nan	n_idiom_None			
-GPG461886	G	N	sich mit jdm in Verbindung setzen (o. treten)	CW		DE1O	DE1O															n_idint_nan	n_idiom_None			
 GPG462052	G	Y	an einer Blume riechen	CW	smell a flower (lit.)	ST	ST															n_idint_nan	n_idiom_None			
 GPG462523	G	Y	die Show stehlen (jdm/)	RW	steal the show	DE1O	ST															n_idint_nan	n_idiom_None			
 GPG462597	G	Y	zur Hölle fahren; in die Hölle kommen	CW	go to hell	DE1O	ST															n_idint_nan	n_idiom_None			
