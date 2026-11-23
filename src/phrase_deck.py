@@ -24,7 +24,7 @@ OUTPUT_FILE = '../output/german_phrases_deck.tsv'
 FIELDS_FILE = '../output/german_phrases_deck_fields.tsv'
 
 OUTVARS = ['note_id','sheet_is_M','en1','de1','de1_hint','part_of_speech',
-    'de_answer','de_ans_cit','de_ans_cit_more',
+    'de_answer','de_ans_cit','de_ans_cit_more','related_entries',
     'gc_front_is_DE1O','gc_front_is_DE1_or_DE1O','gc_front_is_EN',
     'gc_front_is_ST','n_de1','dib_chapter_list',
     'de3_1','de3p_1','de3_2','de3p_2','de3_3','de3p_3',

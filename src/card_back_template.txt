@@ -33,7 +33,7 @@
   {{#de3p_4}}<tr><td>{{de3p_4}}</td><td>{{de3_4}}</td></tr>{{/de3p_4}}
   {{#de3p_5}}<tr><td>{{de3p_5}}</td><td>{{de3_5}}</td></tr>{{/de3p_5}}
 </table>
-<br>
+{{#related_entries}}<br>Related entries: {{related_entries}}<hr>{{/related_entries}}
 {{#exc_filled_1}}{{exc_filled_1}} [a]<hr>{{/exc_filled_1}}
 {{#exc_filled_2}}{{exc_filled_2}} [b]<hr>{{/exc_filled_2}}
 {{#exc_filled_3}}{{exc_filled_3}} [b]<hr>{{/exc_filled_3}}
@@ -52,7 +52,7 @@
     {{^ex_ob_4}}{{#exc_template_4}}<tr><td>{{exc_filled_4}}{{#ex_cit_4}} [d]{{/ex_cit_4}}{{#ex_hint_4}} <span class=hint>({{ex_hint_4}})</span>{{/ex_hint_4}}</td><td>{{exc_answer_4}}</td></tr>{{/exc_template_4}}{{/ex_ob_4}}
   {{/gc_front_is_DE1O}}
 </table>
-<br>
+{{#related_entries}}<br>Related entries: {{related_entries}}<hr>{{/related_entries}}
 {{#gc_front_is_DE1O}}
     {{#exc_template_1}}{{exc_filled_1}}{{#ex_cit_1}} [a]{{/ex_cit_1}}<br>{{/exc_template_1}}
     {{#exc_template_2}}{{exc_filled_2}}{{#ex_cit_2}} [b]{{/ex_cit_2}}<br>{{/exc_template_2}}
