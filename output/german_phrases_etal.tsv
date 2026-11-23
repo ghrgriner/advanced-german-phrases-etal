@@ -1557,7 +1557,7 @@ GPG006728	G	Y	vom Tisch sein	RW	be off the table (fig.)	EN	EN								HW	vom Tisc
 GPG006925	G	Y	nicht müde werden	RW	not get tired (of sth)	ST	ST								HW	nicht müde werden	https://de.wiktionary.org/wiki/nicht_m%C3%BCde_werden					10	n_idint_10	n_idiom_10_50			
 GPG007634	G	Y	mit der Zeit gehen	RW	get with the times	ST	ST								ENHW	mit der Zeit gehen	https://en.wiktionary.org/wiki/mit_der_Zeit_gehen					31	n_idint_31	n_idiom_10_50			
 GPG008369	G	Y	die noble Geste	CW	the noble gesture	EN	EN																n_idint_nan	n_idiom_None	nobel:PART		
-GPG008577	G	Y	zu viele Köche verderben den Brei	SPR	too many cooks spoil the broth	EN	EN																n_idint_nan	n_idiom_None			
+GPG008577	G	Y	viele Köche verderben den Brei (o. zu ~)	SPR	too many cooks spoil the broth	EN	EN								HW	viele Köche verderben den Brei	https://de.wiktionary.org/wiki/viele_K%C3%B6che_verderben_den_Brei						n_idint_nan	n_idiom_None			
 GPG008838	G	Y	mit dem Finger auf jdn/etw zeigen	RW	point the finger at sb/sth (blame)	DE1O	ST																n_idint_nan	n_idiom_None			
 GPG009145	G	Y	im Einklang mit etw stehen	CW	be in agreement with sth	ST	ST																n_idint_nan	n_idiom_None			
 GPG009581	G	Y	lieber den Spatz in der Hand als die Taube auf dem Dach (o. besser)	SPR	a bird in the hand is worth two in the bush	ST	ST								HW	lieber den Spatz in der Hand als die Taube auf dem Dach	https://de.wiktionary.org/wiki/lieber_den_Spatz_in_der_Hand_als_die_Taube_auf_dem_Dach						n_idint_nan	n_idiom_None			
@@ -2665,7 +2665,7 @@ GPG472486	G	Y	sein Unwesen treiben	RW		ST	ST																n_idint_nan	n_idiom_
 GPG472724	G	N	Abstand gewinnen	CW		EN	EN																n_idint_nan	n_idiom_None	der Abstand:PART		
 GPG472850	G	Y	im Verdacht stehen, etw getan zu haben	CW	be suspected of having done sth	EN	EN																n_idint_nan	n_idiom_None			
 GPG472884	G	Y	in einem Stück	RW		ST	ST								HW	in einem Stück	https://de.wiktionary.org/wiki/in_einem_St%C3%BCck					56	n_idint_56	n_idiom_gt50			
-GPG473049	G	Y	seine eigenen Gedanken machen	CW	think for oneself	DE1O	ST																n_idint_nan	n_idiom_None			
+GPG473049	G	Y	seine eigenen Gedanken machen (o. sich)	CW	think for oneself	DE1O	ST																n_idint_nan	n_idiom_None			
 GPG473217	G	Y	eine Krankheit kriegen	CW	catch a disease	EN	EN																n_idint_nan	n_idiom_None			
 GPG473779	G	Y	nach Schema F	RW	rotely	EN	EN																n_idint_nan	n_idiom_None			
 GPG473789	G	Y	jdm möglich	A		ST	ST																n_idint_nan	n_idiom_None			
