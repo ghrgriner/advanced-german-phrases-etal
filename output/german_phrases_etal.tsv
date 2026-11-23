@@ -442,7 +442,7 @@ GPM286033	M	Y	welcher Wochentag ist der 1. Januar?	E	what day of the week is Jan
 GPM287105	M	Y	auf eigene Rechnung	A	on one's own account										HW	auf eigene Rechnung	https://de.wiktionary.org/wiki/auf_eigene_Rechnung					90	n_idint_90	n_idiom_gt50			financial acct
 GPM288655	M	N	zugrunde liegen (etw D)	V																							
 GPM289735	M	Y	X Jahre alt-	A	X year-old								die 1000 Jahre alten Artefakte	the 1000 year-old artifacts													
-GPM291594	M	Y	in Schach halten (jdn/etw)	V	keep (sb/sth) in check										HW	in Schach halten	https://de.wiktionary.org/wiki/in_Schach_halten				etwas in Grenzen halten / sich in Grenzen halten	51	n_idint_51	n_idiom_gt50			
+GPM291594	M	Y	in Schach halten (jdn/etw)	V	keep (sb/sth) in check										HW	in Schach halten	https://de.wiktionary.org/wiki/in_Schach_halten				sich in Grenzen halten / etwas in Grenzen halten	51	n_idint_51	n_idiom_gt50			
 GPM291616	M	Y	das freie Zimmer	N	vacancy (e.g., in a hotel)								ein Zimmer frei haben	have a vacancy													
 GPM294205	M	Y	am Vorabend	A	on the night before																					2.52	
 GPM294662	M	Y	strafrechtlich belangen (jdn/etw)	V	prosecute (sb/sth)								Vandalismus wurde strafrechtlich belangt	vandalism was prosecuted													see table
@@ -1528,6 +1528,7 @@ GPM987230	M	Y	pro Tag	A	per day								dreimal pro Tag	three times a day								
 GPM988064	M	N	bei X ist der Name Programm	CW																							
 GPM988094	M	Y	in D eingeschlossen sein	V	be included in sth (e.g., a bill)								im Preis eingeschlossen sind 3 Übernachtungen und Halbpension	three nights and half-board are INCLUDED IN THE PRICE											einschließen:PART		
 GPM988123	M	Y	wieder einschlafen	V	fall back asleep								ich konnte nicht wieder einschlafen	I couldn't get back to sleep													
+GPM988900	M	Y	du bist mir noch eine Erklärung schuldig! [deWK]	E	you still owe me an explanation!																				schuldig:PART		
 GPM989560	M	Y	Gelb sehen	E	get a yellow card								die Gelbe Karte sehen	change noun to two words													
 GPM989802	M	Y	unglücklich sein	V	be unhappy								er ist tief unglücklich darüber, dass ...	he's deeply unhappy over the fact that ...												10.3	
 GPM991594	M	Y	die ärztliche Behandlung	N	the medical treatment																				ärztlich:PART		
@@ -1602,7 +1603,7 @@ GPG028470	G	Y	der ärgste Feind	CW	the worst enemy	ST	ST																n_idint_
 GPG029526	G	N	sich geschlagen geben	RW		EN	EN								ENHW	sich geschlagen geben	https://en.wiktionary.org/wiki/sich_geschlagen_geben					825	n_idint_825	n_idiom_gt50			
 GPG030027	G	Y	Fuß fassen	RW		ST	ST								HW	Fuß fassen	https://de.wiktionary.org/wiki/Fu%C3%9F_fassen					444	n_idint_444	n_idiom_gt50			
 GPG030126	G	N	sich A etw D beugen	V		ST	ST																n_idint_nan	n_idiom_None	beugen:PART		
-GPG030178	G	Y	zur See fahren	RW	put out to see	ST	ST								HW	zur See fahren	https://de.wiktionary.org/wiki/zur_See_fahren				in See gehen / in See stechen	65	n_idint_65	n_idiom_gt50			
+GPG030178	G	Y	zur See fahren	RW	put out to see	ST	ST								HW	zur See fahren	https://de.wiktionary.org/wiki/zur_See_fahren				in See stechen / in See gehen	65	n_idint_65	n_idiom_gt50			
 GPG031150	G	Y	etw Vorschub leisten	CW		ST	ST																n_idint_nan	n_idiom_None			
 GPG031220	G	Y	auf dem hohen Ross sitzen (o. seinem)	CW	sit on one's high horse (be haughty, etc.)	EN	EN																n_idint_nan	n_idiom_None			
 GPG032308	G	N	Zeugnis von etw ablegen	CW		ST	ST																n_idint_nan	n_idiom_None			
@@ -1622,7 +1623,7 @@ GPG037848	G	Y	eine Zeit lang	RW	for some time	EN	EN																n_idint_nan	n
 GPG037883	G	Y	bei Kämpfen getötet	CW	killed in fighting	EN	EN																n_idint_nan	n_idiom_None			
 GPG037952	G	Y	Verbindung mit jdm halten	CW	keep in contact with sb	ST	ST																n_idint_nan	n_idiom_None			
 GPG037993	G	Y	einen Xen Kurs steuern	CW	steer an X course	EN	EN																n_idint_nan	n_idiom_None			
-GPG038524	G	Y	jdm auf den Senkel gehen	RW		DE1O	DE1O	jdm auf die Nerven gehen	https://de.wiktionary.org/w/index.php?title=jemandem_auf_den_Keks_gehen&oldid=10209731	2025-01-27	SYN	Y			HW	jemandem auf den Senkel gehen	https://de.wiktionary.org/wiki/jemandem_auf_den_Senkel_gehen				auf den Sack gehen / auf die Nerven gehen / jemandem auf den Wecker fallen / jemandem auf den Wecker gehen	0	n_idint_0	n_idiom_lt10			
+GPG038524	G	Y	jdm auf den Senkel gehen	RW		DE1O	DE1O	jdm auf die Nerven gehen	https://de.wiktionary.org/w/index.php?title=jemandem_auf_den_Keks_gehen&oldid=10209731	2025-01-27	SYN	Y			HW	jemandem auf den Senkel gehen	https://de.wiktionary.org/wiki/jemandem_auf_den_Senkel_gehen				auf die Nerven gehen / auf den Sack gehen / jemandem auf den Wecker fallen / jemandem auf den Wecker gehen	0	n_idint_0	n_idiom_lt10			
 GPG038860	G	Y	auf Tratsch stehen	CW	be into gossip	DE1O	ST																n_idint_nan	n_idiom_None			
 GPG039809	G	Y	wie ein begossener Pudel	RW	with one's tail between one's legs	EN	EN								HW	wie ein begossener Pudel	https://de.wiktionary.org/wiki/wie_ein_begossener_Pudel					0	n_idint_0	n_idiom_lt10			
 GPG039812	G	Y	von klein an	CW	from a young age on	DE1O	DE1O	von klein auf	https://de.wiktionary.org/w/index.php?title=sedan_barnsben&oldid=10691347	2026-06-09	BD	Y											n_idint_nan	n_idiom_None			
@@ -2047,7 +2048,7 @@ GPG212626	G	Y	jd/etw findet Gehör; jdm/etw Gehör schenken	CW	find attention (s
 GPG213248	G	Y	oben ohne	RW	topless	ST	ST								HW	oben ohne	https://de.wiktionary.org/wiki/oben_ohne					13	n_idint_13	n_idiom_10_50			
 GPG213511	G	Y	in den Ferien	CW	on vacation (scheduled break when school / work is closed)	EN	EN																n_idint_nan	n_idiom_None			
 GPG213837	G	Y	den Tod finden	RW	die	DE1O	ST								HW	den Tod finden	https://de.wiktionary.org/wiki/den_Tod_finden					249	n_idint_249	n_idiom_gt50			
-GPG213956	G	Y	das Weite suchen	RW	split, go away	ST	ST								HW	das Weite suchen	https://de.wiktionary.org/wiki/das_Weite_suchen				Leine ziehen / sich aus dem Staub machen / sich vom Acker machen	24	n_idint_24	n_idiom_10_50			
+GPG213956	G	Y	das Weite suchen	RW	split, go away	ST	ST								HW	das Weite suchen	https://de.wiktionary.org/wiki/das_Weite_suchen				sich aus dem Staub machen / Leine ziehen / sich vom Acker machen	24	n_idint_24	n_idiom_10_50			
 GPG213968	G	Y	ein dezenter Hinweis	CW	a subtle hint	ST	ST																n_idint_nan	n_idiom_None			
 GPG214373	G	Y	mitm Arsch nicht angucken (jdn/etw)	A	not look at sb at all (not even with ...)	DE1O	DE1O	<i>umgangssprachlich, salopp</i>: jemanden nicht beachten, jemanden ignorieren	https://de.wiktionary.org/w/index.php?title=jemanden_nicht_mit_dem_Arsch_angucken&oldid=9652751	2023-01-14	BD												n_idint_nan	n_idiom_None			
 GPG214441	G	N	ehe man bis drei zählen kann (o. konnte)	A		DE1O	DE1O																n_idint_nan	n_idiom_None			
@@ -2121,7 +2122,7 @@ GPG240451	G	Y	z. T.	A	in part	DE1O	DE1O	zum Teil	https://de.wiktionary.org/w/ind
 GPG240541	G	Y	jdm/etw übel mitspielen	RW	treat sb/sth poorly	EN	EN																n_idint_nan	n_idiom_None			
 GPG240828	G	Y	sein volles Potenzial abrufen	CW	summon up one's full potential	DE1O	ST																n_idint_nan	n_idiom_None			
 GPG241054	G	Y	auf freiem Fuß sein	RW	be free, not in prison	ST	ST								HW	auf freiem Fuß sein	https://de.wiktionary.org/wiki/auf_freiem_Fu%C3%9F_sein					36	n_idint_36	n_idiom_10_50			
-GPG242474	G	Y	ein Raub der Flammen werden	RW	burn down, burn	EN	EN								HW	ein Raub der Flammen werden	https://de.wiktionary.org/wiki/ein_Raub_der_Flammen_werden				Feuer fangen / in Flammen aufgehen / in Flammen stehen	41	n_idint_41	n_idiom_10_50			
+GPG242474	G	Y	ein Raub der Flammen werden	RW	burn down, burn	EN	EN								HW	ein Raub der Flammen werden	https://de.wiktionary.org/wiki/ein_Raub_der_Flammen_werden				in Flammen aufgehen / Feuer fangen / in Flammen stehen	41	n_idint_41	n_idiom_10_50			
 GPG242695	G	Y	aus zweiter Hand	A	second-hand	ST	ST																n_idint_nan	n_idiom_None			
 GPG243189	G	N	ein bezeichnendes Licht auf jdn/etw werfen	CW		DE1O	DE1O																n_idint_nan	n_idiom_None			
 GPG243374	G	Y	jdn für sich einnehmen	CW		DE1O	DE1O	die Sympathie von jemandem gewinnen	https://de.wiktionary.org/w/index.php?title=einnehmen&oldid=10701864	2026-06-22	BD												n_idint_nan	n_idiom_None			
@@ -2176,8 +2177,8 @@ GPG264757	G	Y	ein Silberstreif am Horizont	RW	a ray of hope on the horizon	DE1O	
 GPG265393	G	Y	eine Anzahl (einer Gruppe)	N	a number (of a group)	DE1O	ST																n_idint_nan	n_idiom_None			
 GPG266425	G	Y	die Augen verdrehen	CW	roll one's eyes	DE1O	ST																n_idint_nan	n_idiom_None			
 GPG266780	G	N	jdm ins Auge stechen (o. springen, o. in die Augen)	RW		ST	ST																n_idint_nan	n_idiom_None			
-GPG267387	G	Y	jdm auf den Wecker gehen (o. fallen)	RW	get on one's nerves	DE1O	ST								HW	jemandem auf den Wecker gehen	https://de.wiktionary.org/wiki/jemandem_auf_den_Wecker_gehen				auf den Sack gehen / auf die Nerven gehen / jemandem auf den Senkel gehen / jemandem auf den Wecker fallen	0	n_idint_0	n_idiom_lt10			
-GPG268071	G	Y	etw in Schutt und Asche legen	RW	burn something up soe it becomes ...	ST	ST								HW	etwas in Schutt und Asche legen	https://de.wiktionary.org/wiki/etwas_in_Schutt_und_Asche_legen					47	n_idint_47	n_idiom_10_50			
+GPG267387	G	Y	jdm auf den Wecker gehen (o. fallen)	RW	get on sb's nerves	ST	ST								HW	jemandem auf den Wecker gehen	https://de.wiktionary.org/wiki/jemandem_auf_den_Wecker_gehen				auf die Nerven gehen / auf den Sack gehen / jemandem auf den Senkel gehen / jemandem auf den Wecker fallen	0	n_idint_0	n_idiom_lt10			
+GPG268071	G	Y	etw in Schutt und Asche legen	RW	burn something up so it becomes ...	ST	ST								HW	etwas in Schutt und Asche legen	https://de.wiktionary.org/wiki/etwas_in_Schutt_und_Asche_legen					47	n_idint_47	n_idiom_10_50			
 GPG268620	G	Y	um Haaresbreite	RW	by a hair	DE1O	DE1O	um ein Haar (fast, sehr Knapp)	https://de.wiktionary.org/w/index.php?title=haarscharf&oldid=10535688	2026-01-24	SYN												n_idint_nan	n_idiom_None			
 GPG268702	G	Y	die Trunkenheit im Verkehr	CW	the drunk driving	ST	ST																n_idint_nan	n_idiom_None			
 GPG268963	G	Y	reißenden Absatz finden	RW	sell well (but not: like hot cakes)	DE1O	ST								HW	reißenden Absatz finden	https://de.wiktionary.org/wiki/rei%C3%9Fenden_Absatz_finden					14	n_idint_14	n_idiom_10_50			
@@ -2429,7 +2430,7 @@ GPG375835	G	Y	sein ganzes Gewicht in die Waagschale werfen (o. sein politisches 
 GPG375914	G	Y	Platz an der Sonne	RW	place in the sun	DE1O	ST																n_idint_nan	n_idiom_None			
 GPG378097	G	Y	etw im Sinn haben	RW	have sth in mind	DE1O	ST																n_idint_nan	n_idiom_None			
 GPG378407	G	N	Kribbeln im Bauch haben	CW		ST	ST																n_idint_nan	n_idiom_None			
-GPG378457	G	N	Leine ziehen	RW		EN	EN								HW	Leine ziehen	https://de.wiktionary.org/wiki/Leine_ziehen				das Weite suchen / sich aus dem Staub machen / sich vom Acker machen	10	n_idint_10	n_idiom_10_50			
+GPG378457	G	N	Leine ziehen	RW		EN	EN								HW	Leine ziehen	https://de.wiktionary.org/wiki/Leine_ziehen				sich aus dem Staub machen / das Weite suchen / sich vom Acker machen	10	n_idint_10	n_idiom_10_50			
 GPG379207	G	Y	für Frust sorgen	CW	cause frustration	DE1O	ST																n_idint_nan	n_idiom_None			
 GPG379846	G	Y	unter Schock stehen	CW	be in shock	EN	EN																n_idint_nan	n_idiom_None			
 GPG380446	G	Y	Ausschau halten	RW	keep an eye out	DE1O	ST								HW	Ausschau halten	https://de.wiktionary.org/wiki/Ausschau_halten					79	n_idint_79	n_idiom_gt50			
@@ -2654,14 +2655,12 @@ GPG466666	G	Y	aufs Tempo drücken	CW	slow down the tempo	ST	ST																n_
 GPG466851	G	Y	mit jdm verheiratet sein	CW	be married to sb	ST	ST																n_idint_nan	n_idiom_None			
 GPG467065	G	N	nun und nimmer(mehrs)	CW		DE1O	DE1O																n_idint_nan	n_idiom_None			
 GPG468444	G	Y	am Werk sein	CW	be at work, active (e.g., thieves are active in the area)	ST	ST																n_idint_nan	n_idiom_None			
-GPG468802	G	Y	ein Versprechen einlösen	CW	keep a promise	DE1O	ST																n_idint_nan	n_idiom_None			
 GPG468817	G	Y	schweren Herzens	RW	with a heavy heart	DE1O	ST								HW	schweren Herzens	https://de.wiktionary.org/wiki/schweren_Herzens					51	n_idint_51	n_idiom_gt50			
 GPG469032	G	Y	jdn bei Laune halten	RW	keep sb in a good mood	EN	EN																n_idint_nan	n_idiom_None			
 GPG470104	G	Y	jdn/etw an die kurze Leine nehmen (o. legen)	RW	put sb/sth on a short leash	DE1O	ST																n_idint_nan	n_idiom_None			
 GPG470156	G	Y	in etw zu Hause sein	RW	be at home somewhere (in a place)	ST	ST								HW	in etwas zu Hause sein	https://de.wiktionary.org/wiki/in_etwas_zu_Hause_sein					15	n_idint_15	n_idiom_10_50			
 GPG470874	G	Y	in See stechen	RW	put out to sea	ST	ST								HW	in See stechen	https://de.wiktionary.org/wiki/in_See_stechen				in See gehen / zur See fahren	89	n_idint_89	n_idiom_gt50			
 GPG471080	G	N	auf den Geschmack kommen	CW		ST	ST																n_idint_nan	n_idiom_None			
-GPG471337	G	Y	sein Wort halten (o. Wort halten)	CW	keep one's word	ST	ST																n_idint_nan	n_idiom_None			
 GPG472486	G	Y	sein Unwesen treiben	RW		ST	ST																n_idint_nan	n_idiom_None			
 GPG472724	G	N	Abstand gewinnen	CW		EN	EN																n_idint_nan	n_idiom_None	der Abstand:PART		
 GPG472850	G	Y	im Verdacht stehen, etw getan zu haben	CW	be suspected of having done sth	EN	EN																n_idint_nan	n_idiom_None			
@@ -3050,7 +3049,7 @@ GPG629355	G	Y	X hat am Image von Y gekratzt	CW	X damaged the image of Y	EN	EN			
 GPG630084	G	Y	jdm die Flügel stutzen	CW	clip sb's wings	EN	EN																n_idint_nan	n_idiom_None			
 GPG630374	G	Y	jdm/sich in den Arsch treten	CW	kick sb/oneself in the ass	DE1O	DE1O																n_idint_nan	n_idiom_None			
 GPG630615	G	Y	im Sterben liegen	RW		ST	ST								HW	im Sterben liegen	https://de.wiktionary.org/wiki/im_Sterben_liegen					110	n_idint_110	n_idiom_gt50			
-GPG631180	G	Y	Feuer fangen	RW	catch fire	DE1O	ST								HW	Feuer fangen	https://de.wiktionary.org/wiki/Feuer_fangen				ein Raub der Flammen werden / in Flammen aufgehen / in Flammen stehen	93	n_idint_93	n_idiom_gt50			
+GPG631180	G	Y	Feuer fangen	RW	catch fire	DE1O	ST								HW	Feuer fangen	https://de.wiktionary.org/wiki/Feuer_fangen				in Flammen aufgehen / ein Raub der Flammen werden / in Flammen stehen	93	n_idint_93	n_idiom_gt50			
 GPG631479	G	Y	die Latte für etw hoch legen	RW	set the bar high for sb	EN	EN																n_idint_nan	n_idiom_None			
 GPG632504	G	Y	im schroffen Gegensatz zu etw stehen (o. mit etw o. scharfen)	CW	in start contrast to sth	DE1O	ST																n_idint_nan	n_idiom_None			
 GPG632777	G	Y	mit etw nichts zu tun haben	RW	have nothing to do with sth	DE1O	ST								HW	mit etwas nichts zu tun haben	https://de.wiktionary.org/wiki/mit_etwas_nichts_zu_tun_haben	HW	mit etwas nichts zu tun haben wollen	https://de.wiktionary.org/wiki/mit_etwas_nichts_zu_tun_haben_wollen		143	n_idint_143	n_idiom_gt50			
@@ -3058,7 +3057,7 @@ GPG635013	G	Y	keine Kosten sparen	CW	spare no expense	EN	EN																n_idi
 GPG635379	G	Y	die Karten auf den Tisch legen	RW	lay one's cards on the table	DE1O	ST																n_idint_nan	n_idiom_None			
 GPG635419	G	Y	wie Kletten zusammenahlten	CW	stick together	DE1O	ST																n_idint_nan	n_idiom_None			
 GPG635482	G	N	sich von der Realität einer S. entfernen	CW		ST	ST																n_idint_nan	n_idiom_None	entfernen:PART		
-GPG636094	G	Y	aus freien Stücken	RW		DE1O	DE1O	freiwillig, von sich aus, aus sich heraus	https://de.wiktionary.org/w/index.php?title=aus_freien_St%C3%BCcken&oldid=10315082	2025-06-27	SYN	Y			HW	aus freien Stücken	https://de.wiktionary.org/wiki/aus_freien_St%C3%BCcken				aus sich heraus / von sich aus	20	n_idint_20	n_idiom_10_50			
+GPG636094	G	Y	aus freien Stücken	RW		DE1O	DE1O	freiwillig, von sich aus, aus sich heraus	https://de.wiktionary.org/w/index.php?title=aus_freien_St%C3%BCcken&oldid=10315082	2025-06-27	SYN	Y			HW	aus freien Stücken	https://de.wiktionary.org/wiki/aus_freien_St%C3%BCcken				von sich aus / aus sich heraus	20	n_idint_20	n_idiom_10_50			
 GPG636156	G	Y	in der Lage sein, etw zu tun	RW	be in the situation to do sth	DE1O	ST								HW	in der Lage sein	https://de.wiktionary.org/wiki/in_der_Lage_sein					2026	n_idint_2026	n_idiom_gt50			
 GPG637942	G	Y	das Bett hüten	RW	be bed-bound (ugs.)	DE1O	ST								HW	das Bett hüten	https://de.wiktionary.org/wiki/das_Bett_h%C3%BCten					11	n_idint_11	n_idiom_10_50			
 GPG638323	G	Y	Eingang in etw finden	RW		ST	ST																n_idint_nan	n_idiom_None			
@@ -3150,7 +3149,7 @@ GPG674156	G	Y	jdn überkommt die Lust ZUS	CW	one is overcome with desire to do s
 GPG674482	G	Y	aufgeschoben ist nicht aufgehoben	CW	delayed isn't the same as removed	DE1O	ST																n_idint_nan	n_idiom_None			
 GPG674555	G	N	Kontur gewinnen (o. annehmen, o. an Kontur gewinnen)	RW		ST	ST																n_idint_nan	n_idiom_None			
 GPG674575	G	Y	ein Dorn im Auge sein	RW		ST	ST								HW	jemandem ein Dorn im Auge sein	https://de.wiktionary.org/wiki/jemandem_ein_Dorn_im_Auge_sein					83	n_idint_83	n_idiom_gt50			
-GPG675830	G	Y	sich vom Acker machen	CW	split, vanish	DE1O	DE1O	sich aus dem Staub machen	https://de.wiktionary.org/w/index.php?title=einen_Abgang_machen&oldid=9634419	2023-01-13	SYN				HW	sich vom Acker machen	https://de.wiktionary.org/wiki/sich_vom_Acker_machen				Leine ziehen / das Weite suchen / sich aus dem Staub machen	0	n_idint_0	n_idiom_lt10			
+GPG675830	G	Y	sich vom Acker machen	CW	split, vanish	DE1O	DE1O	sich aus dem Staub machen	https://de.wiktionary.org/w/index.php?title=einen_Abgang_machen&oldid=9634419	2023-01-13	SYN				HW	sich vom Acker machen	https://de.wiktionary.org/wiki/sich_vom_Acker_machen				sich aus dem Staub machen / Leine ziehen / das Weite suchen	0	n_idint_0	n_idiom_lt10			
 GPG676014	G	Y	sich hinreißen lassen, etw zu tun (o. sich zu D hin~)	V		ST	ST																n_idint_nan	n_idiom_None			
 GPG677196	G	Y	von Vorteil sein (für jdn/etw); zu jds Vorteil	CW		ST	ST																n_idint_nan	n_idiom_None			
 GPG677365	G	Y	im Zentrum des Interesses stehen	RW		ST	ST																n_idint_nan	n_idiom_None			
@@ -3182,7 +3181,7 @@ GPG687888	G	N	in Bewegung geraten	RW		ST	ST																n_idint_nan	n_idiom_N
 GPG688053	G	Y	das alte Lied	RW	the same old song and dance	EN	EN																n_idint_nan	n_idiom_None			
 GPG688556	G	N	bis die Schwarte kracht (o. dass)	CW		DE1O	DE1O																n_idint_nan	n_idiom_None			
 GPG688912	G	N	im Rundfunk	CW		DE1O	DE1O																n_idint_nan	n_idiom_None			
-GPG689356	G	Y	jdm auf den Wecker fallen (o. gehen)	RW	get on sb's nerves	DE1O	ST								HW	jemandem auf den Wecker fallen	https://de.wiktionary.org/wiki/jemandem_auf_den_Wecker_fallen				auf den Sack gehen / auf die Nerven gehen / jemandem auf den Senkel gehen / jemandem auf den Wecker gehen	0	n_idint_0	n_idiom_lt10			
+GPG689356	G	Y	jdm auf den Wecker fallen (o. gehen)	RW	get on sb's nerves	DE1O	ST								HW	jemandem auf den Wecker fallen	https://de.wiktionary.org/wiki/jemandem_auf_den_Wecker_fallen				auf die Nerven gehen / auf den Sack gehen / jemandem auf den Senkel gehen / jemandem auf den Wecker gehen	0	n_idint_0	n_idiom_lt10			
 GPG690514	G	Y	die Meinungen gehen auseinander	CW	the opinions diverge	DE1O	ST																n_idint_nan	n_idiom_None			
 GPG690549	G	Y	bei guter Gesundheit sein	CW	be in good health	EN	EN																n_idint_nan	n_idiom_None			
 GPG690688	G	Y	im Schneidersitz sitzen	CW	be crouched or sitting with legs crossed	EN	EN																n_idint_nan	n_idiom_None			
@@ -3453,7 +3452,7 @@ GPG790423	G	Y	Kräfte bündeln	CW	combine forces	EN	EN																n_idint_na
 GPG790455	G	Y	etw zu Grabe tragen	RW		ST	ST								ENHW	zu Grabe tragen	https://en.wiktionary.org/wiki/zu_Grabe_tragen					35	n_idint_35	n_idiom_10_50			
 GPG790605	G	Y	ein vernichtendes Urteil	A	a ... judgment (add adj.)	DE1O	ST																n_idint_nan	n_idiom_None			
 GPG790883	G	Y	in vorauseilendem Gehorsam	CW		ST	ST																n_idint_nan	n_idiom_None			
-GPG791253	G	Y	aus sich heraus	RW		ST	ST								HW	aus sich heraus	https://de.wiktionary.org/wiki/aus_sich_heraus				aus freien Stücken / von sich aus	25	n_idint_25	n_idiom_10_50			
+GPG791253	G	Y	aus sich heraus	RW		ST	ST								HW	aus sich heraus	https://de.wiktionary.org/wiki/aus_sich_heraus				von sich aus / aus freien Stücken	25	n_idint_25	n_idiom_10_50			
 GPG792468	G	Y	der Ernst des Lebens	CW	the ... of life (starts after childhood)	DE1O	ST																n_idint_nan	n_idiom_None			
 GPG792494	G	Y	X hat seinen Schrecken verloren	CW		ST	ST																n_idint_nan	n_idiom_None	der Schrecken*:PART		
 GPG793446	G	Y	in jüngerer Zeit (o. neuerer)	CW	in recent times	DE1O	ST																n_idint_nan	n_idiom_None			
@@ -3476,7 +3475,7 @@ GPG800748	G	Y	etw keinen Abbruch tun	RW		ST	ST								HW	etwas keinen Abbruch tu
 GPG800807	G	Y	dummes Zeug	N		ST	ST																n_idint_nan	n_idiom_None	das Zeug:PART		
 GPG801388	G	Y	das Licht der Welt erblicken	RW	first see the light of day	EN	EN								HW	das Licht der Welt erblicken	https://de.wiktionary.org/wiki/das_Licht_der_Welt_erblicken					32	n_idint_32	n_idiom_10_50			
 GPG802436	G	Y	für Überraschung sorgen	CW	cause surprise	EN	EN																n_idint_nan	n_idiom_None			
-GPG803463	G	Y	etw in Grenzen halten	RW		ST	ST								HW	etwas in Grenzen halten	https://de.wiktionary.org/wiki/etwas_in_Grenzen_halten				in Schach halten / sich in Grenzen halten	109	n_idint_109	n_idiom_gt50			
+GPG803463	G	Y	etw in Grenzen halten	RW		ST	ST								HW	etwas in Grenzen halten	https://de.wiktionary.org/wiki/etwas_in_Grenzen_halten				sich in Grenzen halten / in Schach halten	109	n_idint_109	n_idiom_gt50			
 GPG803705	G	Y	mit großer Kelle anrichten (o. anrühren)	RW	heap on sth (e.g., like soup)	DE1O	DE1O																n_idint_nan	n_idiom_None			
 GPG805911	G	Y	Wort für Wort	CW		ST	ST																n_idint_nan	n_idiom_None			
 GPG806230	G	Y	lang und breit	RW		ST	ST																n_idint_nan	n_idiom_None			
@@ -3808,7 +3807,7 @@ GPG933073	G	Y	von der Pike auf	RW	from the start	DE1O	DE1O																n_idin
 GPG934054	G	Y	aus Versehen	A		ST	ST																n_idint_nan	n_idiom_None			
 GPG934135	G	Y	dazu gehören aber immer 2	CW	it takes two to tango	EN	EN																n_idint_nan	n_idiom_None			
 GPG934633	G	Y	die menschliche Dummheit	CW	the human stupidity	EN	EN																n_idint_nan	n_idiom_None			
-GPG934812	G	Y	in Flammen stehen	RW		ST	ST								HW	in Flammen stehen	https://de.wiktionary.org/wiki/in_Flammen_stehen				Feuer fangen / ein Raub der Flammen werden / in Flammen aufgehen	61	n_idint_61	n_idiom_gt50			
+GPG934812	G	Y	in Flammen stehen	RW		ST	ST								HW	in Flammen stehen	https://de.wiktionary.org/wiki/in_Flammen_stehen				in Flammen aufgehen / Feuer fangen / ein Raub der Flammen werden	61	n_idint_61	n_idiom_gt50			
 GPG938286	G	N	Zapfen haben	RW		DE1O	DE1O								HW	Zapfen haben	https://de.wiktionary.org/wiki/Zapfen_haben					24	n_idint_24	n_idiom_10_50			
 GPG938577	G	N	jdm ins Wort fallen	RW		EN	EN																n_idint_nan	n_idiom_None			
 GPG938781	G	Y	zu hier essen	CW	eat 'here' (in choice: 'for here or to go')	DE1O	ST																n_idint_nan	n_idiom_None			
