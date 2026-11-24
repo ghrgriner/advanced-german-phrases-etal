@@ -152,6 +152,7 @@ def main():
     ex['ref_url'] = ex.ref_url.fillna('')
     ex['ex_cit'] = ex[['ref_url','ref_dt','pg_cit']].apply(make_citation_ex, axis=1)
     ex['ex_ob'] = np.where(ex.ref_sect == 'BACK', 'Y', '')
+    ex['ex_cit'] = np.where(ex.ref_sect == 'PART', '', ex.ex_cit)
     notes['de_ans_ref_url'] = notes.de_ans_ref_url.fillna('')
     notes['de_ans_cit'] = notes[['de_ans_ref_url','de_ans_ref_dt']].apply(make_citation_de_ref, axis=1)
     notes['de_ans_cit_more'] = notes.de_ans_ref_more
